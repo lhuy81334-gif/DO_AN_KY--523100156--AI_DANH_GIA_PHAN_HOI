@@ -1,0 +1,38 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Activity chi tiết: Thu thập review
+
+start
+:Nhận platform_code và product_id;
+:Tạo ingestion job;
+
+if (Cần phiên trình duyệt?) then (Có)
+  :Kiểm tra browser session;
+  if (Session sẵn sàng?) then (Có)
+    :Dùng cookie/token của session;
+  else (Không)
+    :Yêu cầu seller mở phiên;
+    stop
+  endif
+else (Không)
+  :Dùng API/request thông thường;
+endif
+
+:Duyệt từng mức sao;
+repeat
+  :Gửi request từng trang;
+  if (Có review mới?) then (Có)
+    :Chuẩn hóa dữ liệu;
+    :Loại bỏ trùng lặp;
+    :Lưu MongoDB;
+  else (Không)
+    :Chuyển mức sao tiếp theo;
+  endif
+repeat while (Còn mức sao/trang?)
+
+:Cập nhật job hoàn tất;
+stop
+@enduml

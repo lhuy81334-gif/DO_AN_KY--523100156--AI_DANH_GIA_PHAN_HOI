@@ -1,0 +1,27 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Tính điểm độ tin cậy review
+
+participant "SellerFeedbackService" as Service
+participant "Review Trust Module" as Trust
+participant "Image Evidence Module" as ImageAI
+database "MongoDB" as DB
+
+Service -> DB: Lấy review, aspect, image evidence
+DB --> Service: Dữ liệu phân tích
+
+loop từng review
+  Service -> Trust: Tính điểm rating
+  Trust --> Service: rating_score
+  Service -> Trust: Tính điểm nội dung
+  Trust --> Service: text_score
+  Service -> ImageAI: Lấy điểm bằng chứng ảnh
+  ImageAI --> Service: image_score
+  Service -> Trust: Tổng hợp điểm cuối
+  Trust --> Service: trust_score, trust_label, seller_action
+  Service -> DB: Lưu review_trust_analyses
+end
+@enduml

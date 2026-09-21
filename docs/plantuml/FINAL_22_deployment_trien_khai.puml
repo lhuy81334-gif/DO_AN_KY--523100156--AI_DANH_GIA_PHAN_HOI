@@ -1,0 +1,32 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Deployment: Triển khai hệ thống
+
+node "Máy người dùng" {
+  artifact "Trình duyệt web" as Web
+}
+
+node "Frontend" {
+  artifact "React + Vite" as FE
+}
+
+node "Backend" {
+  artifact "FastAPI + Uvicorn" as BE
+  artifact "Playwright Browser" as PW
+  artifact "AI Modules" as AI
+}
+
+database "MongoDB\nDatabase POD" as DB
+cloud "Sàn TMĐT" as Platform
+
+Web --> FE : HTTP
+FE --> BE : REST API
+BE --> DB : read/write
+BE --> AI : analyze
+BE --> PW : browser session
+BE --> Platform : API request
+PW --> Platform : request trong phiên trình duyệt
+@enduml

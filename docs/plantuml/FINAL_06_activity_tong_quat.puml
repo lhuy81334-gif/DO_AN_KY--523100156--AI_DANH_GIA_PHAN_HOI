@@ -1,0 +1,49 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam activity {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Activity tổng quát: Từ link sản phẩm đến dashboard
+
+|Seller|
+start
+:Dán link sản phẩm;
+:Bấm "Đọc link";
+
+|Frontend|
+:Gửi link đến Backend;
+
+|Backend|
+:Tách sàn và mã sản phẩm;
+if (Link hợp lệ?) then (Có)
+  :Kiểm tra dữ liệu trong MongoDB;
+else (Không)
+  :Trả thông báo link không hợp lệ;
+  stop
+endif
+
+if (Đã có dữ liệu?) then (Có)
+  :Đọc review đã lưu;
+else (Chưa)
+  :Thu thập review từ sàn;
+  :Chuẩn hóa và lưu MongoDB;
+endif
+
+:Phân tích nội dung review;
+:Kiểm định hình ảnh nếu có;
+:Tính điểm độ tin cậy;
+:Gắn nhãn review cần chú ý;
+
+|Frontend|
+:Tải summary, review, bằng chứng ảnh;
+:Hiển thị dashboard;
+
+|Seller|
+:Xem và lọc review cần xử lý;
+stop
+@enduml

@@ -1,0 +1,33 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Kiểm định hình ảnh
+
+actor "System" as System
+
+usecase "Kiểm định\nhình ảnh" as Main
+usecase "Lấy ảnh review" as ReviewImage
+usecase "Lấy ảnh gốc\nsản phẩm" as ProductImage
+usecase "So sánh ảnh\nreview và sản phẩm" as CompareImage
+usecase "Đối chiếu ảnh với\nnội dung bình luận" as CompareText
+usecase "Tính điểm\nphù hợp ảnh" as ImageScore
+usecase "Lưu kết quả\nbằng chứng ảnh" as Save
+
+System --> Main
+
+Main ..> ReviewImage : <<include>>
+Main ..> ProductImage : <<include>>
+Main ..> CompareImage : <<include>>
+Main ..> CompareText : <<include>>
+Main ..> ImageScore : <<include>>
+Main ..> Save : <<include>>
+@enduml

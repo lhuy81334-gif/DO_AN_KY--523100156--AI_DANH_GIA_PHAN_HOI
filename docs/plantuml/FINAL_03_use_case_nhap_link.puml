@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Nhập link sản phẩm
+
+actor "Seller" as Seller
+
+usecase "Nhập link\nsản phẩm" as Main
+usecase "Dán link vào ô nhập" as Paste
+usecase "Bấm nút Đọc link" as ReadLink
+usecase "Xem thông tin\nsản phẩm đọc được" as ViewInfo
+usecase "Sửa lại link\nkhông hợp lệ" as EditLink
+usecase "Mở phiên sàn\nkhi được yêu cầu" as OpenSession
+
+Seller --> Main
+
+Main ..> Paste : <<include>>
+Main ..> ReadLink : <<include>>
+Main ..> ViewInfo : <<include>>
+EditLink ..> Main : <<extend>>
+OpenSession ..> Main : <<extend>>
+@enduml

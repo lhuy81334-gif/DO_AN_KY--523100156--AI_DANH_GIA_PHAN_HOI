@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Theo dõi log
+
+actor "Admin" as Admin
+
+usecase "Theo dõi log" as Main
+usecase "Xem log\nkéo dữ liệu" as IngestLog
+usecase "Xem log lỗi\nAPI sàn" as ApiLog
+usecase "Xem log\nphân tích ảnh" as ImageLog
+usecase "Tìm kiếm log\ntheo sản phẩm" as SearchLog
+usecase "Làm mới\ndanh sách log" as Refresh
+
+Admin --> Main
+
+Main ..> IngestLog : <<include>>
+Main ..> ApiLog : <<include>>
+Main ..> ImageLog : <<include>>
+SearchLog ..> Main : <<extend>>
+Refresh ..> Main : <<extend>>
+@enduml

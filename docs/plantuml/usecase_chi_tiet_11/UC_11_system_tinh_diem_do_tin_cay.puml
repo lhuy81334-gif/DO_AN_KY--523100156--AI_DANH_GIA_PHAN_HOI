@@ -1,0 +1,33 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Tính điểm độ tin cậy
+
+actor "System" as System
+
+usecase "Tính điểm\nđộ tin cậy" as Main
+usecase "Tổng hợp điểm\nrating" as RatingScore
+usecase "Tổng hợp điểm\nnội dung" as TextScore
+usecase "Tổng hợp điểm\nhình ảnh" as ImageScore
+usecase "Phân loại nhãn\nđộ tin cậy" as Label
+usecase "Sinh gợi ý\nhành động" as Action
+usecase "Lưu kết quả\nphân tích" as Save
+
+System --> Main
+
+Main ..> RatingScore : <<include>>
+Main ..> TextScore : <<include>>
+Main ..> ImageScore : <<include>>
+Main ..> Label : <<include>>
+Main ..> Action : <<include>>
+Main ..> Save : <<include>>
+@enduml

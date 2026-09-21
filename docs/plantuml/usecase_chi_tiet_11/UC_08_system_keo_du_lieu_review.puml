@@ -1,0 +1,33 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Kéo dữ liệu review
+
+actor "System" as System
+
+usecase "Kéo dữ liệu\nreview" as Main
+usecase "Xác định mã\nsản phẩm" as ProductId
+usecase "Lấy review\ntheo số sao" as ByStar
+usecase "Lấy review\ntheo trang" as ByPage
+usecase "Chuẩn hóa dữ liệu\nreview" as Normalize
+usecase "Lưu review\nvào MongoDB" as Save
+usecase "Ghi trạng thái\njob ingest" as Job
+
+System --> Main
+
+Main ..> ProductId : <<include>>
+Main ..> ByStar : <<include>>
+Main ..> ByPage : <<include>>
+Main ..> Normalize : <<include>>
+Main ..> Save : <<include>>
+Main ..> Job : <<include>>
+@enduml

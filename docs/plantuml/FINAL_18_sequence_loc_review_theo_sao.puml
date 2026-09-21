@@ -1,0 +1,20 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Lọc review theo số sao
+
+actor Seller
+participant "Frontend" as FE
+participant "Backend API" as BE
+database "MongoDB" as DB
+
+Seller -> FE: Chọn bộ lọc 1/2/3 sao
+FE -> BE: GET /reviews?rating={rating}
+BE -> DB: Query theo platform, product_id, rating
+DB --> BE: Danh sách review phù hợp
+BE -> BE: Sắp xếp theo thời gian mới nhất
+BE --> FE: Reviews đã lọc
+FE --> Seller: Cập nhật bảng review
+@enduml

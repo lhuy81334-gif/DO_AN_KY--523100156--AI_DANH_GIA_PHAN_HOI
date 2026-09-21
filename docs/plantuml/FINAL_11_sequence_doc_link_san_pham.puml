@@ -1,0 +1,29 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Đọc link sản phẩm
+
+actor Seller
+participant "Frontend" as FE
+participant "Backend API" as BE
+participant "Product Resolver" as Resolver
+participant "Metadata Service" as Metadata
+database "MongoDB" as DB
+cloud "Sàn TMĐT" as Platform
+
+Seller -> FE: Dán link sản phẩm
+Seller -> FE: Bấm "Đọc link"
+FE -> BE: POST /resolve-product-link
+BE -> Resolver: Nhận diện sàn và mã sản phẩm
+Resolver --> BE: platform_code, external_product_id
+BE -> Metadata: Lấy thông tin sản phẩm
+Metadata -> Platform: Request trang sản phẩm
+Platform --> Metadata: HTML/metadata
+Metadata --> BE: tên sản phẩm, ảnh gốc
+BE -> DB: Kiểm tra sản phẩm/review đã có
+DB --> BE: số review hiện có
+BE --> FE: Thông tin sản phẩm
+FE --> Seller: Hiển thị sàn, mã sản phẩm, ảnh gốc
+@enduml

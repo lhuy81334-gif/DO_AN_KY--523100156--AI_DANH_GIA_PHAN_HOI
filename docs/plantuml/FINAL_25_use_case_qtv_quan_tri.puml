@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Quản trị hệ thống
+
+actor "QTV" as Admin
+
+usecase "Quản trị\nhệ thống" as Main
+usecase "Xem log\nthu thập dữ liệu" as Log
+usecase "Kiểm tra lỗi\nAPI của sàn" as ApiError
+usecase "Kiểm tra dữ liệu\ntrong MongoDB" as Mongo
+usecase "Cấu hình số trang\nvà thời gian chờ" as Config
+usecase "Đóng/mở phiên\ntrình duyệt" as Session
+
+Admin --> Main
+
+Main ..> Log : <<include>>
+Main ..> Mongo : <<include>>
+Main ..> Config : <<include>>
+ApiError ..> Log : <<extend>>
+Session ..> Main : <<extend>>
+@enduml

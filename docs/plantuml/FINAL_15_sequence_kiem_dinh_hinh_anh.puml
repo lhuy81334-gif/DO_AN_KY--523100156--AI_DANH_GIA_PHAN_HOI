@@ -1,0 +1,32 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Kiểm định bằng chứng hình ảnh
+
+participant "Backend API" as BE
+participant "SellerFeedbackService" as Service
+participant "Image Evidence Module" as ImageAI
+database "MongoDB" as DB
+cloud "CDN ảnh sản phẩm/review" as CDN
+
+BE -> Service: Chạy phân tích ảnh
+Service -> DB: Lấy product_images và review_images
+DB --> Service: Danh sách ảnh
+
+loop từng review có ảnh
+  Service -> CDN: Tải ảnh review
+  CDN --> Service: review_image
+  Service -> CDN: Tải ảnh gốc sản phẩm
+  CDN --> Service: product_image
+  Service -> ImageAI: So sánh review_image với product_image
+  ImageAI --> Service: product_image_score
+  Service -> ImageAI: So sánh ảnh với text sản phẩm và nội dung review
+  ImageAI --> Service: text_score, claim_score
+  Service -> Service: Tính final_image_score
+  Service -> DB: Lưu kết quả bằng chứng ảnh
+end
+
+Service --> BE: Hoàn tất phân tích ảnh
+@enduml

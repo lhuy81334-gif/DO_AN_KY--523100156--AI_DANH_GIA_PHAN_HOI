@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Cấu hình hệ thống
+
+actor "Admin" as Admin
+
+usecase "Cấu hình\nhệ thống" as Main
+usecase "Cấu hình số trang\ncần kéo" as Pages
+usecase "Cấu hình thời gian\nchờ request" as Delay
+usecase "Cấu hình giới hạn\nphân tích ảnh" as ImageLimit
+usecase "Bật/tắt chế độ\nbrowser session" as BrowserMode
+usecase "Lưu cấu hình" as Save
+
+Admin --> Main
+
+Main ..> Pages : <<include>>
+Main ..> Delay : <<include>>
+Main ..> ImageLimit : <<include>>
+Main ..> BrowserMode : <<include>>
+Main ..> Save : <<include>>
+@enduml

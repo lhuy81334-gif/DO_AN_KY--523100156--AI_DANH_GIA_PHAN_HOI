@@ -1,0 +1,72 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Tiki Reviews",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/fetch_tiki_reviews.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Run Lazada Reviews",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/fetch_lazada_reviews.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Update Lazada Product Images",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/update_lazada_product_metadata.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "args": ["--external-product-id", "310626559"]
+    },
+    {
+      "name": "Run Review Trust Analysis",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/analyze_review_trust.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Run Review Image Analysis Sample",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/analyze_review_images.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "args": ["--limit", "10"]
+    },
+    {
+      "name": "Run Review Image Analysis All",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/analyze_review_images.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "args": ["--limit", "0"]
+    },
+    {
+      "name": "Run Backfill Review Metadata",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/backfill_review_metadata.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Run Create Mongo Review Views",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/create_mongo_review_views.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

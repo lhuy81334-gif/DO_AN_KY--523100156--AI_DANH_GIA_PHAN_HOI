@@ -1,0 +1,32 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Seller dán link và hệ thống kéo review
+
+actor Seller
+participant "Frontend\nReact" as FE
+participant "Backend API\nFastAPI" as BE
+participant "Crawler / Browser Session" as Crawler
+participant "AI Analysis" as AI
+database "MongoDB" as DB
+participant "Sàn TMĐT" as Platform
+
+Seller -> FE: Dán link sản phẩm
+FE -> BE: POST /resolve-product-link
+BE -> DB: Kiểm tra dữ liệu sản phẩm
+BE --> FE: Thông tin sản phẩm
+
+Seller -> FE: Bấm "Kéo dữ liệu"
+FE -> BE: POST /ingest-product-link
+BE -> Crawler: Thu thập review
+Crawler -> Platform: Gửi request hoặc dùng browser session
+Platform --> Crawler: Dữ liệu review
+Crawler --> BE: Review đã chuẩn hóa
+BE -> DB: Lưu sản phẩm và review
+BE -> AI: Phân tích text, ảnh, độ tin cậy
+AI -> DB: Lưu kết quả phân tích
+BE --> FE: Kết quả ingest
+FE --> Seller: Hiển thị dashboard
+@enduml

@@ -1,0 +1,34 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Activity chi tiết: Phân tích review
+
+start
+:Đọc review đã lưu;
+:Phân loại review theo số sao;
+
+if (Review có nội dung?) then (Có)
+  :Phân tích từ khóa và cảm xúc;
+  :Xác định nhóm vấn đề;
+else (Không)
+  :Ghi nhận review thiếu nội dung;
+endif
+
+if (Review có ảnh?) then (Có)
+  :Lấy ảnh review;
+  :Lấy ảnh gốc sản phẩm;
+  :So sánh ảnh;
+  :Tính điểm bằng chứng ảnh;
+else (Không)
+  :Đánh dấu không có ảnh;
+endif
+
+:Tổng hợp rating, text, image;
+:Tính trust_score;
+:Gắn nhãn mức độ tin cậy;
+:Đề xuất hành động cho seller;
+:Lưu kết quả phân tích;
+stop
+@enduml

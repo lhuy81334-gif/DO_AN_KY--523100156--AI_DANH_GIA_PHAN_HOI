@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Thao tác khi mở phiên sàn
+
+actor "Seller" as Seller
+
+usecase "Thao tác khi\nmở phiên sàn" as Main
+usecase "Bấm nút\nMở phiên" as Open
+usecase "Đăng nhập\nvào sàn" as Login
+usecase "Giải captcha\nnếu có" as Captcha
+usecase "Chờ trang sản phẩm\ntải xong" as WaitPage
+usecase "Đóng phiên\nkhi không dùng" as CloseSession
+
+Seller --> Main
+
+Main ..> Open : <<include>>
+Main ..> WaitPage : <<include>>
+Login ..> Main : <<extend>>
+Captcha ..> Main : <<extend>>
+CloseSession ..> Main : <<extend>>
+@enduml

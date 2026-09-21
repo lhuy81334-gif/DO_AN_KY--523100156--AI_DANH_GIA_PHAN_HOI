@@ -1,0 +1,27 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title State: Trạng thái job thu thập dữ liệu
+
+[*] --> Created
+Created --> ResolvingProduct : xử lý link
+ResolvingProduct --> WaitingSession : cần captcha/login
+WaitingSession --> Crawling : phiên hợp lệ
+ResolvingProduct --> Crawling : gọi API được
+Crawling --> Saving : nhận review
+Saving --> Analyzing : lưu xong
+Analyzing --> Completed : phân tích xong
+
+Crawling --> PartialCompleted : bị giới hạn nhưng có dữ liệu
+PartialCompleted --> Crawling : kéo tiếp
+ResolvingProduct --> Failed : link lỗi
+WaitingSession --> Failed : xác minh thất bại
+Crawling --> Failed : API bị chặn
+Saving --> Failed : lỗi MongoDB
+Analyzing --> Failed : lỗi AI
+
+Completed --> [*]
+Failed --> [*]
+@enduml

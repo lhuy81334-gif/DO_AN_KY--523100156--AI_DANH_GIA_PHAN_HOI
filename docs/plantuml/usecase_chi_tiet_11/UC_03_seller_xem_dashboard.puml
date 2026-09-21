@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Xem dashboard
+
+actor "Seller" as Seller
+
+usecase "Xem dashboard" as Main
+usecase "Xem tổng số\nreview đã có" as Total
+usecase "Xem điểm tin cậy\ntrung bình" as TrustAvg
+usecase "Xem thống kê\nảnh review" as ImageStats
+usecase "Xem trạng thái\nkéo dữ liệu" as JobStatus
+usecase "Tải lại\ndashboard" as Refresh
+
+Seller --> Main
+
+Main ..> Total : <<include>>
+Main ..> TrustAvg : <<include>>
+Main ..> ImageStats : <<include>>
+Main ..> JobStatus : <<include>>
+Refresh ..> Main : <<extend>>
+@enduml

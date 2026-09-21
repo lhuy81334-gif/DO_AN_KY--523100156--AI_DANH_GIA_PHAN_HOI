@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Phân tích nội dung
+
+actor "System" as System
+
+usecase "Phân tích\nnội dung" as Main
+usecase "Đọc nội dung\nreview" as ReadText
+usecase "Nhận diện từ khóa\nphàn nàn" as Keywords
+usecase "Phân loại nhóm\nvấn đề" as Aspect
+usecase "Đánh giá mức độ\ntiêu cực" as Sentiment
+usecase "Lưu kết quả\nreview_aspects" as Save
+
+System --> Main
+
+Main ..> ReadText : <<include>>
+Main ..> Keywords : <<include>>
+Main ..> Aspect : <<include>>
+Main ..> Sentiment : <<include>>
+Main ..> Save : <<include>>
+@enduml

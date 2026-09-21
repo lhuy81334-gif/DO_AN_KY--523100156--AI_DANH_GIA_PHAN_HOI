@@ -1,0 +1,56 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam class {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+}
+
+title Class diagram: Mô hình miền dữ liệu
+
+class Platform {
+  +code: string
+  +name: string
+}
+
+class Product {
+  +external_product_id: string
+  +name: string
+  +url: string
+  +image_urls: string[]
+}
+
+class Review {
+  +external_review_id: string
+  +rating: int
+  +content: string
+  +review_time: date
+  +review_images: string[]
+}
+
+class ReviewAspect {
+  +aspect_name: string
+  +sentiment: string
+  +confidence: float
+}
+
+class ReviewTrustAnalysis {
+  +trust_score: float
+  +trust_label: string
+  +evidence_level: string
+  +seller_action: string
+}
+
+class IngestionJob {
+  +status: string
+  +total_reviews: int
+  +created_at: datetime
+}
+
+Platform "1" --> "0..*" Product
+Product "1" --> "0..*" Review
+Review "1" --> "0..*" ReviewAspect
+Review "1" --> "0..1" ReviewTrustAnalysis
+Product "1" --> "0..*" IngestionJob
+@enduml

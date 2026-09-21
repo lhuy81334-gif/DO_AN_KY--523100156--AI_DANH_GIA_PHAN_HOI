@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Xem bằng chứng hình ảnh
+
+actor "Seller" as Seller
+
+usecase "Xem bằng chứng\nhình ảnh" as Main
+usecase "Xem ảnh review" as ReviewImage
+usecase "Xem ảnh gốc\nsản phẩm" as ProductImage
+usecase "Xem điểm ảnh\ncó phù hợp" as Score
+usecase "Mở ảnh review\nở tab mới" as OpenReview
+usecase "Đối chiếu với\nnội dung bình luận" as CompareText
+
+Seller --> Main
+
+Main ..> ReviewImage : <<include>>
+Main ..> ProductImage : <<include>>
+Main ..> Score : <<include>>
+Main ..> CompareText : <<include>>
+OpenReview ..> Main : <<extend>>
+@enduml

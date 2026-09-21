@@ -1,0 +1,28 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Mở phiên sàn bằng Playwright
+
+actor Seller
+participant "Frontend" as FE
+participant "Backend API" as BE
+participant "Browser Session Service" as Session
+participant "Playwright Browser" as Browser
+cloud "Sàn TMĐT" as Platform
+
+Seller -> FE: Bấm "Mở phiên"
+FE -> BE: POST /session/open
+BE -> Session: open(product_url)
+Session -> Browser: Khởi tạo browser context
+Browser -> Platform: Mở trang sản phẩm
+Platform --> Browser: Trang sản phẩm / captcha / login
+Browser --> Seller: Hiển thị trình duyệt
+Seller -> Browser: Đăng nhập hoặc xác minh nếu cần
+Session -> Browser: Kiểm tra phiên sẵn sàng
+Browser --> Session: cookie/token hợp lệ
+Session --> BE: session_ready = true
+BE --> FE: Trạng thái phiên
+FE --> Seller: Thông báo có thể kéo dữ liệu
+@enduml

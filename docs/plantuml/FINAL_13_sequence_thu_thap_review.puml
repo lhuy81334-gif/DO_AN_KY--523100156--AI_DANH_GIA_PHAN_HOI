@@ -1,0 +1,35 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Thu thập review theo số sao và trang
+
+actor Seller
+participant "Frontend" as FE
+participant "Backend API" as BE
+participant "Ingestion Service" as Ingest
+participant "Platform Crawler" as Crawler
+database "MongoDB" as DB
+cloud "Sàn TMĐT" as Platform
+
+Seller -> FE: Bấm "Kéo dữ liệu"
+FE -> BE: POST /ingest-product-link
+BE -> Ingest: Tạo ingestion job
+Ingest -> DB: Lưu job trạng thái running
+
+loop từng mức sao từ thấp đến cao
+  loop từng trang review
+    Ingest -> Crawler: fetch_reviews(rating, page)
+    Crawler -> Platform: Request review
+    Platform --> Crawler: Danh sách review
+    Crawler --> Ingest: Review chuẩn hóa
+    Ingest -> DB: Upsert reviews
+  end
+end
+
+Ingest -> DB: Cập nhật job completed
+Ingest --> BE: Tổng số review thu được
+BE --> FE: Kết quả thu thập
+FE --> Seller: Hiển thị thông báo hoàn tất
+@enduml

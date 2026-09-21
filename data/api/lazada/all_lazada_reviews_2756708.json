@@ -1,0 +1,3935 @@
+{
+  "market_statistics": [
+    {
+      "count": 8315,
+      "formatCount": "8.3K",
+      "polarity": "positive",
+      "tagIcon": "https://gw.alicdn.com/imgextra/i1/O1CN01XLyuG21dvXEJ2yzMC_!!6000000003798-2-tps-36-36.png",
+      "tagId": -1,
+      "tagName": "With images/videos"
+    },
+    {
+      "count": 5075,
+      "formatCount": "5.1K",
+      "polarity": "positive",
+      "tagIcon": "https://gw.alicdn.com/imgextra/i1/O1CN01sqYghh1aDA0cUpTX4_!!6000000003295-2-tps-36-36.png",
+      "tagId": -3,
+      "tagName": "Repeat customer"
+    },
+    {
+      "count": 2780,
+      "formatCount": "2.8K",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30037,
+      "tagName": "High quality"
+    },
+    {
+      "count": 2691,
+      "formatCount": "2.7K",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30073,
+      "tagName": "Nice taste"
+    },
+    {
+      "count": 2433,
+      "formatCount": "2.4K",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30077,
+      "tagName": "Packaged well"
+    },
+    {
+      "count": 957,
+      "formatCount": "957",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30107,
+      "tagName": "Worth buying"
+    },
+    {
+      "count": 903,
+      "formatCount": "903",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30086,
+      "tagName": "Shipped fast"
+    },
+    {
+      "count": 843,
+      "formatCount": "843",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30071,
+      "tagName": "Nice suitability"
+    }
+  ],
+  "collected_count": 186,
+  "reviews": [
+    {
+      "review_id": 468114136656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Giao hàng nhanh , sữa chua ngon chất lượng cao từ thương hiệu đáng tin cậy, bao bì tiện lợi để mang theo",
+      "buyer_name": "Phương Thuý",
+      "likes": 0,
+      "created_at": "2026-08-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/3743b1b423a89c3c0be9dcfe10078e23.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/3171e0a9434e4cb09e1fbe17ca802eb0_2_1787197421.062265.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/3743b1b423a89c3c0be9dcfe10078e23.jpg",
+        "https://lzd-u.slatic.net/3171e0a9434e4cb09e1fbe17ca802eb0_2_1787197421.062265.jpg"
+      ]
+    },
+    {
+      "review_id": 467805981356708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Đã nhận hàng đúng như yêu cầu đặt và giới thiệu của shop, hàng chính hãng và bảo đảm chất lượng và đặt xa. Hài lòng về đóng gói hình thức và chất lượng, giá  cả thì mua dịp sale nên giá rẻ",
+      "buyer_name": "Hoabinhctm",
+      "likes": 2,
+      "created_at": "2026-08-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/05d2e40b243e42329e255ea189bd1ae3_13099a2782ac409492c6f580a0d917bc.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/05d2e40b243e42329e255ea189bd1ae3_486c454d7ed84a489543885b678ab97c.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/05d2e40b243e42329e255ea189bd1ae3_13099a2782ac409492c6f580a0d917bc.jpg",
+        "https://lzd-u.slatic.net/05d2e40b243e42329e255ea189bd1ae3_486c454d7ed84a489543885b678ab97c.jpg"
+      ]
+    },
+    {
+      "review_id": 467923960056708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Giá trị tuyệt vời cho số tiền bỏ ra, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Bao bì tiện lợi để mang theo, Thúc đẩy lối sống lành mạnh, Hương vị tự nhiên tươi mát,",
+      "buyer_name": "****2",
+      "likes": 2,
+      "created_at": "2026-08-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/49706ad697468de5a8d70207e8f55fc7.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/62aa16bda40043ac8a55dd6bd8217cb7_2435276871e74f268d5e37779f267f86.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/49706ad697468de5a8d70207e8f55fc7.jpg",
+        "https://lzd-u.slatic.net/62aa16bda40043ac8a55dd6bd8217cb7_2435276871e74f268d5e37779f267f86.jpg"
+      ]
+    },
+    {
+      "review_id": 467855792956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Hương vị tự nhiên tươi mát, Bao bì tiện lợi để mang theo,",
+      "buyer_name": "Vo Cong Duong",
+      "likes": 2,
+      "created_at": "2026-08-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ac5b09b664e445378d19dbef291c8495_c1cccd60e4264b81a260ac783281a4a6.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ac5b09b664e445378d19dbef291c8495_c1cccd60e4264b81a260ac783281a4a6.jpg"
+      ]
+    },
+    {
+      "review_id": 467813619156708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Săn sale giá tốt\nGiao sau 4 ngày \nGiao cửa hàng gần nhất vẫn còn mát lạnh",
+      "buyer_name": "N***Ý",
+      "likes": 1,
+      "created_at": "2026-08-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d57065fa6df04a87a9e0506a0fad7d2e_1_1786419961.235432.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d57065fa6df04a87a9e0506a0fad7d2e_1_1786419961.235432.jpg"
+      ]
+    },
+    {
+      "review_id": 467804405656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa,",
+      "buyer_name": "P***c",
+      "likes": 1,
+      "created_at": "2026-08-10",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/cfa8fd4b578c47979892f4dc19c78172_1_1786366932.495451.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/cfa8fd4b578c47979892f4dc19c78172_2_1786366939.180381.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/cfa8fd4b578c47979892f4dc19c78172_1_1786366932.495451.jpg",
+        "https://lzd-u.slatic.net/cfa8fd4b578c47979892f4dc19c78172_2_1786366939.180381.jpg"
+      ]
+    },
+    {
+      "review_id": 467731983756708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "thơm nhẹ Sữa chua ngon và lành mạnh, Thúc đẩy lối sống lành mạnh, mình mua của vinamil ngiều lần rồi. shop tận nơi không mất công đi xa",
+      "buyer_name": "Nguyễn thị hoà",
+      "likes": 0,
+      "created_at": "2026-08-10",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/cad8591b39bd540a81f23b9befc9ba55.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/cf24362065a34f8c818a64df165c8f16_1_1786345862.227463.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/cad8591b39bd540a81f23b9befc9ba55.jpg",
+        "https://lzd-u.slatic.net/cf24362065a34f8c818a64df165c8f16_1_1786345862.227463.jpg"
+      ]
+    },
+    {
+      "review_id": 467474728956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì tiện lợi để mang theo, Thúc đẩy lối sống lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Hương vị tự nhiên tươi mát,",
+      "buyer_name": "9***8",
+      "likes": 1,
+      "created_at": "2026-07-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/9670ba4164214637a8b216f597de03ff_6_1785309837.978779.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/9670ba4164214637a8b216f597de03ff_7_1785309845.887453.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/9670ba4164214637a8b216f597de03ff_6_1785309837.978779.jpg",
+        "https://lzd-u.slatic.net/9670ba4164214637a8b216f597de03ff_7_1785309845.887453.jpg"
+      ]
+    },
+    {
+      "review_id": 467174374956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Lợi ích của hàng tỷ lợi khuẩn L.Casei 431™ trong một gói Probi đã được chứng minh khoa học và lâm sàng thông qua hơn 90 nghiên cứu. Những lợi khuẩn này có khả năng sống sót qua axit dạ dày và đến được ruột non và ruột già, giúp giảm số ngày bị cảm cúm lên đến 40%.Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Thúc đẩy lối sống lành mạnh,",
+      "buyer_name": "T***g",
+      "likes": 2,
+      "created_at": "2026-07-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/534228918c6a89090eb4cf962dae0614.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b08aaacc43b44b5c9915e170eb6d5185_4_1784536480.364452.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/534228918c6a89090eb4cf962dae0614.jpg",
+        "https://lzd-u.slatic.net/b08aaacc43b44b5c9915e170eb6d5185_4_1784536480.364452.jpg"
+      ]
+    },
+    {
+      "review_id": 467076709856708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì tiện lợi để mang theo, Hương vị tự nhiên tươi mát, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Bao bì lạnh đảm bảo độ tươi, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Sữa chua ngon và lành mạnh, Giá trị tuyệt vời cho số tiền bỏ ra, Giá trị tuyệt vời cho số tiền bỏ ra,",
+      "buyer_name": "Trần Nam",
+      "likes": 1,
+      "created_at": "2026-07-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/121de86310960c040441e0caf4ad1efc.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/c54956cd3ede4405abaa81467686f230_250d8be8f64642c8bc09e6b1326689a3.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/121de86310960c040441e0caf4ad1efc.jpg",
+        "https://lzd-u.slatic.net/c54956cd3ede4405abaa81467686f230_250d8be8f64642c8bc09e6b1326689a3.jpg"
+      ]
+    },
+    {
+      "review_id": 467156170956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hàng giao rất nhanh, đóng gói bình thường, hạn sử dụng còn khá xa đủ cho thời gian uống.",
+      "buyer_name": "0***1",
+      "likes": 2,
+      "created_at": "2026-07-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f7ad847ae22d49379e2160551523f843_1_1784368070.128283.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f7ad847ae22d49379e2160551523f843_2_1784368070.569915.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f7ad847ae22d49379e2160551523f843_3_1784368071.046238.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f7ad847ae22d49379e2160551523f843_1_1784368070.128283.jpg",
+        "https://lzd-u.slatic.net/f7ad847ae22d49379e2160551523f843_2_1784368070.569915.jpg",
+        "https://lzd-u.slatic.net/f7ad847ae22d49379e2160551523f843_3_1784368071.046238.jpg"
+      ]
+    },
+    {
+      "review_id": 464555099756708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Thúc đẩy lối sống lành mạnh, Giá trị tuyệt vời cho số tiền bỏ ra,",
+      "buyer_name": "Long",
+      "likes": 2,
+      "created_at": "2026-06-28",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ffeb558200e8470bad6043ff7cb70aaf_06134550bc1c40ca8339c0e8e54034aa.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/ffeb558200e8470bad6043ff7cb70aaf_1d8aeba8207f4d7faedbb91e0a39dba6.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ffeb558200e8470bad6043ff7cb70aaf_06134550bc1c40ca8339c0e8e54034aa.jpg",
+        "https://lzd-u.slatic.net/ffeb558200e8470bad6043ff7cb70aaf_1d8aeba8207f4d7faedbb91e0a39dba6.jpg"
+      ]
+    },
+    {
+      "review_id": 464566841456708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Bao bì tiện lợi để mang theo, Giá trị tuyệt vời cho số tiền bỏ ra, Sữa chua ngon và lành mạnh,",
+      "buyer_name": "0***7",
+      "likes": 1,
+      "created_at": "2026-06-26",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/fd9d24c1ea1f49569037aff4805388d6_3_1782480923.150770.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/fd9d24c1ea1f49569037aff4805388d6_5_1782480929.375879.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/fd9d24c1ea1f49569037aff4805388d6_3_1782480923.150770.jpg",
+        "https://lzd-u.slatic.net/fd9d24c1ea1f49569037aff4805388d6_5_1782480929.375879.jpg"
+      ]
+    },
+    {
+      "review_id": 464579176956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "thơm ngon, ngọt thanh",
+      "buyer_name": "H***K",
+      "likes": 1,
+      "created_at": "2026-06-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/23006d8383dd8f7f5b8b862cb69bc6f5.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b030776d305b46d6933562f75edb3305_6818c1c309a943dca7ff5290585861e3.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/37d0fc2f01ae4ad49884829ba976b76a_d52b27e334e04445b6285b9b823573a3.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/37d0fc2f01ae4ad49884829ba976b76a_3d0f0924795a4b5aade71fdb5097086a.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/37d0fc2f01ae4ad49884829ba976b76a_5fae43f8568d468cb3ddf80f2b45805c.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/23006d8383dd8f7f5b8b862cb69bc6f5.jpg",
+        "https://lzd-u.slatic.net/b030776d305b46d6933562f75edb3305_6818c1c309a943dca7ff5290585861e3.jpg",
+        "https://lzd-u.slatic.net/37d0fc2f01ae4ad49884829ba976b76a_d52b27e334e04445b6285b9b823573a3.jpg",
+        "https://lzd-u.slatic.net/37d0fc2f01ae4ad49884829ba976b76a_3d0f0924795a4b5aade71fdb5097086a.jpg",
+        "https://lzd-u.slatic.net/37d0fc2f01ae4ad49884829ba976b76a_5fae43f8568d468cb3ddf80f2b45805c.jpg"
+      ]
+    },
+    {
+      "review_id": 464522895056708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "tôi đánh giá đơn khác vào đây để mall biết m giao hàng chậm cỡ nào & chả quan tâm gì ng mua cả. liên hệ mall thì toàn trả lời = AI trong khi nó chả hiểu tôi nói gì. còn cam kết giao hàng 1 đắng làm 1 nẻo. k/c 3km mà hơn 10 ngày k giao nổi hàng - k bít shop bận gì ghê dữ vậy hay là kho hết hàng? đây k phải lầm đầu mua hàng giao chậm như này.",
+      "buyer_name": "A***c",
+      "likes": 0,
+      "created_at": "2026-06-17",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/50f6cfb5a05349858cd3684e85f384d2_e27c49a4004046eea731beb7c7a06093.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/50f6cfb5a05349858cd3684e85f384d2_98098a95b4d64982a2871ca1acfd608f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/50f6cfb5a05349858cd3684e85f384d2_e27c49a4004046eea731beb7c7a06093.jpg",
+        "https://lzd-u.slatic.net/50f6cfb5a05349858cd3684e85f384d2_98098a95b4d64982a2871ca1acfd608f.jpg"
+      ]
+    },
+    {
+      "review_id": 463825375656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hương vị tự nhiên tươi mát, Bao bì lạnh đảm bảo độ tươi, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh, Thúc đẩy lối sống lành mạnh,",
+      "buyer_name": "Third-Party-User",
+      "likes": 1,
+      "created_at": "2026-06-07",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/33becd75c05249bb82496d780c28257e_6_1780795652.173987.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/33becd75c05249bb82496d780c28257e_6_1780795652.173987.jpg"
+      ]
+    },
+    {
+      "review_id": 464099163856708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "ngọt thanh",
+      "buyer_name": "H***K",
+      "likes": 2,
+      "created_at": "2026-06-06",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d584f499b9e540feb0b88320af7580c7_948ebe30fee5431e84a0b4156f5822ab.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/d584f499b9e540feb0b88320af7580c7_e2b20d2bcb91437aabd92b23380c56fe.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d584f499b9e540feb0b88320af7580c7_948ebe30fee5431e84a0b4156f5822ab.jpg",
+        "https://lzd-u.slatic.net/d584f499b9e540feb0b88320af7580c7_e2b20d2bcb91437aabd92b23380c56fe.jpg"
+      ]
+    },
+    {
+      "review_id": 463426168356708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa chua ngon và lành mạnh, Thúc đẩy lối sống lành mạnh, Giá trị tuyệt vời cho số tiền bỏ ra, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, loại ít đường thơm ngon và ít ngọt. Trẻ em và người lớn đều yêu thích",
+      "buyer_name": "L***c",
+      "likes": 1,
+      "created_at": "2026-05-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/835f4a28cf5042828e2c563ebb2be1c8_4_1779083029.554296.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/835f4a28cf5042828e2c563ebb2be1c8_5_1779083048.224406.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/835f4a28cf5042828e2c563ebb2be1c8_4_1779083029.554296.jpg",
+        "https://lzd-u.slatic.net/835f4a28cf5042828e2c563ebb2be1c8_5_1779083048.224406.jpg"
+      ]
+    },
+    {
+      "review_id": 463424037056708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Sữa chua ngon và lành mạnh, Bao bì tiện lợi để mang theo, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Hương vị tự nhiên tươi mát,",
+      "buyer_name": "9***4",
+      "likes": 2,
+      "created_at": "2026-05-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8cffb7f830a04c2b87693c41ab705e68_7f3158176cfe4061a55737581ab8a554.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8cffb7f830a04c2b87693c41ab705e68_7f3158176cfe4061a55737581ab8a554.jpg"
+      ]
+    },
+    {
+      "review_id": 459597498056708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Hàng giao khá lâu ! Để đã đóng gói và sẵn sàng bàn giao cho đv vận chuyển từ 15/3 mà mãi đến 20/3 mới giao hàng sau khi nhắn tin hối đến 2 lần.\nChất lượng thì không bàn vì là hàng thương hiệu, date còn khá xa. Trừ shop 1 sao về việc giao hàng chậm,",
+      "buyer_name": "0***1",
+      "likes": 0,
+      "created_at": "2026-03-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/58e9dc8d30bf4c38b7b090bd8e8b0d0d_1_1774061300.246588.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/58e9dc8d30bf4c38b7b090bd8e8b0d0d_2_1774061300.741143.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/58e9dc8d30bf4c38b7b090bd8e8b0d0d_3_1774061301.152658.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/58e9dc8d30bf4c38b7b090bd8e8b0d0d_1_1774061300.246588.jpg",
+        "https://lzd-u.slatic.net/58e9dc8d30bf4c38b7b090bd8e8b0d0d_2_1774061300.741143.jpg",
+        "https://lzd-u.slatic.net/58e9dc8d30bf4c38b7b090bd8e8b0d0d_3_1774061301.152658.jpg"
+      ]
+    },
+    {
+      "review_id": 457449824156708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Nam",
+      "likes": 0,
+      "created_at": "2026-01-31",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 456573379756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "0***8",
+      "likes": 0,
+      "created_at": "2026-01-16",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 455664612056708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "đặt hàng 10lần thì may ra đc ship 1 đơn, tốt nhất k ship đc thì hủy kênh bán ol đi",
+      "buyer_name": "huyền trang",
+      "likes": 0,
+      "created_at": "2025-12-26",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 455638716756708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "ko có quà mấy lần rồi shop ơi",
+      "buyer_name": "Dao",
+      "likes": 0,
+      "created_at": "2025-12-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 455303313156708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "0***8",
+      "likes": 0,
+      "created_at": "2025-12-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 454955506256708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "giao hàng rất chậm.. đặt hàng 9 ngày sau mới giao tới",
+      "buyer_name": "0***6",
+      "likes": 0,
+      "created_at": "2025-11-23",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 449927568356708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "Giao hàng lâu khủng khiếp, từ cửa hàng cách nhà mấy km mà còn lâu hơn m đặt ở TPHCM cách hơn nghìn km.\n.",
+      "buyer_name": "Abc",
+      "likes": 0,
+      "created_at": "2025-10-19",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 448437097356708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Giá trị tuyệt vời cho số tiền bỏ ra, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "T***ỗ",
+      "likes": 0,
+      "created_at": "2025-09-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f75869378e2e48f7b2943fa006830c2e_2_1757564868.240779.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f75869378e2e48f7b2943fa006830c2e_2_1757564868.240779.jpg"
+      ]
+    },
+    {
+      "review_id": 446759111956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "mòn mỏi bao lần đặt hàng bị hủy đơn thì nay đã nhận được hàng, mong ngóng như con chờ mẹ đi chợ về vậy..",
+      "buyer_name": "5***9",
+      "likes": 1,
+      "created_at": "2025-07-16",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/197cd1025811468885b574b6e0ce088b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/2b7fc238ea323092a7bf23b25e66920d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/32d85cd935094a0682e0b6a4a7772526_883f8116dfce47929e831acac0cbb3a4.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/197cd1025811468885b574b6e0ce088b.jpg",
+        "https://sg-test-11.slatic.net/p/2b7fc238ea323092a7bf23b25e66920d.jpg",
+        "https://lzd-u.slatic.net/32d85cd935094a0682e0b6a4a7772526_883f8116dfce47929e831acac0cbb3a4.jpg"
+      ]
+    },
+    {
+      "review_id": 446547453756708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Bao bì lạnh đảm bảo độ tươi, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa,",
+      "buyer_name": "Hoa Luong",
+      "likes": 2,
+      "created_at": "2025-07-10",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/14c53b01ab0d4228bed416cd3b3c4828.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/17a7ebe40a4f9750d746c0f550f95bcb.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6b7b30e99f5040d28be55e5c4c468d32_1_1752146325.716834.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6b7b30e99f5040d28be55e5c4c468d32_2_1752146326.364369.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6b7b30e99f5040d28be55e5c4c468d32_3_1752146327.185774.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/14c53b01ab0d4228bed416cd3b3c4828.jpg",
+        "https://sg-test-11.slatic.net/p/17a7ebe40a4f9750d746c0f550f95bcb.jpg",
+        "https://lzd-u.slatic.net/6b7b30e99f5040d28be55e5c4c468d32_1_1752146325.716834.jpg",
+        "https://lzd-u.slatic.net/6b7b30e99f5040d28be55e5c4c468d32_2_1752146326.364369.jpg",
+        "https://lzd-u.slatic.net/6b7b30e99f5040d28be55e5c4c468d32_3_1752146327.185774.jpg"
+      ]
+    },
+    {
+      "review_id": 446232776756708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "ngon",
+      "buyer_name": "Linh Ngọc",
+      "likes": 2,
+      "created_at": "2025-07-05",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/8c35dce2ae724b5395d70b90614de136.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/6d357de5514404251398438cf31dbc96.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6bb03730d65a454cac9c0afaadbd1038_b66ce61c9a6647fc97b297c62cd283c5.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/8c35dce2ae724b5395d70b90614de136.jpg",
+        "https://sg-test-11.slatic.net/p/6d357de5514404251398438cf31dbc96.jpg",
+        "https://lzd-u.slatic.net/6bb03730d65a454cac9c0afaadbd1038_b66ce61c9a6647fc97b297c62cd283c5.jpg"
+      ]
+    },
+    {
+      "review_id": 445726141756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Ngo Thao",
+      "likes": 0,
+      "created_at": "2025-06-16",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 445442220956708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Quâ tệ hại. Xử lý đơn hàng rất kém và tệ",
+      "buyer_name": "Tran Uyen",
+      "likes": 0,
+      "created_at": "2025-06-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 445063200856708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Đã mua nhiều lần, tuy nhiên giao hàng lâu. Đợt m đặt được tặng bình 3 đơn đều bị shop huỷ.",
+      "buyer_name": "Nguyen Hang",
+      "likes": 0,
+      "created_at": "2025-05-31",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/2df26fb8bc1d402aac16abcc7d8ce837.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/cb8673ea157db93b63895e2a5bb31fa8.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/1758364802e04f268e26197100e32630_8_1748655851.729897.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/2df26fb8bc1d402aac16abcc7d8ce837.jpg",
+        "https://sg-test-11.slatic.net/p/cb8673ea157db93b63895e2a5bb31fa8.jpg",
+        "https://lzd-u.slatic.net/1758364802e04f268e26197100e32630_8_1748655851.729897.jpg"
+      ]
+    },
+    {
+      "review_id": 444889267956708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Giao chậm quá. Sữa HSD đến 25/6, ko biết là xa hay gần, có ổn hay ko. Cất tủ lạnh rồi nên lười chụp hình",
+      "buyer_name": "V***ỹ",
+      "likes": 0,
+      "created_at": "2025-05-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/94f984b6f125487fb814be2ac3544823_1_1748178475.233907.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/94f984b6f125487fb814be2ac3544823_1_1748178475.233907.jpg"
+      ]
+    },
+    {
+      "review_id": 444518401756708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Bán hàng được nhưng đến lúc giao hàng đẩy hết chỗ nọ đến chỗ kia.có 4đ giao 2 đơn.còn 2đ k giao.gọi điện thì toàn máy bận.mất bao tiền.mua hàng mà vừa mất tiền vừa bực mình.quá tệ",
+      "buyer_name": "Linh Lan",
+      "likes": 0,
+      "created_at": "2025-05-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 443829415756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "7***3",
+      "likes": 0,
+      "created_at": "2025-05-07",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 444160252156708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sữa chua ngon và lành mạnh,",
+      "buyer_name": "Kim Xuân",
+      "likes": 0,
+      "created_at": "2025-05-06",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 444030208256708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Linh Than",
+      "likes": 0,
+      "created_at": "2025-05-02",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 443979500856708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Shop giao hàng nhanh đóng gói cẩn thận moox tội quà tặng kèm hết nên phải đổi loại khác k thích 🥲",
+      "buyer_name": "Thuỷ",
+      "likes": 0,
+      "created_at": "2025-04-30",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6f6a4eeea4a0461ab9f7af27e181ec69_1_1746027666.123129.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6f6a4eeea4a0461ab9f7af27e181ec69_1_1746027666.123129.jpg"
+      ]
+    },
+    {
+      "review_id": 443977233456708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Đặt loại ít đường lại đóng trong thùng việt quất là sao ???\nHsd cũng chỉ còn tầm 1 tháng",
+      "buyer_name": "Khá Tốt",
+      "likes": 0,
+      "created_at": "2025-04-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6fd3a1c00c4d4496941c43022f182c71_2_1745926827.511658.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6fd3a1c00c4d4496941c43022f182c71_2_1745926827.511658.jpg"
+      ]
+    },
+    {
+      "review_id": 443598401256708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hương vị tự nhiên tươi mát, Bao bì lạnh đảm bảo độ tươi, Giá trị tuyệt vời cho số tiền bỏ ra,Bao bì tiện lợi để mang theo, Bao bì lạnh đảm bảo độ tươi, Bao bì tiện lợi để mang theo,",
+      "buyer_name": "X***g",
+      "likes": 2,
+      "created_at": "2025-04-26",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/a1853c9309a146efbba01b4801ae78e7.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/188eb60e9d2158dadc9ab7417c72150b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/8856293aea0f4bd58ebdbf59890bb097_6_1745631907.155908.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/a1853c9309a146efbba01b4801ae78e7.jpg",
+        "https://sg-test-11.slatic.net/p/188eb60e9d2158dadc9ab7417c72150b.jpg",
+        "https://lzd-u.slatic.net/8856293aea0f4bd58ebdbf59890bb097_6_1745631907.155908.jpg"
+      ]
+    },
+    {
+      "review_id": 443481972856708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "đặt bao nhiêu đơn toàn bị hủy vì bên Vinamilk k giao hàng. Nay đặt từ 4/4 mà tới gần 3 tuần sau mới chịu giao",
+      "buyer_name": "tunnie",
+      "likes": 0,
+      "created_at": "2025-04-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/39ec0779149b94af12d06d138e3572e2.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/485f515efe9b4317a30662450e83e8c9_5b98109b134248ffb1efab86d6be703d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/39ec0779149b94af12d06d138e3572e2.jpg",
+        "https://lzd-u.slatic.net/485f515efe9b4317a30662450e83e8c9_5b98109b134248ffb1efab86d6be703d.jpg"
+      ]
+    },
+    {
+      "review_id": 443521866156708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Chưa thấy shop mall nào tệ như vậy. Đơn hàng nội thành nữa tháng mới giao (đó là có gọi tổng đài nhắc đơn mới giao).\nHứa ko bao giờ mua lại lần nữa.",
+      "buyer_name": "H***C",
+      "likes": 0,
+      "created_at": "2025-04-16",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 443479222056708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Đánh giá có nghĩa nhận định giá trị. Những từ có nghĩa gần với đánh giá là phê bình, nhận xét, nhận định, bình luận, xem xét.[1] Đánh giá một đối tượng nào đó, chẳng hạn một con người, một tác phẩm nghệ thuật, một sản phẩm hàng hoá hay dịch vụ, đội ngũ giáo viên hay \n\nGiao hàng lâu",
+      "buyer_name": "3***0",
+      "likes": 0,
+      "created_at": "2025-04-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/62508125d3f94460a685acd166b905be_3_1744715803.164029.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/62508125d3f94460a685acd166b905be_3_1744715803.164029.jpg"
+      ]
+    },
+    {
+      "review_id": 443192387656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa chua ngon và lành mạnh, Bao bì lạnh đảm bảo độ tươi, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh,",
+      "buyer_name": "****8",
+      "likes": 2,
+      "created_at": "2025-04-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/c2c421138288dab8236b5d6bb64dda35.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/55b62e06702e43d69eab6570b998f447_1_1744103817.017319.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/c2c421138288dab8236b5d6bb64dda35.jpg",
+        "https://lzd-u.slatic.net/55b62e06702e43d69eab6570b998f447_1_1744103817.017319.jpg"
+      ]
+    },
+    {
+      "review_id": 443029355756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Sữa chua ngon và lành mạnh, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh,",
+      "buyer_name": "V***.",
+      "likes": 2,
+      "created_at": "2025-04-05",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 442174553256708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Mua rất nhiều lần nhưng shop phản hồi rất chậm. Thực sự ntn cũng kbh mua lại.  Chuyển qua vnm cho r",
+      "buyer_name": "0***2",
+      "likes": 0,
+      "created_at": "2025-04-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d5000cb61ed847629619b27fdc681d9d_5_1743745130.215173.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d5000cb61ed847629619b27fdc681d9d_5_1743745130.215173.jpg"
+      ]
+    },
+    {
+      "review_id": 442061165556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Phản hồi rất rất chậm.  Ôi bực mình rồi sẽ có ngày tôi chuyển qua dùng sữa TH thôi",
+      "buyer_name": "0***2",
+      "likes": 0,
+      "created_at": "2025-04-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d5000cb61ed847629619b27fdc681d9d_7_1743745265.880100.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d5000cb61ed847629619b27fdc681d9d_7_1743745265.880100.jpg"
+      ]
+    },
+    {
+      "review_id": 442520014356708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh, Giá trị tuyệt vời cho số tiền bỏ ra, Sữa chua ngon và lành mạnh,",
+      "buyer_name": "*******567",
+      "likes": 1,
+      "created_at": "2025-04-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/b26b268f66f842f2b61eecb69e4235ba.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b7f0b930522f402b9025cb9cb4a426f6_1_1743755007.552424.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/b26b268f66f842f2b61eecb69e4235ba.jpg",
+        "https://lzd-u.slatic.net/b7f0b930522f402b9025cb9cb4a426f6_1_1743755007.552424.jpg"
+      ]
+    },
+    {
+      "review_id": 442995020356708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "9***7",
+      "likes": 0,
+      "created_at": "2025-04-03",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 442942530156708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "ngon",
+      "buyer_name": "Lê T.Thuỳ Linh",
+      "likes": 2,
+      "created_at": "2025-04-01",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/8a78065ca65cfc1c9e8e72f993740e92.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6e8f6546a94d40a88801c0fe633eef3a_1_1743508108.908104.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/8a78065ca65cfc1c9e8e72f993740e92.jpg",
+        "https://lzd-u.slatic.net/6e8f6546a94d40a88801c0fe633eef3a_1_1743508108.908104.jpg"
+      ]
+    },
+    {
+      "review_id": 442891325256708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hỗ trợ tiêu hóa, bổ sung vi khuẩn có lợi cho đường ruột: vì sữa chua có rất nhiều các vi sinh vật probiotic\nTăng cường sức đề kháng: ăn sữa chua thường xuyên cũng làm tăng khả năng miễn dịch của cơ thể",
+      "buyer_name": "Hà Dương",
+      "likes": 2,
+      "created_at": "2025-03-31",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/1823cec98e8c4777be6cbfa4d0bc3c1a.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/358a3f1743ca7101ea7a06c94747ad35.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6337cc9599654addabdf5b8f9e76b69e_7_1743424662.263604.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/1823cec98e8c4777be6cbfa4d0bc3c1a.jpg",
+        "https://sg-test-11.slatic.net/p/358a3f1743ca7101ea7a06c94747ad35.jpg",
+        "https://lzd-u.slatic.net/6337cc9599654addabdf5b8f9e76b69e_7_1743424662.263604.jpg"
+      ]
+    },
+    {
+      "review_id": 442752638756708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa chua ngon và lành mạnh, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Bao bì lạnh đảm bảo độ tươi, Thúc đẩy lối sống lành mạnh, Giá trị tuyệt vời cho số tiền bỏ ra, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh, Hương vị tự nhiên tươi mát,",
+      "buyer_name": "Le Quyen",
+      "likes": 2,
+      "created_at": "2025-03-30",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/fff3e2ead6210561517a4ed991668e1d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/83cb0bae8088488bb8c0904870bd197b_73c0626c21224ac2b59bf9cdf224a656.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/fff3e2ead6210561517a4ed991668e1d.jpg",
+        "https://lzd-u.slatic.net/83cb0bae8088488bb8c0904870bd197b_73c0626c21224ac2b59bf9cdf224a656.jpg"
+      ]
+    },
+    {
+      "review_id": 442223707656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì lạnh đảm bảo độ tươi, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Thúc đẩy lối sống lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "phạm hạnh",
+      "likes": 1,
+      "created_at": "2025-03-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/8e00e1e7ba0207202b11f19530f3da8f.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/0bfedd514f0e4ea692b2490cb4dcd7ed_3_1743254922.893230.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/8e00e1e7ba0207202b11f19530f3da8f.jpg",
+        "https://lzd-u.slatic.net/0bfedd514f0e4ea692b2490cb4dcd7ed_3_1743254922.893230.jpg"
+      ]
+    },
+    {
+      "review_id": 442522902156708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "ngon",
+      "buyer_name": "0***6",
+      "likes": 1,
+      "created_at": "2025-03-28",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/53917f78e7a844a3a6c232014c513c8b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/56b40f64d16c7cf1bb9bcfedd99b085f.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/46303ed2927b44feb2824ec2b792c45f_1_1743173804.047940.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/53917f78e7a844a3a6c232014c513c8b.jpg",
+        "https://sg-test-11.slatic.net/p/56b40f64d16c7cf1bb9bcfedd99b085f.jpg",
+        "https://lzd-u.slatic.net/46303ed2927b44feb2824ec2b792c45f_1_1743173804.047940.jpg"
+      ]
+    },
+    {
+      "review_id": 442325607656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Sữa chua ngon và lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "구미호",
+      "likes": 2,
+      "created_at": "2025-03-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/a9b43b33b69a439480b2ca95391523b2.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/4f1e3a33ec4a61b5b26da750da97959e.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/3f376e01e3ac471baf3c3db2cf685e99_1_1742881288.263912.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/3f376e01e3ac471baf3c3db2cf685e99_4_1742881329.898405.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/a9b43b33b69a439480b2ca95391523b2.jpg",
+        "https://sg-test-11.slatic.net/p/4f1e3a33ec4a61b5b26da750da97959e.jpg",
+        "https://lzd-u.slatic.net/3f376e01e3ac471baf3c3db2cf685e99_1_1742881288.263912.jpg",
+        "https://lzd-u.slatic.net/3f376e01e3ac471baf3c3db2cf685e99_4_1742881329.898405.jpg"
+      ]
+    },
+    {
+      "review_id": 442220854956708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "giao hàng siêu lâu, hơn nửa tháng mới giao, sau bao lần gọi điện nhắn tin",
+      "buyer_name": "Nguyễn Đ.",
+      "likes": 0,
+      "created_at": "2025-03-22",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 441723789756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "giao trong bán kính 15km mà khi nào đặt cũng phải xuống  cửa hàng lấy chứ nhân viên k giao lên, trừ 1 điểm. chất lượng sản phẩm thì ok.",
+      "buyer_name": "9***8",
+      "likes": 2,
+      "created_at": "2025-03-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/445fcc7626adf7a8af6401974eea5aa6.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/62f29bd745a04ea28496d9cb961d8d90_159736d75c5b4efcb6d4adfd7bc27c9f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/445fcc7626adf7a8af6401974eea5aa6.jpg",
+        "https://lzd-u.slatic.net/62f29bd745a04ea28496d9cb961d8d90_159736d75c5b4efcb6d4adfd7bc27c9f.jpg"
+      ]
+    },
+    {
+      "review_id": 441507475956708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Tốt",
+      "buyer_name": "Third-Party-User",
+      "likes": 0,
+      "created_at": "2025-03-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 441336297156708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Đặt hàng mà 3 tuần mới giao không hiểu cửa hàng buôn bán và tự vận chuyển kiểu gì, shop vinamilk thì rất nhiều. Lazada nên quản lý mấy shop kiểu này để tránh  mất uy tín",
+      "buyer_name": "le minh hau",
+      "likes": 0,
+      "created_at": "2025-03-02",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/44c02dcea0eb49c28d57b861b66d88cd_4_1740924798.830180.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/44c02dcea0eb49c28d57b861b66d88cd_4_1740924798.830180.jpg"
+      ]
+    },
+    {
+      "review_id": 440905418856708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Ntloan",
+      "likes": 1,
+      "created_at": "2025-02-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/0d9d5aac8f9c45de978cbdecfb0e7dc0_2_1740053838.969317.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/0d9d5aac8f9c45de978cbdecfb0e7dc0_2_1740053838.969317.jpg"
+      ]
+    },
+    {
+      "review_id": 440867821656708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Phượngg Trần",
+      "likes": 0,
+      "created_at": "2025-02-19",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 440691477056708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Đặt có tặng cốc thuỷ tinh mà nhận ko có",
+      "buyer_name": "Trang",
+      "likes": 0,
+      "created_at": "2025-02-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 440603611856708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Chất lượng vinamilk thì m k chê. Nhưng gần đây VnM giao hàng rất chậm, chat hỏi shop thì cho AI trả lời rất vớ vẩn, k gặp được nhân viên. Gọi tổng đài thì kêu Nv bận hết k ai trả lời. Hn m rất bực mình phải viết email claim. Được cái nhận được email NV vinamilk xử ký luôn nên mình vẫn cho 4*. \nĐề nghị VNM xem lại cải thiện tốc độ giao hàng, m dính đơn này là đơn t2 r. Và đừng dùng AI nói ch với KH nữa rất ức chế\nTrước đặt cái chiều hoặc 2-3 hm sau NV cửa hàng giao luôn",
+      "buyer_name": "Bông Tuyết",
+      "likes": 2,
+      "created_at": "2025-02-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/de93c205335f411a8fa508b9762fbcbf_3_1739445440.363369.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/de93c205335f411a8fa508b9762fbcbf_3_1739445440.363369.jpg"
+      ]
+    },
+    {
+      "review_id": 439508514856708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "Hạn sử dụng dụng đến cuối tháng 2 , h đag là giữa tháng 1.\nhsd hơi ngắn nhưng vì săn nên tạm chấp nhận \nnhân viên ship hàng giữa trưa hơn 12h, vào h nghỉ ngơi của khách hàng nhưng không gọi trước .\nmk cảm thấy k hài lòng chút nào vs đơn hàng này.",
+      "buyer_name": "0***4",
+      "likes": 0,
+      "created_at": "2025-01-16",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/efe53afbc9d142c6bde4ec7b8f1ad8ec_e7fb8ca55912482d951e2204e6ee3188.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/efe53afbc9d142c6bde4ec7b8f1ad8ec_e7fb8ca55912482d951e2204e6ee3188.jpg"
+      ]
+    },
+    {
+      "review_id": 439173710756708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng tận 9 ngày, liên hệ thì toàn trả lời tự động, dịch vụ siêu kém",
+      "buyer_name": "Y***g",
+      "likes": 0,
+      "created_at": "2025-01-09",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 438962685556708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Giao hàng nhanh, đúng sản phẩm mẫu. Giá săn sale hợp lý  và đáng mua. Sẽ ủng hộ shop tiếp . Nhưng có điểm trừ là giao hàng cận date quá , 6/2 /2025 hết hạn",
+      "buyer_name": "Liên Lã Bích",
+      "likes": 1,
+      "created_at": "2025-01-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/c0b3dbb45b4b48dc9731600fc66e4cbc.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/d950d2bf9fc9acc1de41a53b66162fd3.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/bd98ac1c33994aee9b0591ff4855d1fd_1_1736351385.392085.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/c0b3dbb45b4b48dc9731600fc66e4cbc.jpg",
+        "https://sg-test-11.slatic.net/p/d950d2bf9fc9acc1de41a53b66162fd3.jpg",
+        "https://lzd-u.slatic.net/bd98ac1c33994aee9b0591ff4855d1fd_1_1736351385.392085.jpg"
+      ]
+    },
+    {
+      "review_id": 438456577856708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sữa chua ngon và lành mạnh,",
+      "buyer_name": "0***2",
+      "likes": 0,
+      "created_at": "2025-01-03",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 438649589356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Chưa nhận được hàng mà",
+      "buyer_name": "Dao",
+      "likes": 0,
+      "created_at": "2024-12-30",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e87f3de41a714b3caccfdf73a77a56a9_2_1735565955.185707.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e87f3de41a714b3caccfdf73a77a56a9_2_1735565955.185707.jpg"
+      ]
+    },
+    {
+      "review_id": 438446587756708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Lần đầu mua phải sữa cận date, chắc trừa ko dám mua hàng trên app hãng bán mất. Mua 2 thùng uống kiểu j 20 ngày hết đc",
+      "buyer_name": "Ly Lưu",
+      "likes": 0,
+      "created_at": "2024-12-28",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/24f88b3bae80444a9db9c778ea9d1b96_1_1735353295.109096.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/24f88b3bae80444a9db9c778ea9d1b96_1_1735353295.109096.jpg"
+      ]
+    },
+    {
+      "review_id": 437327364556708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Thúc đẩy lối sống lành mạnh, xin túi để đựng nhưng shop không cho",
+      "buyer_name": "Tống Khánh Linh",
+      "likes": 0,
+      "created_at": "2024-12-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/7e24fe464ab045198228310ff7774750_2_1735094659.194008.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/7e24fe464ab045198228310ff7774750_2_1735094659.194008.jpg"
+      ]
+    },
+    {
+      "review_id": 438330650556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Hàng k đi giam cái gần tháng trời,hủy k cho hủy \nĐặt 2 thùng 2 vị thì gửi 1 vị,quá là tệ hết sức",
+      "buyer_name": "Phươnganh",
+      "likes": 0,
+      "created_at": "2024-12-24",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 437793725056708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng chậm mà hủy k cho hủy",
+      "buyer_name": "Phươnganh",
+      "likes": 0,
+      "created_at": "2024-12-17",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 436587152256708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hương vị tự nhiên tươi mát,",
+      "buyer_name": "3***6",
+      "likes": 2,
+      "created_at": "2024-11-30",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/1b1d3cd0199044fb967fe3367a6e9816.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/515c2f2d069ee8632b37df354e455a29.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/666dac83c41c4b40a16fc240b5e8a29d_1_1732971522.747590.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/1b1d3cd0199044fb967fe3367a6e9816.jpg",
+        "https://sg-test-11.slatic.net/p/515c2f2d069ee8632b37df354e455a29.jpg",
+        "https://lzd-u.slatic.net/666dac83c41c4b40a16fc240b5e8a29d_1_1732971522.747590.jpg"
+      ]
+    },
+    {
+      "review_id": 435742227156708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng rất chậm. Nhà mình gần vinamilk ra cửa hàng lấy thì báo ko có đơn. Sau 10 ngày mình mới nhận được",
+      "buyer_name": "Trần Ngọc Diệp",
+      "likes": 0,
+      "created_at": "2024-11-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 435600860256708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Người bán tự vận chuyển. 10 ngày mới nhận được hàng ( mặc dù đã gọi điện cho bên chăm sóc khách hàng các kiểu dục giao hàng).",
+      "buyer_name": "guest",
+      "likes": 2,
+      "created_at": "2024-11-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 435013380956708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Không giao hàng nhưng tự ý đổi thành đã giao. Khiếu nại cũng ko đc. Mệt mỏi.",
+      "buyer_name": "9***5",
+      "likes": 0,
+      "created_at": "2024-11-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f5b335a8bcbf427f9e01000e0fae5c3d_2_1731597984.584927.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f5b335a8bcbf427f9e01000e0fae5c3d_2_1731597984.584927.jpg"
+      ]
+    },
+    {
+      "review_id": 433562005856708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hương vị tự nhiên tươi mát,",
+      "buyer_name": "Truong Ngoc Lam",
+      "likes": 2,
+      "created_at": "2024-11-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/9a44de7000b646eb9d8861cd7daf6e49.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/12eacf09c8f88b9327e9add7ea1a4b20.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/798700bdef22400cb9ba066360a685a6_87fe163006784dddb8367577842e777e.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/9a44de7000b646eb9d8861cd7daf6e49.jpg",
+        "https://sg-test-11.slatic.net/p/12eacf09c8f88b9327e9add7ea1a4b20.jpg",
+        "https://lzd-u.slatic.net/798700bdef22400cb9ba066360a685a6_87fe163006784dddb8367577842e777e.jpg"
+      ]
+    },
+    {
+      "review_id": 434894461956708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "",
+      "buyer_name": "Vũ Thanh",
+      "likes": 0,
+      "created_at": "2024-11-12",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 435030667656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa ngon uống hỗ trợ tiêu hoá vậy mà thấy tăng cân nữa nha okeelaaa á ún có 2 thùng từ 43 lên 49kg áThúc đẩy lối sống lành mạnh, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa,",
+      "buyer_name": "T***u",
+      "likes": 2,
+      "created_at": "2024-11-12",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/553c0d16f27f4e20adb0514bb791c4a8.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/7eee53a811b96c065f64956cc7cb7814.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/69730cb5365e4f8493a1a5d8340999bb_1_1731424559.925376.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/553c0d16f27f4e20adb0514bb791c4a8.jpg",
+        "https://sg-test-11.slatic.net/p/7eee53a811b96c065f64956cc7cb7814.jpg",
+        "https://lzd-u.slatic.net/69730cb5365e4f8493a1a5d8340999bb_1_1731424559.925376.jpg"
+      ]
+    },
+    {
+      "review_id": 433681114856708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "tốt",
+      "buyer_name": "Thu",
+      "likes": 0,
+      "created_at": "2024-11-05",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 434521129356708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Bao bì lạnh đảm bảo độ tươi, \nGiao hàng chậmGiá trị tuyệt vời cho số tiền bỏ ra, Sữa chua ngon và lành mạnh,",
+      "buyer_name": "Khánh Quyết Đỗ",
+      "likes": 0,
+      "created_at": "2024-11-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/c13c709cd68b4ec19676495af57769e1.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/d1588433b4ba12095314c631290f73df.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/0b01ce22fe204587a80c73529413c617_2_1730709255.711974.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/c13c709cd68b4ec19676495af57769e1.jpg",
+        "https://sg-test-11.slatic.net/p/d1588433b4ba12095314c631290f73df.jpg",
+        "https://lzd-u.slatic.net/0b01ce22fe204587a80c73529413c617_2_1730709255.711974.jpg"
+      ]
+    },
+    {
+      "review_id": 436214100956708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Hôm nay ngày 24/11 . Mk pải vào sửa đánh giá 🤨🤨🤨\n Nghĩ chắc bẩm tận 01/12/24 mới hết Date còn 2 lốc nữa gần đến Date hết là vừa. Ai rè nó hết date mấy hôm rồi. Bảo sao khi nhận hàng thùng sữa lại bị dán băng dính 1 đầu như kia. Shop đổi sữa Date ngắn 16/11 vào bên trong mặc dù thùng in 01/12 . Hôm nay uống mk mới để ý đến date lần nữa ( vì hôm nhanh hàng đọc ở vo thung la 01/12 nên mặc định date là ngày đó) thì thấy hết date 8 hôm rồi. May không cho con uống. Toàn mẹ nó uống suốt .   Đổi date ngắn cũng k bảo gì với khách luôn 🤨🤨🤨🤨",
+      "buyer_name": "H***n",
+      "likes": 0,
+      "created_at": "2024-10-26",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/3029cb8f22ef4253ac8eb2b107d31b05_1_1732461358.069756.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/3029cb8f22ef4253ac8eb2b107d31b05_2_1732461358.382266.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/3029cb8f22ef4253ac8eb2b107d31b05_1_1732461358.069756.jpg",
+        "https://lzd-u.slatic.net/3029cb8f22ef4253ac8eb2b107d31b05_2_1732461358.382266.jpg"
+      ]
+    },
+    {
+      "review_id": 434002373056708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Đặt hàng từ ngày 14/10 đến ngày 26/10 mới nhận được hàng.hết hàng cửa hàng không thông báo,gọi lên tổng đài thì bận liên tục.đến gọi gọi được thì cửa hàng hẹn sẽ giao vào ngày mai,đến ngày hẹn vẫn không thấy giao phải tự lại cửa hàng lấy",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2024-10-26",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 433868505356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng quá lâu. Chờ mãi k thấy giao gọi lên tổng đài lần 1 thì hẹn thứ 3 giao mà đến thứ 5 phải gọi lên tổng đài lần 2 mới giao. Đặt thùng mà đi giao lẻ",
+      "buyer_name": "H***n",
+      "likes": 0,
+      "created_at": "2024-10-24",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/fe50558dc62846818dce3d2d4e008aa0_de0bfba3853e4ffdba179a9e2a8c9865.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/fe50558dc62846818dce3d2d4e008aa0_de0bfba3853e4ffdba179a9e2a8c9865.jpg"
+      ]
+    },
+    {
+      "review_id": 433349781756708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "",
+      "buyer_name": "9***6",
+      "likes": 0,
+      "created_at": "2024-10-24",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 433428184456708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng siêu lâu, tôi còn 1 đơn đặt từ 10-10 vẫn chưa đc giao nhắn tin cho shop toàn Chat box trả lời.\nProbi thì chất lượng ko có gì để phàn nàn sữa ngon, date xa",
+      "buyer_name": "Đặng Thu Hoài",
+      "likes": 0,
+      "created_at": "2024-10-22",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 433455694956708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "cửa hàng 74 mai dịch hà nội thái độ không coi khách hàng ra gì, mình đặt hàng để được ship tận nơi thì cửa hàng nói phải qua lấy, doạ hủy đơn. Sau khi khiếu nại với Vinamilk thì 2 hôm sau đã được giao hàng, nhận viên giao thái độ rất khó chịu. chúng tôi là khách hàng và cần được tôn trọng!",
+      "buyer_name": "0***5",
+      "likes": 0,
+      "created_at": "2024-10-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/890ce8be1f834ef8a049c70e5bfc53df_be0d8515a96b499099901ae7c4f9e002.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/890ce8be1f834ef8a049c70e5bfc53df_be0d8515a96b499099901ae7c4f9e002.jpg"
+      ]
+    },
+    {
+      "review_id": 433183134356708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "",
+      "buyer_name": "C***i",
+      "likes": 0,
+      "created_at": "2024-10-17",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 433171833456708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "",
+      "buyer_name": "Trần",
+      "likes": 0,
+      "created_at": "2024-10-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 433993968556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "2 lốc sữa có 2 chai tách nước, lắng cặn. Báo Vinamilk giải thích thì 1 tuần trời chỉ nhận được câu ghi nhận, chuyển bộ phận phụ trách liên hệ lại. Trong khi vấn đề liên quan đến chất lượng sản phẩm, cần làm rõ sớm cho người tiêu dùng yên tâm thì không biết “người phụ trách” đến khi nào mới quan tâm trải nghiệm người dùng😡",
+      "buyer_name": "N***n",
+      "likes": 0,
+      "created_at": "2024-10-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/7d8f10ebfaee448b9ce0b3533430aa7e_1_1729932348.906752.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/7d8f10ebfaee448b9ce0b3533430aa7e_2_1729932349.059004.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/7d8f10ebfaee448b9ce0b3533430aa7e_1_1729932348.906752.jpg",
+        "https://lzd-u.slatic.net/7d8f10ebfaee448b9ce0b3533430aa7e_2_1729932349.059004.jpg"
+      ]
+    },
+    {
+      "review_id": 431505326956708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Hồ Thị Dung",
+      "likes": 0,
+      "created_at": "2024-10-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 432223395356708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì tiện lợi để mang theo, Bao bì lạnh đảm bảo độ tươi, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa,",
+      "buyer_name": "Chi",
+      "likes": 2,
+      "created_at": "2024-10-09",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/49f941767c2574dd9b9ca8f4b5573fd0.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/9d38fa8999b24d3a8deab80ba9f5cb6c_1_1728441992.759904.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/49f941767c2574dd9b9ca8f4b5573fd0.jpg",
+        "https://lzd-u.slatic.net/9d38fa8999b24d3a8deab80ba9f5cb6c_1_1728441992.759904.jpg"
+      ]
+    },
+    {
+      "review_id": 431474538256708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "N***g",
+      "likes": 2,
+      "created_at": "2024-10-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/05ca3ae7198c420ead592c0c0fca4ab1.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/644b42825e739cf488196c8263ba467d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/1dcfb8b026ab411fbca2b45781dad915_4_1728345950.728700.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/05ca3ae7198c420ead592c0c0fca4ab1.jpg",
+        "https://sg-test-11.slatic.net/p/644b42825e739cf488196c8263ba467d.jpg",
+        "https://lzd-u.slatic.net/1dcfb8b026ab411fbca2b45781dad915_4_1728345950.728700.jpg"
+      ]
+    },
+    {
+      "review_id": 432043105556708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "",
+      "buyer_name": "Third-Party-User",
+      "likes": 0,
+      "created_at": "2024-10-02",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 432039010956708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Third-Party-User",
+      "likes": 0,
+      "created_at": "2024-10-02",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 432099167056708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "",
+      "buyer_name": "*******880",
+      "likes": 0,
+      "created_at": "2024-09-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 431046393456708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "shop giao không đúng mẫu.minhf đặt là vfresh. mình liên hệ cả tuần không trả lời .",
+      "buyer_name": "chipchip",
+      "likes": 0,
+      "created_at": "2024-09-22",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c76656ec4239464d9e094244ffbd2fd5_6becbae34a634d9e807c8cd7a5b8075e.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/bb028a7da9a740998da9d65c44cc711d_44b3ffdc78ea404e8daf1094285ff50d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c76656ec4239464d9e094244ffbd2fd5_6becbae34a634d9e807c8cd7a5b8075e.jpg",
+        "https://lzd-u.slatic.net/bb028a7da9a740998da9d65c44cc711d_44b3ffdc78ea404e8daf1094285ff50d.jpg"
+      ]
+    },
+    {
+      "review_id": 431513941856708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Hàng đặt 10ngay ko giao mình phải tự ra cửa hàng để lấy chánnn!!!!",
+      "buyer_name": "Na",
+      "likes": 0,
+      "created_at": "2024-09-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 431595810556708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "",
+      "buyer_name": "Van Phu Ha",
+      "likes": 0,
+      "created_at": "2024-09-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 431465921056708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Giao hàng lâu quá. 10 ngày mới nhận dc , sản phầm k vấn đề chỉ cả hh",
+      "buyer_name": "Nguyệt moon",
+      "likes": 0,
+      "created_at": "2024-09-18",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/7d361168b896498abd995581d6710bb5_1_1726654155.731853.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/7d361168b896498abd995581d6710bb5_1_1726654155.731853.jpg"
+      ]
+    },
+    {
+      "review_id": 431009619756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "*******880",
+      "likes": 0,
+      "created_at": "2024-09-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 429735687956708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "",
+      "buyer_name": "9***9",
+      "likes": 0,
+      "created_at": "2024-09-09",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 430554292856708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "Giao hàng gì hạn sử dụng còn có 1 tháng",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2024-09-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 430573719756708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa,",
+      "buyer_name": "Tài",
+      "likes": 0,
+      "created_at": "2024-09-05",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 428943445356708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sản phẩm ok, giao hàng nhanh, đóng gói kỹ, sẽ mua tiếp ",
+      "buyer_name": "D***o",
+      "likes": 2,
+      "created_at": "2024-08-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 429167961156708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Chất lượng thì không có gì phàn nàn. Tuy nhiên về cách phục vụ và xử lý đơn hàng thì nếu k có sao có lẽ tôi sẽ để 0 sao. Bực mình lắm. Đặt 2 đơn thì giao có 1 đơn. Đã rất nhiều lần như thế rồi. Nếu k phải vì. Gười việt ủng họp san phẩm Việt thì tôi đã bỏ qua hãng khác luôn. Làm ăn vậy sao có fan cứng được. Coi thường khách quá.",
+      "buyer_name": "Hien Nguyen",
+      "likes": 0,
+      "created_at": "2024-08-17",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f496e601604647148bdb42ba43bee31b_1_1723868006.881959.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f496e601604647148bdb42ba43bee31b_1_1723868006.881959.jpg"
+      ]
+    },
+    {
+      "review_id": 429022444556708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "*******968",
+      "likes": 0,
+      "created_at": "2024-08-15",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 428355604756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "16thanq11",
+      "likes": 0,
+      "created_at": "2024-08-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 428890344556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "mọi ng chú ý đừng để logo lazmall trợ giá l. ừa nhé, đẩy giá lên cao rồi hạ xuống, m mua sale 8.8 và trợ giá gì nữa mà còn đắt hơn thị trường mấy chục 1 thùng 😭",
+      "buyer_name": "Đỗ Phương",
+      "likes": 0,
+      "created_at": "2024-08-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c3b6eefd6abe4ca9800630739cc1290f_5070193fe70341b4822daa4c8a36fb25.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c3b6eefd6abe4ca9800630739cc1290f_5070193fe70341b4822daa4c8a36fb25.jpg"
+      ]
+    },
+    {
+      "review_id": 426967398356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "ko giao hàng nên đánh giÁ 1*",
+      "buyer_name": "0***6",
+      "likes": 0,
+      "created_at": "2024-08-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 428570963956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "thơm ngon",
+      "buyer_name": "Hoàng Hương",
+      "likes": 2,
+      "created_at": "2024-08-09",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/cf47690295cd4c52896908817c7a4eec.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/bcc00f7539bb1ff003cb9c4762df473b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/c41cef15703c4faca99f425ce8b02c8b_60ff9a13bb4044849cfb43b04ebf3144.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/cf47690295cd4c52896908817c7a4eec.jpg",
+        "https://sg-test-11.slatic.net/p/bcc00f7539bb1ff003cb9c4762df473b.jpg",
+        "https://lzd-u.slatic.net/c41cef15703c4faca99f425ce8b02c8b_60ff9a13bb4044849cfb43b04ebf3144.jpg"
+      ]
+    },
+    {
+      "review_id": 428552852456708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "đâng đồng tiền,mua rẻLý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh, Tăng cường hệ miễn dịch và tăng cường tiêu hóa,",
+      "buyer_name": "Thu Mít",
+      "likes": 1,
+      "created_at": "2024-08-09",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/d8b0451193366e3c3d06e7eda5a3b4b8.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/64bc008b06584d3389e07e6ef6b98b1c_bcf1b01b11c34b7da0f7a4ec9e643b73.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/d8b0451193366e3c3d06e7eda5a3b4b8.jpg",
+        "https://lzd-u.slatic.net/64bc008b06584d3389e07e6ef6b98b1c_bcf1b01b11c34b7da0f7a4ec9e643b73.jpg"
+      ]
+    },
+    {
+      "review_id": 427300063056708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Hương vị tự nhiên thơm ngon, Tăng cường hệ miễn dịch và tăng cường tiêu hóa, Bao bì giữ lạnh đảm bảo tươi ngon, Bao bì giữ lạnh đảm bảo tươi ngon, Đóng gói tiện lợi, dễ mang theo,",
+      "buyer_name": "9***2",
+      "likes": 1,
+      "created_at": "2024-08-06",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/f73ac76e331146de923f93cc8c2138b6.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/810351929182fc39adf2eb41aedeffa4.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5c4f3f230eb54e40983060ab56379a20_1_1722910276.237132.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5c4f3f230eb54e40983060ab56379a20_2_1722910290.080785.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/f73ac76e331146de923f93cc8c2138b6.jpg",
+        "https://sg-test-11.slatic.net/p/810351929182fc39adf2eb41aedeffa4.jpg",
+        "https://lzd-u.slatic.net/5c4f3f230eb54e40983060ab56379a20_1_1722910276.237132.jpg",
+        "https://lzd-u.slatic.net/5c4f3f230eb54e40983060ab56379a20_2_1722910290.080785.jpg"
+      ]
+    },
+    {
+      "review_id": 427970710856708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Trần Hương Thủy",
+      "likes": 0,
+      "created_at": "2024-08-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 427865817656708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì giữ lạnh đảm bảo tươi ngon, Giá trị tuyệt vời cho số tiền bỏ ra, Thúc đẩy lối sống lành mạnh, Đóng gói tiện lợi, dễ mang theo, Hương vị tự nhiên thơm ngon, Tăng cường hệ miễn dịch và tăng cường tiêu hóa,",
+      "buyer_name": "Nguyễn Uyên Nhi",
+      "likes": 2,
+      "created_at": "2024-08-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/75e754fbe3634422399dfe94041ea950.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b619ac1525e24675aa4f6d51a83dc28d_4ce8713e8aae4e95bd37e7b33b3fc053.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/75e754fbe3634422399dfe94041ea950.jpg",
+        "https://lzd-u.slatic.net/b619ac1525e24675aa4f6d51a83dc28d_4ce8713e8aae4e95bd37e7b33b3fc053.jpg"
+      ]
+    },
+    {
+      "review_id": 427906038456708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "k hài lòng về dv vận chuyển. tại sao bị mất phí ship. trong khi đơn hàng đc miễn phí ship. sản phẩm thì ok",
+      "buyer_name": "maile Phan",
+      "likes": 0,
+      "created_at": "2024-07-30",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f49a530b65674cc898d2e68d3e347518_263102b39a6e4db9b3d412f1f5b322c5.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f49a530b65674cc898d2e68d3e347518_263102b39a6e4db9b3d412f1f5b322c5.jpg"
+      ]
+    },
+    {
+      "review_id": 427662336356708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "Bị vinamilk huỷ 2 đơn hàng méo hiểu vì sao. Nên đơn này mình đánh giá 2 sao vì đơn cũ bị xử lý quá tệ nha. Còn lại thì ok, đơn này shop giao nhanh dịch vụ tốt",
+      "buyer_name": "Amy H",
+      "likes": 0,
+      "created_at": "2024-07-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ff9cd7dcaa6345b882e76e3eed0d3c21_5_1722223592.484620.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ff9cd7dcaa6345b882e76e3eed0d3c21_5_1722223592.484620.jpg"
+      ]
+    },
+    {
+      "review_id": 427054191056708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Hạn sử dụng xa, sữa mới tinh, vận chuyển đúng cách , h ai lòng lắm Lý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh, Đóng gói tiện lợi, dễ mang theo, Sữa chua ngon và lành mạnh,",
+      "buyer_name": "0***1",
+      "likes": 0,
+      "created_at": "2024-07-19",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/a6b0c085e3f14f2b9f6aace24d686553.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/e42553b73e267a1cbd43a0421c1f7d5f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/a6b0c085e3f14f2b9f6aace24d686553.jpg",
+        "https://sg-test-11.slatic.net/p/e42553b73e267a1cbd43a0421c1f7d5f.jpg"
+      ]
+    },
+    {
+      "review_id": 426512738556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "ko nên mua shop này vì có khi k giao, giao chậm làm phát điên lên, chán dù ở cách shop 1 đoạn",
+      "buyer_name": "0***9",
+      "likes": 0,
+      "created_at": "2024-07-17",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e68d266a02e44ae2bf9d1a03a43b5192_5_1721182840.767697.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e68d266a02e44ae2bf9d1a03a43b5192_5_1721182840.767697.jpg"
+      ]
+    },
+    {
+      "review_id": 426577697956708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Săn sale rẻ nhưng giao lâu kinh khủng . Đặt 7.7 đến tận 17.7 nv mới nhắn ra cửa hàng lấy . Nhắn tin cho shop không ai trả lời , gọi hotline thuê bao . Quá tệ",
+      "buyer_name": "v***g",
+      "likes": 0,
+      "created_at": "2024-07-17",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/7a9a333ac3144d69a1985e799cb134ba_1_1721196301.386534.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/7a9a333ac3144d69a1985e799cb134ba_1_1721196301.386534.jpg"
+      ]
+    },
+    {
+      "review_id": 424733134156708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "tệ , không nên mua, chất lượn kém, dịch vụ kém, mọi thứ đều kém vô cùng",
+      "buyer_name": "Nguyen Hung",
+      "likes": 0,
+      "created_at": "2024-07-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 425062445356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao chậm, phục vụ kém",
+      "buyer_name": "Trà Nghĩa",
+      "likes": 0,
+      "created_at": "2024-07-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 425871745956708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Mong shop sẽ liên hệ sớm với mình để e giải quyết cho mình",
+      "buyer_name": "097*54",
+      "likes": 0,
+      "created_at": "2024-07-09",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d494383ba3e441f4a769d346f6bb3488_1_1720461483.441512.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d494383ba3e441f4a769d346f6bb3488_1_1720461483.441512.jpg"
+      ]
+    },
+    {
+      "review_id": 425365549456708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "",
+      "buyer_name": "0***0",
+      "likes": 0,
+      "created_at": "2024-07-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d0da067adec24b90a0b61f47143ac378_243c2d5526ab472b9eb9415eebd87e60.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d0da067adec24b90a0b61f47143ac378_243c2d5526ab472b9eb9415eebd87e60.jpg"
+      ]
+    },
+    {
+      "review_id": 425769177856708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì giữ lạnh đảm bảo tươi ngon, Tăng cường hệ miễn dịch và tăng cường tiêu hóa, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "Dương Mai Hương",
+      "likes": 2,
+      "created_at": "2024-07-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/a968987b482b4cd6a5e32d6e3ebc06b9.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/670b5ee5cbfad5c05cd590ab043659f7.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/965c6a359cdc430eaefe47e88d3f3051_9_1720456352.968470.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/965c6a359cdc430eaefe47e88d3f3051_10_1720456352.982395.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/a968987b482b4cd6a5e32d6e3ebc06b9.jpg",
+        "https://sg-test-11.slatic.net/p/670b5ee5cbfad5c05cd590ab043659f7.jpg",
+        "https://lzd-u.slatic.net/965c6a359cdc430eaefe47e88d3f3051_9_1720456352.968470.jpg",
+        "https://lzd-u.slatic.net/965c6a359cdc430eaefe47e88d3f3051_10_1720456352.982395.jpg"
+      ]
+    },
+    {
+      "review_id": 425268764456708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Bt giao nhanh, lần này đặt Thì lâu, đặt thứ 5 tuần trươc mà thứ t4 tuần sau mới giao..",
+      "buyer_name": "T***g",
+      "likes": 0,
+      "created_at": "2024-07-07",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/eff78b22fbaa4a9f99e950551449d2e3_5_1720326375.101570.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/eff78b22fbaa4a9f99e950551449d2e3_5_1720326375.101570.jpg"
+      ]
+    },
+    {
+      "review_id": 423331253456708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Bao bì giữ lạnh đảm bảo tươi ngon, Hương vị tự nhiên thơm ngon, giao hàng chậm",
+      "buyer_name": "Minh Hien",
+      "likes": 0,
+      "created_at": "2024-07-07",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/7075718d1d3446cdb850d0cb4d177612_1_1720327852.758703.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/7075718d1d3446cdb850d0cb4d177612_1_1720327852.758703.jpg"
+      ]
+    },
+    {
+      "review_id": 425342300656708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Đóng gói tiện lợi, dễ mang theo,",
+      "buyer_name": "9***0",
+      "likes": 0,
+      "created_at": "2024-07-05",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 425414933256708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "Huệ Chi Đỗ Thị",
+      "likes": 0,
+      "created_at": "2024-07-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/bf93a98bd71c48f09fe619a1a335080e_84c60ef38f524cbcbd8ebe5955493eaa.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/bf93a98bd71c48f09fe619a1a335080e_84c60ef38f524cbcbd8ebe5955493eaa.jpg"
+      ]
+    },
+    {
+      "review_id": 425326480556708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "Hương vị tự nhiên thơm ngon,Tăng cường hệ miễn dịch và tăng cường tiêu hóa,",
+      "buyer_name": "H***y",
+      "likes": 0,
+      "created_at": "2024-07-03",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 424766732156708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "SP tốt, mà mua giá vẫn cao hiii. Tăng cường hệ miễn dịch và tăng cường tiêu hóa, Hương vị tự nhiên thơm ngon,",
+      "buyer_name": "Nguyễn Cheon",
+      "likes": 1,
+      "created_at": "2024-07-01",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/f56edfdd5c617536d792df81109a8905.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/a35bb5aa247b4b03a6002cf1005db73a_160babc54ce442a2be6c739b29b79133.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/f56edfdd5c617536d792df81109a8905.jpg",
+        "https://lzd-u.slatic.net/a35bb5aa247b4b03a6002cf1005db73a_160babc54ce442a2be6c739b29b79133.jpg"
+      ]
+    },
+    {
+      "review_id": 424364514656708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Thật sự chán không muốn nói . Giao hàng tphcm mà giao hơn 10 ngày chưa tới nơi. Mua từ lúc khuyến mãi đầu tháng. Cuối tháng mới thấy giao hàng. Dịch vụ buôn bán kiểu này. Lần sau ai dám mua ủng hộ",
+      "buyer_name": "M***P",
+      "likes": 0,
+      "created_at": "2024-06-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/ce33d96e425b48e291bedaa9e076ec7b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/16c35f36713893ad9948be0203a4f538.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/60f56b625b4e491eacb949652e771891_1_1719304225.168175.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/ce33d96e425b48e291bedaa9e076ec7b.jpg",
+        "https://sg-test-11.slatic.net/p/16c35f36713893ad9948be0203a4f538.jpg",
+        "https://lzd-u.slatic.net/60f56b625b4e491eacb949652e771891_1_1719304225.168175.jpg"
+      ]
+    },
+    {
+      "review_id": 422848960356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "1* cho dịch vụ chăm sóc khách hàng. thích là hủy đơn. mua bên app vinamilk cũng bị hủy. đơn giao thì bắt đi lấy trong khi cửa hàng cách mấy trăm m.",
+      "buyer_name": "Trần Thúy Nhung",
+      "likes": 0,
+      "created_at": "2024-06-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/a8de6e240f77425da9dc954c6b7962f1_ac1d789380474fc6a91908ee801ce5fd.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/a8de6e240f77425da9dc954c6b7962f1_ac1d789380474fc6a91908ee801ce5fd.jpg"
+      ]
+    },
+    {
+      "review_id": 423522938956708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Sản phẩm ổn mà mk đặt 2 đơn đơn kia bị huỷ mk rất ko hài lòng nt thì ko tl chê nha shop bán hàng kì",
+      "buyer_name": "7***2",
+      "likes": 0,
+      "created_at": "2024-06-20",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c2af8a5d169e48ee958285602dc7d0b4_1_1718876686.569350.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c2af8a5d169e48ee958285602dc7d0b4_1_1718876686.569350.jpg"
+      ]
+    },
+    {
+      "review_id": 423812478056708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Hàng giống như hình đăng. Nhìn thấy ok. Đóng gói tốt. Đã mua nhiều lần. Nói chung là hài lòng.Sữa chua ngon và lành mạnh, Lần nầy giao hàng không còn lạnh.",
+      "buyer_name": "nguyen nha",
+      "likes": 0,
+      "created_at": "2024-06-16",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ec2d0ece00634037ad24376944eee359_0614f048271747a6947a7acdd08c6ac6.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ec2d0ece00634037ad24376944eee359_0614f048271747a6947a7acdd08c6ac6.jpg"
+      ]
+    },
+    {
+      "review_id": 422335530956708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "",
+      "buyer_name": "Ta Duc",
+      "likes": 0,
+      "created_at": "2024-06-10",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 423052395756708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "ngon thơm bé nhà mình rất thích mỗi tháng nhà mình mua 4 thùng cho shop",
+      "buyer_name": "******071",
+      "likes": 0,
+      "created_at": "2024-06-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c988ff202b724591bd388c7404532109_3_1717825610.879141.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/c988ff202b724591bd388c7404532109_4_1717825617.919220.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c988ff202b724591bd388c7404532109_3_1717825610.879141.jpg",
+        "https://lzd-u.slatic.net/c988ff202b724591bd388c7404532109_4_1717825617.919220.jpg"
+      ]
+    },
+    {
+      "review_id": 423083928256708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Giao hàng nhanh, đóng gói chưa tốt, thùng sữa bên ngoài thì khô, mở ra bên trong lại có nước bên ngoài các lốc sữa, chắc có hộp nào đó chảy ra",
+      "buyer_name": "Phan Trọng Thịnh",
+      "likes": 1,
+      "created_at": "2024-06-08",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/a212370042628a6decc464ddb9f77860.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_cb1688d3eaa742d981ce620fa6d2c8bd.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_84253d9e166346869c3809bde7fb95ed.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_a5211c2c8e8e44008fec1fc923783eeb.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_7962dbf93c684f4a92284a02ee518e68.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_4616ce0784f342d98f469ae7d232d952.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/a212370042628a6decc464ddb9f77860.jpg",
+        "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_cb1688d3eaa742d981ce620fa6d2c8bd.jpg",
+        "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_84253d9e166346869c3809bde7fb95ed.jpg",
+        "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_a5211c2c8e8e44008fec1fc923783eeb.jpg",
+        "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_7962dbf93c684f4a92284a02ee518e68.jpg",
+        "https://lzd-u.slatic.net/e5797c6989ea43fcb948498b14cca46c_4616ce0784f342d98f469ae7d232d952.jpg"
+      ]
+    },
+    {
+      "review_id": 422057986056708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Thúc đẩy lối sống lành mạnh, Lý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh, Giá trị tuyệt vời cho số tiền bỏ ra, Hương vị tự nhiên thơm ngon,",
+      "buyer_name": "******071",
+      "likes": 0,
+      "created_at": "2024-06-01",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 421081137556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Lý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh, Lý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh,",
+      "buyer_name": "Khuất Thị HIền",
+      "likes": 0,
+      "created_at": "2024-05-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/701b954bf3244da49e95da060517c0c9_1_1716619995.396270.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/701b954bf3244da49e95da060517c0c9_1_1716619995.396270.jpg"
+      ]
+    },
+    {
+      "review_id": 421677396956708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Bao bì giữ lạnh đảm bảo tươi ngon, Lý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh,",
+      "buyer_name": "Hậu Hậu",
+      "likes": 0,
+      "created_at": "2024-05-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/bcce33f28fea404a8c1a7c4bc2291afa_494062f692424627beab4d3b8101bbf1.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/bcce33f28fea404a8c1a7c4bc2291afa_494062f692424627beab4d3b8101bbf1.jpg"
+      ]
+    },
+    {
+      "review_id": 420574441456708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Cho 1* vì đơn hàng để rất lâu, phải nhắn shop nhiều lần mới có người liên hệ để giao. mới đây shop để 1 đơn gần 10 ngày, khi vừa nhắn tin hối thì hủy đơn luôn. Trong khi mình ở thành phố, rất gần cửa hàng vinamilk. Chắc k  cần khách hàng",
+      "buyer_name": "Trần Thúy Nhung",
+      "likes": 0,
+      "created_at": "2024-05-23",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/daf6692d6d844bd18b7e623d9967e38b_7eb5093a495840e69f0972cf9a3d3d60.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/daf6692d6d844bd18b7e623d9967e38b_7eb5093a495840e69f0972cf9a3d3d60.jpg"
+      ]
+    },
+    {
+      "review_id": 421419507756708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "chất lượng thì không phải bàn nhưng khâu cskh quá kém. giao hàng lâu",
+      "buyer_name": "n***ý",
+      "likes": 0,
+      "created_at": "2024-05-22",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d9e4ee53d4bc490b847715b9a1ddbb52_600477a30d5f49a39e73190df509dbd1.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d9e4ee53d4bc490b847715b9a1ddbb52_600477a30d5f49a39e73190df509dbd1.jpg"
+      ]
+    },
+    {
+      "review_id": 421373913756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy,",
+      "buyer_name": "Duy Bùi Minh",
+      "likes": 0,
+      "created_at": "2024-05-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 419165129556708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa ít đường nhưng vẫn rất ngọt. Ngọt kiểu toàn đường ý. Mh tự đến cửa hàng lấy mặc dù ở ko xa lắm.",
+      "buyer_name": "V***g",
+      "likes": 1,
+      "created_at": "2024-05-06",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/60b22249a112ae5491b4d12db6ad75e1.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e4f1d49ce3d849debb533f39635968f5_5_1714953741.234678.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/60b22249a112ae5491b4d12db6ad75e1.jpg",
+        "https://lzd-u.slatic.net/e4f1d49ce3d849debb533f39635968f5_5_1714953741.234678.jpg"
+      ]
+    },
+    {
+      "review_id": 419923944656708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "đã đặt đơn ở đây 2 lần và thanh toán trước nhưng khi giao lại lấy thêm tiền ship ?????vậy app mã để làm gì???giống như đi lừa đặt thì phải nhắc liên tục ko chịu giao",
+      "buyer_name": "Minhoanh",
+      "likes": 0,
+      "created_at": "2024-05-05",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 419684634656708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Sữa chua ngon và lành mạnh, giao hàng quá lâu trong khi cửa hàng sữa gần nhà",
+      "buyer_name": "Nguyễn Lương",
+      "likes": 0,
+      "created_at": "2024-05-04",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/91b27a978f234a4f87cae399b95f3c47_c86c2f39c8fe43978783822102de2bc4.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/91b27a978f234a4f87cae399b95f3c47_c86c2f39c8fe43978783822102de2bc4.jpg"
+      ]
+    },
+    {
+      "review_id": 419221443056708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Lý tưởng cho một món ăn nhẹ nhanh chóng và lành mạnh, Tăng cường hệ miễn dịch và tăng cường tiêu hóa,",
+      "buyer_name": "H***m",
+      "likes": 0,
+      "created_at": "2024-05-02",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/122088b6487c40179f640af03ede81db_1e8c9823cd77487a92f3b80080773284.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/122088b6487c40179f640af03ede81db_1e8c9823cd77487a92f3b80080773284.jpg"
+      ]
+    },
+    {
+      "review_id": 418313402656708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Sản phẩm không được giao, giao qua hàng xóm mà không một cuộc điện thoại, để 3 ngày mới biết có sữa\nLiên hệ sàn hay cửa hàng đều không được hỗ trợ. Lừa đảo! Mấy trăm ngàn không phải vấn đề, nhưng sữa chua uống để 2-3 ngày bên ngoài là lợi khuẩn biến thành vi khuẩn hết rồi!",
+      "buyer_name": "PT KH",
+      "likes": 0,
+      "created_at": "2024-05-01",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 417101574556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Bao bì không được giữ lạnh, giao hàng không gọi điện",
+      "buyer_name": "PT KH",
+      "likes": 0,
+      "created_at": "2024-05-01",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 418850504956708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Mua hàng mall nên yên tâm. Rẻ hơn mua bên ngoài tạp hoá. Chỉ có điều giao hàng hơi lâu",
+      "buyer_name": "N***g",
+      "likes": 0,
+      "created_at": "2024-05-01",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/e10ea9a78628222d688fa022c8470bac.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/1f0a1cfbe15b4433824f03c5149221c3_4_1714528822.382782.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/e10ea9a78628222d688fa022c8470bac.jpg",
+        "https://lzd-u.slatic.net/1f0a1cfbe15b4433824f03c5149221c3_4_1714528822.382782.jpg"
+      ]
+    },
+    {
+      "review_id": 418964117256708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Chất lượng, mùi vị miễn bàn. Vận chuyển khá lâu.",
+      "buyer_name": "0***6",
+      "likes": 0,
+      "created_at": "2024-04-25",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 418066693456708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "sản phẩm được trộn lẫn từ nhiều lốc có hạn sử dụng khác nhau trong đó có 1 lốc còn 3 tuần nữa hêt han.",
+      "buyer_name": "Sở Kiều",
+      "likes": 0,
+      "created_at": "2024-04-19",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/80667c4fcc2d46248fd0df3569b63072_6e9cd9f9def649cabc5451b0022779d6.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/80667c4fcc2d46248fd0df3569b63072_6e9cd9f9def649cabc5451b0022779d6.jpg"
+      ]
+    },
+    {
+      "review_id": 417781975656708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "đặt 2 đơn, bị nhà bán hủy 1 đơn, 1 đơn giao thì đổi 50 chai  nhỏ thành loại khác. uổng công săn sale mã giảm giá. làm ăn có tâm chút đi ạ",
+      "buyer_name": "T***a",
+      "likes": 0,
+      "created_at": "2024-04-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 416145415656708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "",
+      "buyer_name": "9***5",
+      "likes": 0,
+      "created_at": "2024-03-31",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 416300815156708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "N***i",
+      "likes": 0,
+      "created_at": "2024-03-31",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 415959766356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng quá lâu huỷ đơn thì ko cho",
+      "buyer_name": "Thanh Hang",
+      "likes": 0,
+      "created_at": "2024-03-27",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 415213206556708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Bao bì giữ lạnh đảm bảo tươi ngon, Sữa chua ngon và lành mạnh, Nhưng Phản hồi và giao hàng quá lâu,",
+      "buyer_name": "thúy",
+      "likes": 0,
+      "created_at": "2024-03-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c59d194f07f945e79e6871d655878ff2_1_1711030535.372290.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c59d194f07f945e79e6871d655878ff2_1_1711030535.372290.jpg"
+      ]
+    },
+    {
+      "review_id": 415250962056708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Sale nhưng date mới.\nChỉ trừ điểm la nvien gọi chốt đơm vinamilk nc k thân thiện hay qạo khó dễ",
+      "buyer_name": "Chuột Liii",
+      "likes": 0,
+      "created_at": "2024-03-21",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ac13d6730dea470ab4056728e276943d_1_1711014604.524552.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ac13d6730dea470ab4056728e276943d_1_1711014604.524552.jpg"
+      ]
+    },
+    {
+      "review_id": 414306515956708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Sản phẩm công ty ok. \nNhưng thái độ nv giao hàng rất tệ. Gọi đt cáu nhặng xị lên, giao hàng ko đúng địa chỉ nhà, bắt ra tận xa lấy hàng. Gặp khách nhận hàng thì nói khách ko ra gì :) cho dù thời gian gọi lấy hàng và nhận hàng cách nhau chưa đến 5’\n\nĐây là lần t3 t mua đơn của vinamilk qua lzd và lần này là lần tệ nhất. \n\nĐề nghị cửa hàng xem xét lại thái độ phục vụ của nhân viên giao đơn. Nếu ko thể cười tươi thân thiện, ít nhất cũng nên tôn trọng khách hàng \n\nĐánh giá 1 sao thì oan cho shop vì ko thể đánh đồng cá nhân vs cả tập thể. Nhưng đánh giá 5 sao thì ko thể được",
+      "buyer_name": "Huong Vũ",
+      "likes": 0,
+      "created_at": "2024-03-13",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 414226821556708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Thái độ bán hàng kém\nĐặt đơn 3/3 trả tiền trc mãi k giao,\nĐặt đơn 8/3 k trả tiền trc thì giao\nNt cho shop thì k tl\nK biết liên hệ kiểu gì",
+      "buyer_name": "Phạm xuân trường",
+      "likes": 0,
+      "created_at": "2024-03-12",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/110bdd47909f482e80a22301a261e4f4_1_1710243690.054100.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/110bdd47909f482e80a22301a261e4f4_1_1710243690.054100.jpg"
+      ]
+    },
+    {
+      "review_id": 413641258356708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Shop giao lần này quá là chậm gần chục ngày mới nhận lần trước tầm 2 ngày là đã nhận",
+      "buyer_name": "Ngọc",
+      "likes": 0,
+      "created_at": "2024-03-07",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 412213836856708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "Sữa thì ngon nhưng mà giao hàng quá trễ. nhắn tin không phản hồi.",
+      "buyer_name": "Phương",
+      "likes": 0,
+      "created_at": "2024-03-02",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 412506923856708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "Đặt đơn hàng thường xuyên chậm trễ, nhắn tin ko bao giờ trả lời cod khi 1 tháng trời mới giao và xui là ko giao luôn đó. Không hieu vinamilk làm ăn ntn",
+      "buyer_name": "C***i",
+      "likes": 0,
+      "created_at": "2024-02-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/34bd58af01e0428888d045b9cba769b0_1_1709189276.338216.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/34bd58af01e0428888d045b9cba769b0_1_1709189276.338216.jpg"
+      ]
+    },
+    {
+      "review_id": 412683608756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Giao hàng nhanh chóng, hàng date mới. Nhà mình rất thích vị này ít đường uống vừa tốt cho sức khoẻ.",
+      "buyer_name": "Nhật Minh Hoàng",
+      "likes": 0,
+      "created_at": "2024-02-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/0629b001f46649a1a66d2017700e0113_1_1709217123.265293.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/0629b001f46649a1a66d2017700e0113_1_1709217123.265293.jpg"
+      ]
+    },
+    {
+      "review_id": 412066109656708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Dao Quang Hung",
+      "likes": 0,
+      "created_at": "2024-02-26",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 410802239356708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Giao hàng quá lâu, lần trước gần 10 ngày mới giao nhưng còn đổi hàng bán ko đúng sp\nMall nhưng dịch vụ khá là tệ",
+      "buyer_name": "T***a",
+      "likes": 0,
+      "created_at": "2024-02-06",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 405362693756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Giao lâu khủng khiếp\nMua từ 12/12 đến qua giáng sinh luôn mới giao ( nội thành hcm) liên hệ lzd thì lzd mới liên hệ nhà bán hối thúc việc giao hàng…",
+      "buyer_name": "M***i",
+      "likes": 0,
+      "created_at": "2023-12-27",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/2d172c824dd64bc9841f949712f8c52a_1_1703652034.008009.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/2d172c824dd64bc9841f949712f8c52a_1_1703652034.008009.jpg"
+      ]
+    },
+    {
+      "review_id": 402326205056708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "giao hàng gần 1 tháng, nhân viên vinamilk thái độ tồi tệ, sản phẩm bth",
+      "buyer_name": "T***g",
+      "likes": 0,
+      "created_at": "2023-12-19",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6d203449d5234080abc1f1498115d9eb_1_1702949746.061509.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6d203449d5234080abc1f1498115d9eb_1_1702949746.061509.jpg"
+      ]
+    },
+    {
+      "review_id": 403585884856708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "Mình săn sale 12/12 đc giá rẻ nhưng mà nhận được thùng sữa chua thì đến nửa thùng bị móp méo và bị rò. 1 chai đổ hết ra ướt hết bao bì. Ko biết do từ cửa hàng đã bị như thế hay do bên vận chuyển nữa. Haizzz",
+      "buyer_name": "Thuy",
+      "likes": 0,
+      "created_at": "2023-12-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5377194e40f6437493581f2a48a3fc59_1_1702536528.059608.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5377194e40f6437493581f2a48a3fc59_1_1702536528.059608.jpg"
+      ]
+    },
+    {
+      "review_id": 403864195256708,
+      "product_id": "2756708",
+      "rating": 1,
+      "review_text": "mình đặt loại ít đường mà sao giao loại thường vậy shop ơi????",
+      "buyer_name": "Lap",
+      "likes": 0,
+      "created_at": "2023-12-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 402081155256708,
+      "product_id": "2756708",
+      "rating": 2,
+      "review_text": "chất lượng tốt, dịch vụ bán hàng quá kém, giao hàng quá lâu, thái độ ko tốt",
+      "buyer_name": "Lien Nguyen",
+      "likes": 0,
+      "created_at": "2023-11-29",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/49219b78d54a4c7b83b3dc4e96e948fc_9b09c2f28c174d92b9fdb17b46121add.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/49219b78d54a4c7b83b3dc4e96e948fc_9b09c2f28c174d92b9fdb17b46121add.jpg"
+      ]
+    },
+    {
+      "review_id": 376874763156708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "Giao hàng nhanh, date dài. Chỉ tiếc không cho sửa đơn hàng sau khi đặt để mình đặt thêm đồ.",
+      "buyer_name": "Nguyễn Thế Anh",
+      "likes": 0,
+      "created_at": "2023-04-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/0b3042d2d8b34a879c8f85d79453daa0_f50f8a0437294ed7a17fdf995aa54a0c.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/0b3042d2d8b34a879c8f85d79453daa0_f50f8a0437294ed7a17fdf995aa54a0c.jpg"
+      ]
+    },
+    {
+      "review_id": 375064247456708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Nguyen Thanh Thuy",
+      "likes": 0,
+      "created_at": "2023-03-27",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 374799000756708,
+      "product_id": "2756708",
+      "rating": 4,
+      "review_text": "đơn hàng chốt hơi lâu( 10 ngày sau ms nhận đc hàng). nhân viên gọi tới báo giao thì tầm 1h sau sẽ có ship giao tới ngay",
+      "buyer_name": "9***0",
+      "likes": 0,
+      "created_at": "2023-03-23",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ed19345590c64ca5a1534e862a050c6c_354a0be5e9c449e29168760b6be424a6.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ed19345590c64ca5a1534e862a050c6c_354a0be5e9c449e29168760b6be424a6.jpg"
+      ]
+    },
+    {
+      "review_id": 373829784056708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "đặt 5/3, giao 14/3. nv giao tới bảo hết thùng, giao 6 lốc bỏ trong túi nilong. cả 6 lốc đều khá cận date. tới tay đã 14/3 mà 5 lốc hạn 31/3, 1 lốc hạn 23/3. dịch vụ nbh thì tệ miễn bàn, đã giao lâu lắc khách nhắn cần hỗ trợ mà toàn tin tự động của trợ lý ảo chứ ko 1 nhân viên nào trực tin. thật sự là khách tỉnh đặt qua đây chỉ được mỗi cái ko tốn tiền ship còn lại âm điểm.",
+      "buyer_name": "Thanh Trần",
+      "likes": 0,
+      "created_at": "2023-03-14",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/68c00216b4e647a7beae18f48541e04b_1dba8e6118e9434f9bc514abf107728b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/68c00216b4e647a7beae18f48541e04b_58d4e69b113e468d8dc1513c4c0d95ac.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/68c00216b4e647a7beae18f48541e04b_1dba8e6118e9434f9bc514abf107728b.jpg",
+        "https://lzd-u.slatic.net/68c00216b4e647a7beae18f48541e04b_58d4e69b113e468d8dc1513c4c0d95ac.jpg"
+      ]
+    },
+    {
+      "review_id": 350974816456708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "rõ ràng ghi tặng 6hộp cùng loại, mà giao thì chỉ 3. Mình nhờ shipper về hỏi lại. Shipper rất nhiệt tình, sau đó đt nói là shop bảo tặng từ 1-6 hộp.",
+      "buyer_name": "Nguyen",
+      "likes": 0,
+      "created_at": "2022-08-11",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 468256820756708,
+      "product_id": "2756708",
+      "rating": 3,
+      "review_text": "",
+      "buyer_name": "0***2",
+      "likes": 0,
+      "created_at": "3 weeks ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 468320395356708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Bao bì lạnh đảm bảo độ tươi, Hương vị tự nhiên tươi mát, Tăng cường hệ thống miễn dịch và thúc đẩy tiêu hóa, Giá trị tuyệt vời cho số tiền bỏ ra,",
+      "buyer_name": "V***n",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/576caf2f3ad3993a75f31605d8f1d9c2.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/8542289981ab49ea9c564c4d9c7a9efc_1_1788686530.465240.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/576caf2f3ad3993a75f31605d8f1d9c2.jpg",
+        "https://lzd-u.slatic.net/8542289981ab49ea9c564c4d9c7a9efc_1_1788686530.465240.jpg"
+      ]
+    },
+    {
+      "review_id": 468462272456708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Đã nhận được sản phẩm . Date xa. Giao hàng đầy đủ . Đóng gói đẹp . Sản phẩm tốt. Shipper thân thiện . Nhiệt tình. Sẽ ủng hộ tiếp. Cảm ơn shop rất nhiều …",
+      "buyer_name": "l***e",
+      "likes": 1,
+      "created_at": "2 weeks ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/98268e54c16d495aa51d51af86b522fb_2_1788527565.263388.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/98268e54c16d495aa51d51af86b522fb_2_1788527565.263388.jpg"
+      ]
+    },
+    {
+      "review_id": 468232832956708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Thúc đẩy lối sống lành mạnh, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh,",
+      "buyer_name": "sơn",
+      "likes": 0,
+      "created_at": "1 week ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/f039f5853de89d30a1f758526bf46500.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f0a801679fa041a192ab9dc4aa3a6fbf_ecb097d6b06e41e394f798ea38650165.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/f039f5853de89d30a1f758526bf46500.jpg",
+        "https://lzd-u.slatic.net/f0a801679fa041a192ab9dc4aa3a6fbf_ecb097d6b06e41e394f798ea38650165.jpg"
+      ]
+    },
+    {
+      "review_id": 468446961056708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Giá trị tuyệt vời cho số tiền bỏ ra, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh, giao hơi lâu mong shop lần sau cải thiện hơn",
+      "buyer_name": "nguyen trung duc",
+      "likes": 2,
+      "created_at": "2 weeks ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/121d02a82a2d4f7f9400f3263b52d919_1_1788428841.954984.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/121d02a82a2d4f7f9400f3263b52d919_3_1788428849.555855.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/121d02a82a2d4f7f9400f3263b52d919_1_1788428841.954984.jpg",
+        "https://lzd-u.slatic.net/121d02a82a2d4f7f9400f3263b52d919_3_1788428849.555855.jpg"
+      ]
+    },
+    {
+      "review_id": 468197958256708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Cửa hàng giao sữa chua nhanh, date mới sản xuất. Sữa chua ngon và lành mạnh, Sữa chua chất lượng cao từ thương hiệu đáng tin cậy, Giá trị tuyệt vời cho số tiền bỏ ra, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh, Hương vị tự nhiên tươi mát, Bao bì tiện lợi để mang theo, Bao bì lạnh đảm bảo độ tươi.",
+      "buyer_name": "Nguyễn InkThoi",
+      "likes": 1,
+      "created_at": "4 weeks ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/b34b4dc32e9c4e84a9832c10ba1b2111_4620bb452fbf42c883ed8587f89750cf.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/aa61c7cea5c94a798c8101894d29dcda_2588d01b2ab44409ac1c86b9a4bdc526.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b34b4dc32e9c4e84a9832c10ba1b2111_67e168f4b0604503a61ff9e8a9c68fb7.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/b34b4dc32e9c4e84a9832c10ba1b2111_4620bb452fbf42c883ed8587f89750cf.jpg",
+        "https://lzd-u.slatic.net/aa61c7cea5c94a798c8101894d29dcda_2588d01b2ab44409ac1c86b9a4bdc526.jpg",
+        "https://lzd-u.slatic.net/b34b4dc32e9c4e84a9832c10ba1b2111_67e168f4b0604503a61ff9e8a9c68fb7.jpg"
+      ]
+    },
+    {
+      "review_id": 468231690456708,
+      "product_id": "2756708",
+      "rating": 5,
+      "review_text": "Giá trị tuyệt vời cho số tiền bỏ ra, Hoàn hảo cho một bữa ăn nhẹ nhanh và lành mạnh,",
+      "buyer_name": "sơn",
+      "likes": 0,
+      "created_at": "1 week ago",
+      "sku_info": "",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/cf31254d765d92a9dd57639cef398eb4.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f0a801679fa041a192ab9dc4aa3a6fbf_9ed6dd1c0eeb427a842460196f790162.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/cf31254d765d92a9dd57639cef398eb4.jpg",
+        "https://lzd-u.slatic.net/f0a801679fa041a192ab9dc4aa3a6fbf_9ed6dd1c0eeb427a842460196f790162.jpg"
+      ]
+    }
+  ],
+  "stopped_by_validate": false,
+  "last_error": ""
+}

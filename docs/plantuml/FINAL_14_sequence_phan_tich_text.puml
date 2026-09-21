@@ -1,0 +1,27 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Phân tích nội dung review
+
+participant "Backend API" as BE
+participant "SellerFeedbackService" as Service
+participant "Review Trust Module" as Trust
+participant "Text Risk Detector" as Text
+database "MongoDB" as DB
+
+BE -> Service: Yêu cầu phân tích review
+Service -> DB: Lấy review cần phân tích
+DB --> Service: Danh sách review
+
+loop từng review
+  Service -> Text: Phân tích nội dung bình luận
+  Text --> Service: từ khóa, mức tiêu cực, loại phàn nàn
+  Service -> Trust: Tính điểm text/rating
+  Trust --> Service: điểm tin cậy sơ bộ
+  Service -> DB: Lưu review_aspects
+end
+
+Service --> BE: Hoàn tất phân tích text
+@enduml

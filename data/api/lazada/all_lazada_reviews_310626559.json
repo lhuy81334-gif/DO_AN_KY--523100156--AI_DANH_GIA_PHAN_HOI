@@ -1,0 +1,3210 @@
+{
+  "market_statistics": [
+    {
+      "count": 614,
+      "formatCount": "614",
+      "polarity": "positive",
+      "tagIcon": "https://gw.alicdn.com/imgextra/i1/O1CN01XLyuG21dvXEJ2yzMC_!!6000000003798-2-tps-36-36.png",
+      "tagId": -1,
+      "tagName": "With images/videos"
+    },
+    {
+      "count": 320,
+      "formatCount": "320",
+      "polarity": "positive",
+      "tagIcon": "https://gw.alicdn.com/imgextra/i1/O1CN01sqYghh1aDA0cUpTX4_!!6000000003295-2-tps-36-36.png",
+      "tagId": -3,
+      "tagName": "Repeat customer"
+    },
+    {
+      "count": 146,
+      "formatCount": "146",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30034,
+      "tagName": "Good effect"
+    },
+    {
+      "count": 131,
+      "formatCount": "131",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30035,
+      "tagName": "Good quality"
+    },
+    {
+      "count": 89,
+      "formatCount": "89",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30074,
+      "tagName": "Nice texture"
+    },
+    {
+      "count": 61,
+      "formatCount": "61",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30088,
+      "tagName": "Smooth texture"
+    },
+    {
+      "count": 30,
+      "formatCount": "30",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30093,
+      "tagName": "Soft texture"
+    },
+    {
+      "count": 27,
+      "formatCount": "27",
+      "polarity": "positive",
+      "tagIcon": "",
+      "tagId": 30039,
+      "tagName": "Legit item"
+    }
+  ],
+  "collected_count": 124,
+  "reviews": [
+    {
+      "review_id": 468333160526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "đóng gói cẩn thận , giao hàng nhanh , mình dùng loại này  cảm thấy da mặt rất sạch , không bị mụn , mùi thơm dễ chịu .cải thiện nếp nhăn.",
+      "buyer_name": "Minh Châu",
+      "likes": 2,
+      "created_at": "1 week ago",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/cb4869b9f48d41ffb12c6f5c492c4bcc_3c795df7ab5e4210a877f5795e95a242.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/cb4869b9f48d41ffb12c6f5c492c4bcc_0b3e7d7bab9c4a21a42369745b27a6d5.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/cb4869b9f48d41ffb12c6f5c492c4bcc_3c795df7ab5e4210a877f5795e95a242.jpg",
+        "https://lzd-u.slatic.net/cb4869b9f48d41ffb12c6f5c492c4bcc_0b3e7d7bab9c4a21a42369745b27a6d5.jpg"
+      ]
+    },
+    {
+      "review_id": 467191518926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Suitable for all skin types, Improves skin texture and elasticity, Fast-absorbing and non-greasy formula, Long-lasting and great value for money,",
+      "buyer_name": "Renaud",
+      "likes": 1,
+      "created_at": "2026-07-24",
+      "sku_info": "Volume:100, Scent:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5b5953bd998d4f3d8092b89bbe5379a1_9_1784858259.334131.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5b5953bd998d4f3d8092b89bbe5379a1_10_1784858259.587072.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5b5953bd998d4f3d8092b89bbe5379a1_9_1784858259.334131.jpg",
+        "https://lzd-u.slatic.net/5b5953bd998d4f3d8092b89bbe5379a1_10_1784858259.587072.jpg"
+      ]
+    },
+    {
+      "review_id": 467093180926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Tăng cường làn da khỏe mạnh và trẻ trung, Công thức nhẹ nhàng và không gây kích ứng, Làm da cảm thấy sạch sẽ và tươi mát,",
+      "buyer_name": "hoàng",
+      "likes": 0,
+      "created_at": "2026-07-19",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/af54d662d7f1be4f03f9995c429e19dc.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20260719/369242d1-3294-4f02-a25b-987b572f27be@@ld.mp4?auth_key=1789414802-0-0-6701ac4e914d89958e06e8d54f23ee1b",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f7f04b23233d466eb095875a02987e71_7_1784466833.389773.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/af54d662d7f1be4f03f9995c429e19dc.jpg",
+        "https://lazvideo.lazcdn.com/psp/20260719/369242d1-3294-4f02-a25b-987b572f27be@@ld.mp4?auth_key=1789414802-0-0-6701ac4e914d89958e06e8d54f23ee1b",
+        "https://lzd-u.slatic.net/f7f04b23233d466eb095875a02987e71_7_1784466833.389773.jpg"
+      ]
+    },
+    {
+      "review_id": 463029800926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm cho làn da trông rạng rỡ và trẻ trung, Bao bì sang trọng và chất lượng cao, Kích thước nhỏ gọn và thân thiện với du lịch, hàng chính hãng, shop đóng gói cẩn thận giao hàng nhanh nhân viên giao hàng vui vẻ thân thiện",
+      "buyer_name": "hoàng",
+      "likes": 0,
+      "created_at": "2026-05-12",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/a9d0ea652a9c71f6aa041135d41ce65b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20260512/3f960fd8-1693-4186-9f82-ac739b43d228@@ld.mp4?auth_key=1789414802-0-0-6688f9d5b6e5295b1a654bdcce2d965c",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/40f9b5c13554485da914d5c961e53947_4_1778543942.390300.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/a9d0ea652a9c71f6aa041135d41ce65b.jpg",
+        "https://lazvideo.lazcdn.com/psp/20260512/3f960fd8-1693-4186-9f82-ac739b43d228@@ld.mp4?auth_key=1789414802-0-0-6688f9d5b6e5295b1a654bdcce2d965c",
+        "https://lzd-u.slatic.net/40f9b5c13554485da914d5c961e53947_4_1778543942.390300.jpg"
+      ]
+    },
+    {
+      "review_id": 458850772326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da cảm thấy sạch sẽ và tươi mát, Công thức nhẹ nhàng và không gây kích ứng, Bao bì sang trọng và chất lượng cao, Kích thước nhỏ gọn và thân thiện với du lịch, Cải thiện kết cấu và độ đàn hồi của da,",
+      "buyer_name": "TrinhTrinh",
+      "likes": 0,
+      "created_at": "2026-03-07",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/57ffa0ad79d3467790af400f49c85189.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/dcacdbdcd9b3dd5cb27ee9cdaaa1836b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20260307/95da67fa-303c-473a-92cb-bdc8107fdb98@@ld.mp4?auth_key=1789414802-0-0-6b9f9e9ad9dbc77f23f2185ec3630a66",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/764d84c20ec4417a8cdba464f4118b96_ca432bac8f2d43e7bd55546d0dd44679.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/57ffa0ad79d3467790af400f49c85189.jpg",
+        "https://sg-test-11.slatic.net/p/dcacdbdcd9b3dd5cb27ee9cdaaa1836b.jpg",
+        "https://lazvideo.lazcdn.com/psp/20260307/95da67fa-303c-473a-92cb-bdc8107fdb98@@ld.mp4?auth_key=1789414802-0-0-6b9f9e9ad9dbc77f23f2185ec3630a66",
+        "https://lzd-u.slatic.net/764d84c20ec4417a8cdba464f4118b96_ca432bac8f2d43e7bd55546d0dd44679.jpg"
+      ]
+    },
+    {
+      "review_id": 436304369326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Cải thiện kết cấu và độ đàn hồi của da, Làm cho làn da trông rạng rỡ và trẻ trung, Tăng cường làn da khỏe mạnh và trẻ trung, Bền lâu và đáng giá tiền,",
+      "buyer_name": "*******325",
+      "likes": 1,
+      "created_at": "2024-11-26",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/ea7bbb764425d4113b70b1483214496d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20241126/f9bfa880-a0ac-4be6-adb1-9dca444d3011@@ld.mp4?auth_key=1789414804-0-0-d493bb94509bf2a28d5c6da6e0143855",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/0455b1a5285e4695b3cfafa5a73c3a46_eab3f1965ad8454f823b073f5c7cfa5d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/ea7bbb764425d4113b70b1483214496d.jpg",
+        "https://lazvideo.lazcdn.com/psp/20241126/f9bfa880-a0ac-4be6-adb1-9dca444d3011@@ld.mp4?auth_key=1789414804-0-0-d493bb94509bf2a28d5c6da6e0143855",
+        "https://lzd-u.slatic.net/0455b1a5285e4695b3cfafa5a73c3a46_eab3f1965ad8454f823b073f5c7cfa5d.jpg"
+      ]
+    },
+    {
+      "review_id": 403653198126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức nhẹ nhàng không gây kích ứng, Làm tươi trẻ và cải thiện da, Làm da trông rạng rỡ và trẻ trung, Dễ sử dụng và thoa lên da,",
+      "buyer_name": "L***m",
+      "likes": 0,
+      "created_at": "2023-12-13",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/a3c7116c01d11b62c00d6f54b2b18643.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20231213/ace55ea5-ccd1-4d15-8f85-7a82cfa54eaa@@ld.mp4?auth_key=1789414804-0-0-f8e74226d0a08935221834dc89f573b9",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/8782054343b042fabcdd6ef4b8b3db7b_1_1702479706.520395.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/a3c7116c01d11b62c00d6f54b2b18643.jpg",
+        "https://lazvideo.lazcdn.com/psp/20231213/ace55ea5-ccd1-4d15-8f85-7a82cfa54eaa@@ld.mp4?auth_key=1789414804-0-0-f8e74226d0a08935221834dc89f573b9",
+        "https://lzd-u.slatic.net/8782054343b042fabcdd6ef4b8b3db7b_1_1702479706.520395.jpg"
+      ]
+    },
+    {
+      "review_id": 431211025726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da cảm thấy sạch sẽ và tươi mát, Bao bì sang trọng và chất lượng cao, Cải thiện kết cấu và độ đàn hồi của da,",
+      "buyer_name": "*******826",
+      "likes": 0,
+      "created_at": "2024-09-22",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/e45f6208266c402fbc4e5e7d3d4f665e.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/51db6d0b2f961bf5bb7780768940d07d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240922/8ac5714e-6877-4bef-90a0-4a9a96ba7c45@@ld.mp4?auth_key=1789414804-0-0-cb6ac110671600cfc8de41f90f221d46",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/ebcdb21b33d540da9006ee5eebec360f_16_1726973985.105900.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/e45f6208266c402fbc4e5e7d3d4f665e.jpg",
+        "https://sg-test-11.slatic.net/p/51db6d0b2f961bf5bb7780768940d07d.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240922/8ac5714e-6877-4bef-90a0-4a9a96ba7c45@@ld.mp4?auth_key=1789414804-0-0-cb6ac110671600cfc8de41f90f221d46",
+        "https://lzd-u.slatic.net/ebcdb21b33d540da9006ee5eebec360f_16_1726973985.105900.jpg"
+      ]
+    },
+    {
+      "review_id": 408072141326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Sao mà shop đóng hàng ẩu quá ạ 🥲 thấy nhiều ng nói luôn r á,tới mình nhận hàng còn tèm lem ghê hơn nữa,mua đc tặng tuýt dưỡng thể mà hàng tặng còn khằng lại đẹp hơn cả hàng mua 🥲",
+      "buyer_name": "Huong Trang",
+      "likes": 0,
+      "created_at": "2024-01-17",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/08ee8c78a860450982cb17eb523c7f2a.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/36cc5d95c358db228fb16656cfba104a.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240117/1ed8741c-5046-46a3-8e7f-0dfed91738ef@@ld.mp4?auth_key=1789414804-0-0-22a5443efdf52ccae82c31f621504407",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/2a66fb3541dd4f0188b2727bdfce0a66_3_1705476047.619181.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/08ee8c78a860450982cb17eb523c7f2a.jpg",
+        "https://sg-test-11.slatic.net/p/36cc5d95c358db228fb16656cfba104a.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240117/1ed8741c-5046-46a3-8e7f-0dfed91738ef@@ld.mp4?auth_key=1789414804-0-0-22a5443efdf52ccae82c31f621504407",
+        "https://lzd-u.slatic.net/2a66fb3541dd4f0188b2727bdfce0a66_3_1705476047.619181.jpg"
+      ]
+    },
+    {
+      "review_id": 409406714626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da trông rạng rỡ và trẻ trung, Kích thước nhỏ gọn và tiện dụng khi đi du lịch, Phù hợp với mọi loại da, Làm da trông rạng rỡ và trẻ trung, Bao bì sang trọng và chất lượng cao, Kích thước nhỏ gọn và tiện dụng khi đi du lịch,",
+      "buyer_name": "Dương Cẩm Anh",
+      "likes": 0,
+      "created_at": "2024-01-26",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/a8c3aa03c6f63b708ec8e4b665c63e06.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240126/a8164569-6bd0-40a9-a06b-6edd8a25109e@@ld.mp4?auth_key=1789414804-0-0-f09649b532407af2b6cd7d00ce2f228e",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/e632e834e6a44db28edf126b13829a89_420aa91acc6b4096892dc5d1b06d7229.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/a8c3aa03c6f63b708ec8e4b665c63e06.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240126/a8164569-6bd0-40a9-a06b-6edd8a25109e@@ld.mp4?auth_key=1789414804-0-0-f09649b532407af2b6cd7d00ce2f228e",
+        "https://lzd-u.slatic.net/e632e834e6a44db28edf126b13829a89_420aa91acc6b4096892dc5d1b06d7229.jpg"
+      ]
+    },
+    {
+      "review_id": 461026531926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dưỡng ẩm và làm mềm da, Công thức nhẹ nhàng và không gây kích ứng, Làm cho làn da trông rạng rỡ và trẻ trung, Công thức hấp thụ nhanh và không nhờn, Làm tươi trẻ và cải thiện da,",
+      "buyer_name": "Tu Xuan Nguyen",
+      "likes": 0,
+      "created_at": "2026-04-29",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/622e87ea0d4842be84d6e99ceb949020_a51fbdf26c164dda8a48521ca80d3992.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/622e87ea0d4842be84d6e99ceb949020_a51fbdf26c164dda8a48521ca80d3992.jpg"
+      ]
+    },
+    {
+      "review_id": 429199658226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Leaves skin feeling clean and refreshed, Gentle and non-irritating formula, Fast-absorbing and non-greasy formula, Long-lasting and great value for money!🙌💯",
+      "buyer_name": "L***a",
+      "likes": 2,
+      "created_at": "2024-08-18",
+      "sku_info": "Volume (ml):100, Scent:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/a65222aad39141939fa209441f4b87b5_6_1723983554.370624.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/a65222aad39141939fa209441f4b87b5_6_1723983554.370624.jpg"
+      ]
+    },
+    {
+      "review_id": 461173748626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Tăng cường làn da khỏe mạnh và trẻ trung, Làm cho làn da trông rạng rỡ và trẻ trung, Dễ sử dụng và áp dụng,",
+      "buyer_name": "Trịnh",
+      "likes": 0,
+      "created_at": "2026-04-26",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d528970289ba4e0b85263185df8331ed_290f6f443d2c428fa78da5e1d41d5a44.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/d528970289ba4e0b85263185df8331ed_a9605c7057334b7396434837d9547b19.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d528970289ba4e0b85263185df8331ed_290f6f443d2c428fa78da5e1d41d5a44.jpg",
+        "https://lzd-u.slatic.net/d528970289ba4e0b85263185df8331ed_a9605c7057334b7396434837d9547b19.jpg"
+      ]
+    },
+    {
+      "review_id": 431049119726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bền lâu và đáng giá tiền, Làm tươi trẻ và cải thiện da, Làm tươi trẻ và cải thiện da,",
+      "buyer_name": "Trang",
+      "likes": 0,
+      "created_at": "2024-09-13",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/7a2b55785f0c1c2ea4f5e1f216be1e7b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240913/3e0a7d32-72ef-45e8-a681-4810ffa37e48@@ld.mp4?auth_key=1789414806-0-0-8ceb34026e7f55e70c990ecfd36115a6",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/fe338b777c1d4107b0d12c878369c797_5_1726219543.913775.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/7a2b55785f0c1c2ea4f5e1f216be1e7b.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240913/3e0a7d32-72ef-45e8-a681-4810ffa37e48@@ld.mp4?auth_key=1789414806-0-0-8ceb34026e7f55e70c990ecfd36115a6",
+        "https://lzd-u.slatic.net/fe338b777c1d4107b0d12c878369c797_5_1726219543.913775.jpg"
+      ]
+    },
+    {
+      "review_id": 429144401226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Tăng cường làn da khỏe mạnh và trẻ trung, Công thức chống lão hóa hiệu quả, Công thức hấp thụ nhanh và không nhờn, Dễ sử dụng và áp dụng, Dễ sử dụng và áp dụng, Dễ sử dụng và áp dụng,",
+      "buyer_name": "*******926",
+      "likes": 2,
+      "created_at": "2024-08-17",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/57f509b6be2a4bcbbec2a46fbf016fd1_1_1723830345.411324.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/57f509b6be2a4bcbbec2a46fbf016fd1_1_1723830345.411324.jpg"
+      ]
+    },
+    {
+      "review_id": 311581673826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Sản phẩm của CTY xài rất tốt, mình rất thích, rất hài lòng, rất nhiều năm sử dụng sản phẩm, mình xin tặng shop 5 sao nhé",
+      "buyer_name": "Điệp Đ.",
+      "likes": 1,
+      "created_at": "2021-12-04",
+      "sku_info": "Hương:Hương tự nhiên, Thể tích (ml):100",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/909d1167f3b585cc411b812e5b85228a.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/other/roc/909d1167f3b585cc411b812e5b85228a.jpg"
+      ]
+    },
+    {
+      "review_id": 429008920626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức nhẹ nhàng và không gây kích ứng, Phù hợp với mọi loại da, Dễ sử dụng và áp dụng,",
+      "buyer_name": "0***3",
+      "likes": 2,
+      "created_at": "2024-08-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/9387e62273e04e72adeb041a94514538_86aa3c9ab946455f8cae424c0b5b1e5f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/9387e62273e04e72adeb041a94514538_86aa3c9ab946455f8cae424c0b5b1e5f.jpg"
+      ]
+    },
+    {
+      "review_id": 427268521626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "sạch da,Phù hợp với mọi loại da, Dưỡng ẩm và làm mềm da, Công thức thấm nhanh và không nhờn dính.",
+      "buyer_name": "my",
+      "likes": 0,
+      "created_at": "2024-07-22",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/d424c3f703004dbfba1a9f447a0a1c7e.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/3b12a161218975a00b6126c043d53474.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240722/872dd874-48c0-4e9d-b527-ccbf28d32203@@ld.mp4?auth_key=1789414808-0-0-2f43b17f197d188d303f0e46a4503f1b",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/8c8f3b83ab6245ceb700e555cb0ec943_85f63fdeec6e470f941d2fb985b6bf23.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/d424c3f703004dbfba1a9f447a0a1c7e.jpg",
+        "https://sg-test-11.slatic.net/p/3b12a161218975a00b6126c043d53474.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240722/872dd874-48c0-4e9d-b527-ccbf28d32203@@ld.mp4?auth_key=1789414808-0-0-2f43b17f197d188d303f0e46a4503f1b",
+        "https://lzd-u.slatic.net/8c8f3b83ab6245ceb700e555cb0ec943_85f63fdeec6e470f941d2fb985b6bf23.jpg"
+      ]
+    },
+    {
+      "review_id": 458922920126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da cảm thấy sạch sẽ và tươi mát, Cải thiện kết cấu và độ đàn hồi của da, công thức làm tươi trẻ làn da",
+      "buyer_name": "H***G",
+      "likes": 0,
+      "created_at": "2026-03-08",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/b58a7d1746d741498b684916e69b7550_3_1772986293.561031.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b58a7d1746d741498b684916e69b7550_4_1772986305.290816.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/b58a7d1746d741498b684916e69b7550_3_1772986293.561031.jpg",
+        "https://lzd-u.slatic.net/b58a7d1746d741498b684916e69b7550_4_1772986305.290816.jpg"
+      ]
+    },
+    {
+      "review_id": 460537506526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "chưa dùng nên chưa đánh giá được",
+      "buyer_name": "****3",
+      "likes": 0,
+      "created_at": "2026-04-12",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d106840cbf2d40c4a6a7de79b70f7a26_2_1775929467.050065.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d106840cbf2d40c4a6a7de79b70f7a26_2_1775929467.050065.jpg"
+      ]
+    },
+    {
+      "review_id": 360975021226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Sữa rửa mặt thơm, sạch da mặt\nMua của Mall chính hãng nên yên tâm về chất lượng, còn được áp mã giảm giá rẻ nữa",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2022-11-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/62a2978f4f13bfb40c8cca27803ab68b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20221115/900b7329-0593-4af2-b785-dd016af3c5ad@@ld.mp4?auth_key=1789414811-0-0-64da583d924173d62a14c43b8a8838ca",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/55480b6824404bcb93759df2749627c2_4_1668500088.564147.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/62a2978f4f13bfb40c8cca27803ab68b.jpg",
+        "https://lazvideo.lazcdn.com/psp/20221115/900b7329-0593-4af2-b785-dd016af3c5ad@@ld.mp4?auth_key=1789414811-0-0-64da583d924173d62a14c43b8a8838ca",
+        "https://lzd-u.slatic.net/55480b6824404bcb93759df2749627c2_4_1668500088.564147.jpg"
+      ]
+    },
+    {
+      "review_id": 363816696926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "em này mình sài quen rồi nè, đợi sale rồi mua nè, sẽ gắn bó lâu dàu nè!!",
+      "buyer_name": "Q***ê",
+      "likes": 0,
+      "created_at": "2022-12-13",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/29a6cfc8e856019dbbf59f6c3ceb9a89.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20221213/69f56a4e-8bfe-4833-ad6b-42c81111fb16@@ld.mp4?auth_key=1789414811-0-0-8713bfaa6b33daf889d5ea2fccff8933",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/7a13323c0d4f4af7abd51f7d6db8d110_68f33721613f40f9b7476de829e5bb37.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/29a6cfc8e856019dbbf59f6c3ceb9a89.jpg",
+        "https://lazvideo.lazcdn.com/psp/20221213/69f56a4e-8bfe-4833-ad6b-42c81111fb16@@ld.mp4?auth_key=1789414811-0-0-8713bfaa6b33daf889d5ea2fccff8933",
+        "https://lzd-u.slatic.net/7a13323c0d4f4af7abd51f7d6db8d110_68f33721613f40f9b7476de829e5bb37.jpg"
+      ]
+    },
+    {
+      "review_id": 361008007726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "giao hàng nhanh, shop đóng hàng quá chắc chắn, đúng mẫu đã đặt. gửi tặng shop 5*. sẽ tiếp tục ủng hộ",
+      "buyer_name": "Đặng Minh Hiếu",
+      "likes": 0,
+      "created_at": "2022-11-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/42871585374366f1028680bfdc06639e.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20221115/1a0ddf76-091a-47a7-852b-eacde15949e6@@ld.mp4?auth_key=1789414811-0-0-22d586a3ad7dbb06a8e030629aaeccdf",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/af84862051ef438185c1649d7a66878d_b5fd87ebf38f48c59253b70ee73679fd.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/42871585374366f1028680bfdc06639e.jpg",
+        "https://lazvideo.lazcdn.com/psp/20221115/1a0ddf76-091a-47a7-852b-eacde15949e6@@ld.mp4?auth_key=1789414811-0-0-22d586a3ad7dbb06a8e030629aaeccdf",
+        "https://lzd-u.slatic.net/af84862051ef438185c1649d7a66878d_b5fd87ebf38f48c59253b70ee73679fd.jpg"
+      ]
+    },
+    {
+      "review_id": 368217886026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Mình mua giùm người nhà nên ko biết chất lượng sản phẩm ntn",
+      "buyer_name": "TranChau",
+      "likes": 0,
+      "created_at": "2023-01-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/46a0a0c50f9e4eb1b0f0a2194c0d0896.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/1c0752b9f95757da39f5a9a797a27355.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20230116/a027356a-4625-4e47-b3bd-0913269ecbc1@@ld.mp4?auth_key=1789414811-0-0-075310bc40fae57dbf4cb4536fcd219d",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/df398d10171145048f477fdab71975fe_7_1673881447.443389.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/46a0a0c50f9e4eb1b0f0a2194c0d0896.jpg",
+        "https://vn-live-02.slatic.net/p/1c0752b9f95757da39f5a9a797a27355.jpg",
+        "https://lazvideo.lazcdn.com/psp/20230116/a027356a-4625-4e47-b3bd-0913269ecbc1@@ld.mp4?auth_key=1789414811-0-0-075310bc40fae57dbf4cb4536fcd219d",
+        "https://lzd-u.slatic.net/df398d10171145048f477fdab71975fe_7_1673881447.443389.jpg"
+      ]
+    },
+    {
+      "review_id": 350845119626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "chất lượng sản phẩm tốt, hàng chính hãng, hàng giao nhanh, ship nhiệt tình. đóng gói đẹp. ..",
+      "buyer_name": "Lê Cao Thắng",
+      "likes": 1,
+      "created_at": "2022-08-10",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/2f90139dc6ac42e5bad790273ebd38d5.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/d0540a6db2518afc1bace2aa749d5acb.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20220810/6eb89d20-ca0e-4d95-94a4-a165299f28ba@@ld.mp4?auth_key=1789414811-0-0-f124801bea99f2a60f9eb35d69b8b74b",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/7a0a8ce4ce8e44939339db294fa779ba_9f45b5b351fc4248975de29600a7408d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/2f90139dc6ac42e5bad790273ebd38d5.jpg",
+        "https://vn-live-02.slatic.net/p/d0540a6db2518afc1bace2aa749d5acb.jpg",
+        "https://lazvideo.lazcdn.com/psp/20220810/6eb89d20-ca0e-4d95-94a4-a165299f28ba@@ld.mp4?auth_key=1789414811-0-0-f124801bea99f2a60f9eb35d69b8b74b",
+        "https://lzd-u.slatic.net/7a0a8ce4ce8e44939339db294fa779ba_9f45b5b351fc4248975de29600a7408d.jpg"
+      ]
+    },
+    {
+      "review_id": 351393299026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "quà tặng hữu ích, dễ thương. sp mình tinh dùng nhiều năm. săn sale được giá tốt. rất hài lòng. thanks! ",
+      "buyer_name": "Ngô thị huyền cơ",
+      "likes": 0,
+      "created_at": "2022-08-19",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/7214872e5de2a762cbd72218ac70fc38.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20220819/00e0cad6-7614-45fe-bd06-266bde8defcc@@ld.mp4?auth_key=1789414813-0-0-3e96eed32bb4a37a1a235d07735232dd",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/dbe83cb14b164254b036d29f66bfe19f_613ff5a2233c49e88350be7c337493a1.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b49d86b75331497ba441fa0348fcbd44_d2e39c7da76442b0a12eaf2a13b5cab1.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b49d86b75331497ba441fa0348fcbd44_00d807657955469fa0929c4b9c8b2bb5.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/7214872e5de2a762cbd72218ac70fc38.jpg",
+        "https://lazvideo.lazcdn.com/psp/20220819/00e0cad6-7614-45fe-bd06-266bde8defcc@@ld.mp4?auth_key=1789414813-0-0-3e96eed32bb4a37a1a235d07735232dd",
+        "https://lzd-u.slatic.net/dbe83cb14b164254b036d29f66bfe19f_613ff5a2233c49e88350be7c337493a1.jpg",
+        "https://lzd-u.slatic.net/b49d86b75331497ba441fa0348fcbd44_d2e39c7da76442b0a12eaf2a13b5cab1.jpg",
+        "https://lzd-u.slatic.net/b49d86b75331497ba441fa0348fcbd44_00d807657955469fa0929c4b9c8b2bb5.jpg"
+      ]
+    },
+    {
+      "review_id": 461293434526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Sản phẩm không có quà tặng như hình ảnh đăng không ủng hộ tiếp",
+      "buyer_name": "Trần",
+      "likes": 0,
+      "created_at": "2026-04-30",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/148b2f7822f7453f9207830e744e9f94_2_1777519635.034044.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/148b2f7822f7453f9207830e744e9f94_2_1777519635.034044.jpg"
+      ]
+    },
+    {
+      "review_id": 346834814926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "sản phẩm Sài tốt. giao hàng nhanh chóng, đóng gói kĩ. shop nói chuyện dễ thương tư vấn kĩ cảm ơn shop",
+      "buyer_name": "Lanh Gio",
+      "likes": 0,
+      "created_at": "2022-07-08",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/d2590f1ca805483c8a496b0dae56c5a8.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/d904034ba4dbfc65f1d5ef89cbc0be22.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20220708/95c794ee-9aae-4c45-87c0-680bb220c169@@ld.mp4?auth_key=1789414813-0-0-f3b147471847f8e98540d4c332d1528b",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/81ea73bb44e54d1c978065a0a19c587d_e2a4fd7b98c340e8bcaa9180fbbec372.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/d2590f1ca805483c8a496b0dae56c5a8.jpg",
+        "https://vn-live-02.slatic.net/p/d904034ba4dbfc65f1d5ef89cbc0be22.jpg",
+        "https://lazvideo.lazcdn.com/psp/20220708/95c794ee-9aae-4c45-87c0-680bb220c169@@ld.mp4?auth_key=1789414813-0-0-f3b147471847f8e98540d4c332d1528b",
+        "https://lzd-u.slatic.net/81ea73bb44e54d1c978065a0a19c587d_e2a4fd7b98c340e8bcaa9180fbbec372.jpg"
+      ]
+    },
+    {
+      "review_id": 287160606326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Đã nhận được hàng, đóng gói cẩn thận chưa sử dụng nên không biêtd thế nào……….. hi vọng tốt……..",
+      "buyer_name": "hangduong92",
+      "likes": 0,
+      "created_at": "2021-07-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/188de613399d4f8df472d6b2d9f67715.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20210716/d09e385b-30eb-49d0-858e-015549d37809@@ld.mp4?auth_key=1789414813-0-0-7b472f11798224d61f15522f2d231bfd",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/b151691b49553867efa32fc6b7ee1047.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/188de613399d4f8df472d6b2d9f67715.jpg",
+        "https://lazvideo.lazcdn.com/psp/20210716/d09e385b-30eb-49d0-858e-015549d37809@@ld.mp4?auth_key=1789414813-0-0-7b472f11798224d61f15522f2d231bfd",
+        "https://sg-test-11.slatic.net/other/roc/b151691b49553867efa32fc6b7ee1047.jpg"
+      ]
+    },
+    {
+      "review_id": 428552301826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "0927264135",
+      "buyer_name": "Linh Tu",
+      "likes": 0,
+      "created_at": "2024-08-09",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/84e403f822b2407b8d4c98acd3eabb90.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/aba9fea8ad6a913b181896c776d7f1d0.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240809/2c63dd28-5dba-4f46-96e4-a4f5e9199c21@@ld.mp4?auth_key=1789414813-0-0-8f18ec9b41f10772e1ab40ec3c9c4386",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/577d5bfdb5bf4a3da767b3abaae6b29b_98996615041b49acb15f0d8aa23f91dc.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/84e403f822b2407b8d4c98acd3eabb90.jpg",
+        "https://sg-test-11.slatic.net/p/aba9fea8ad6a913b181896c776d7f1d0.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240809/2c63dd28-5dba-4f46-96e4-a4f5e9199c21@@ld.mp4?auth_key=1789414813-0-0-8f18ec9b41f10772e1ab40ec3c9c4386",
+        "https://lzd-u.slatic.net/577d5bfdb5bf4a3da767b3abaae6b29b_98996615041b49acb15f0d8aa23f91dc.jpg"
+      ]
+    },
+    {
+      "review_id": 385797623826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "nhận sản phẩm đúng hình,  chưa dùng nên chưa biết hiệu quả không.",
+      "buyer_name": "*******593",
+      "likes": 0,
+      "created_at": "2023-07-10",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/48f0301b889b4b3bb0fb882c606ce024.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/cccfe0c304ac40177c741ffdc6aae7ae.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20230710/f6e710ab-5144-4db6-93c0-45016defa672@@ld.mp4?auth_key=1789414815-0-0-bdca9c68abd454dc9c459cf50a82f26e",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/2e71c85a829d41cf86d046bbb7d9047d_8fd6eb962e7443eeb69d75bbe3dfd392.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/2e71c85a829d41cf86d046bbb7d9047d_da9d63bf5b164fe5b06578d2438975a2.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/48f0301b889b4b3bb0fb882c606ce024.jpg",
+        "https://vn-live-02.slatic.net/p/cccfe0c304ac40177c741ffdc6aae7ae.jpg",
+        "https://lazvideo.lazcdn.com/psp/20230710/f6e710ab-5144-4db6-93c0-45016defa672@@ld.mp4?auth_key=1789414815-0-0-bdca9c68abd454dc9c459cf50a82f26e",
+        "https://lzd-u.slatic.net/2e71c85a829d41cf86d046bbb7d9047d_8fd6eb962e7443eeb69d75bbe3dfd392.jpg",
+        "https://lzd-u.slatic.net/2e71c85a829d41cf86d046bbb7d9047d_da9d63bf5b164fe5b06578d2438975a2.jpg"
+      ]
+    },
+    {
+      "review_id": 445439156526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Mình đã nhận được hàng. Chưa sử dụng nên chưa biết trải nghiệm ntn. Ngoại quan khá ổn. Phải dùng mới có đánh giá chuẩn được.",
+      "buyer_name": "Phạm Thị Cẩm Vân",
+      "likes": 1,
+      "created_at": "2025-06-09",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/9737f66598d741bf95c5d61460871025_6_1749462058.257600.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/9737f66598d741bf95c5d61460871025_6_1749462058.257600.jpg"
+      ]
+    },
+    {
+      "review_id": 437672181926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da cảm thấy sạch sẽ và tươi mát, Làm da cảm thấy sạch sẽ và tươi mát, Dễ sử dụng và áp dụng, Kích thước nhỏ gọn và thân thiện với du lịch,",
+      "buyer_name": "Võ Thị Thu Thảo",
+      "likes": 1,
+      "created_at": "2024-12-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5a54250bcbf64ebc9929b18ba5b84111_04d95b08893740f19ce5d3f7bf7e2136.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5a54250bcbf64ebc9929b18ba5b84111_04d95b08893740f19ce5d3f7bf7e2136.jpg"
+      ]
+    },
+    {
+      "review_id": 440330354526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức chống lão hóa hiệu quả, Cải thiện kết cấu và độ đàn hồi của da, Công thức chống lão hóa hiệu quả, Công thức chống lão hóa hiệu quả, Công thức chống lão hóa hiệu quả,",
+      "buyer_name": "Diễm",
+      "likes": 2,
+      "created_at": "2025-02-07",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/19eeec7effc7452498f533a0dbba85e9_3_1738898069.977739.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/19eeec7effc7452498f533a0dbba85e9_5_1738898077.846033.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/19eeec7effc7452498f533a0dbba85e9_3_1738898069.977739.jpg",
+        "https://lzd-u.slatic.net/19eeec7effc7452498f533a0dbba85e9_5_1738898077.846033.jpg"
+      ]
+    },
+    {
+      "review_id": 418386255526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bao bì sang trọng và chất lượng cao, Phù hợp với mọi loại da, Dễ sử dụng và thoa lên da, Shop uy tín, ủng hộ Shop và hẹn gặp lại.",
+      "buyer_name": "Ring Tran",
+      "likes": 0,
+      "created_at": "2024-05-12",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/21923fd2356f44d997db3db015d14b41.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/c420acb1677f6adc51f8fbcec5ad2a0d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240512/4b3c0b34-4236-45c9-b566-744cf378f038@@ld.mp4?auth_key=1789414815-0-0-3201ac7a45ea188bee01284fb722c2db",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/d4e53681a11d467588f4f900c17f7ffa_3_1715519120.624835.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/21923fd2356f44d997db3db015d14b41.jpg",
+        "https://sg-test-11.slatic.net/p/c420acb1677f6adc51f8fbcec5ad2a0d.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240512/4b3c0b34-4236-45c9-b566-744cf378f038@@ld.mp4?auth_key=1789414815-0-0-3201ac7a45ea188bee01284fb722c2db",
+        "https://lzd-u.slatic.net/d4e53681a11d467588f4f900c17f7ffa_3_1715519120.624835.jpg"
+      ]
+    },
+    {
+      "review_id": 417345148626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Kích thước nhỏ gọn và tiện dụng khi đi du lịch, Dễ sử dụng và thoa lên da, Cải thiện kết cấu và độ đàn hồi da, Công thức thấm nhanh và không nhờn dính,",
+      "buyer_name": "Minh oanh",
+      "likes": 0,
+      "created_at": "2024-04-07",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/03861d8b94ea43f4bc6b8cdb606c9099.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/3e671e3790ffdc224706494bc01f01e4.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240407/60aad002-6058-42ed-b147-15786e560f77@@ld.mp4?auth_key=1789414817-0-0-c41fc049ccce79d482c605697f25b520",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/b382a55dcb484146a4178ddffe145a51_8efccd71adc8491083e3294a4b73f929.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/03861d8b94ea43f4bc6b8cdb606c9099.jpg",
+        "https://sg-test-11.slatic.net/p/3e671e3790ffdc224706494bc01f01e4.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240407/60aad002-6058-42ed-b147-15786e560f77@@ld.mp4?auth_key=1789414817-0-0-c41fc049ccce79d482c605697f25b520",
+        "https://lzd-u.slatic.net/b382a55dcb484146a4178ddffe145a51_8efccd71adc8491083e3294a4b73f929.jpg"
+      ]
+    },
+    {
+      "review_id": 439537765226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dưỡng ẩm và làm mềm da, Công thức nhẹ nhàng và không gây kích ứng, Tăng cường làn da khỏe mạnh và trẻ trung,",
+      "buyer_name": "A***n",
+      "likes": 1,
+      "created_at": "2025-01-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6b552603fd0f43a8a9c562baca6922b1_6e12b72f8c9b475597518b064e127f56.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6b552603fd0f43a8a9c562baca6922b1_6e12b72f8c9b475597518b064e127f56.jpg"
+      ]
+    },
+    {
+      "review_id": 440199782426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "hợp lý",
+      "buyer_name": "N***m",
+      "likes": 2,
+      "created_at": "2025-02-05",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/81a9b647a3fc41dca143c6754ca19cac_948e1899f3da451ab938ee197d7e1a25.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/81a9b647a3fc41dca143c6754ca19cac_948e1899f3da451ab938ee197d7e1a25.jpg"
+      ]
+    },
+    {
+      "review_id": 443148900426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm tươi trẻ và cải thiện da, Công thức nhẹ nhàng và không gây kích ứng, Tăng cường làn da khỏe mạnh và trẻ trung, Làm da cảm thấy sạch sẽ và tươi mát,",
+      "buyer_name": "Nguyen",
+      "likes": 2,
+      "created_at": "2025-04-09",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6bdc6198e1204a078044e9358ba0cb63_66a99b1b9e0844a0bb229692c11bb640.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6bdc6198e1204a078044e9358ba0cb63_66a99b1b9e0844a0bb229692c11bb640.jpg"
+      ]
+    },
+    {
+      "review_id": 437696624426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bao bì sang trọng và chất lượng cao, Bền lâu và đáng giá tiền, Làm da cảm thấy sạch sẽ và tươi mát,",
+      "buyer_name": "Nguyễn",
+      "likes": 2,
+      "created_at": "2024-12-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/b63bacbb71cc4c1eb44dbdd2836ac0cc_5_1734306432.356292.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/b63bacbb71cc4c1eb44dbdd2836ac0cc_5_1734306432.356292.jpg"
+      ]
+    },
+    {
+      "review_id": 456572532126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "chưa sử dụng loại này nên chưa biết sử dụnh có hợp hk... hy vọng sẽ hợpKích thước nhỏ gọn và thân thiện với du lịch, Tăng cường làn da khỏe mạnh và trẻ trung,",
+      "buyer_name": "H***n",
+      "likes": 0,
+      "created_at": "2026-01-19",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/103dc921ac5f4e2aba4487c12fc3efdb_48be1c98385c4d358760b130a600931f.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/103dc921ac5f4e2aba4487c12fc3efdb_3d557f14eaa6484e986e060f24bfb284.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/103dc921ac5f4e2aba4487c12fc3efdb_48be1c98385c4d358760b130a600931f.jpg",
+        "https://lzd-u.slatic.net/103dc921ac5f4e2aba4487c12fc3efdb_3d557f14eaa6484e986e060f24bfb284.jpg"
+      ]
+    },
+    {
+      "review_id": 441472936526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Phù hợp với mọi loại da, Dễ sử dụng và áp dụng, Làm cho làn da trông rạng rỡ và trẻ trung,",
+      "buyer_name": "Uyên Khanh",
+      "likes": 1,
+      "created_at": "2025-03-07",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/0ed368ce6d484e73b126e91e0fb73873_723fa4c5c5d543fe8253123c36ed64ad.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/0ed368ce6d484e73b126e91e0fb73873_723fa4c5c5d543fe8253123c36ed64ad.jpg"
+      ]
+    },
+    {
+      "review_id": 412657379226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Shop giao hàng siẻu nhanh! Đủ số lượng! Chất lượng tốt! Sữa rửa mặt thơm làm mát mịn khi rửa!",
+      "buyer_name": "Tran Trong Thang",
+      "likes": 0,
+      "created_at": "2024-03-01",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/90c784a17c5f4102b8c0d9496a9c321a.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/7329a6bd618f792e58e435eae81100c7.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240301/6ae015a0-67f2-4270-8127-15fb1194d308@@ld.mp4?auth_key=1789414819-0-0-1579cae5b4bd9c2bc8feca39dea52543",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/9a0b2e17b7474c978352d52e59baf2c9_2_1709276380.958350.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/90c784a17c5f4102b8c0d9496a9c321a.jpg",
+        "https://sg-test-11.slatic.net/p/7329a6bd618f792e58e435eae81100c7.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240301/6ae015a0-67f2-4270-8127-15fb1194d308@@ld.mp4?auth_key=1789414819-0-0-1579cae5b4bd9c2bc8feca39dea52543",
+        "https://lzd-u.slatic.net/9a0b2e17b7474c978352d52e59baf2c9_2_1709276380.958350.jpg"
+      ]
+    },
+    {
+      "review_id": 443033202426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dưỡng ẩm và làm mềm da, Công thức hấp thụ nhanh và không nhờn, Công thức chống lão hóa hiệu quả,",
+      "buyer_name": "hathid1991",
+      "likes": 1,
+      "created_at": "2025-04-04",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8b35dfd8e4f14759ab89ca038de9c40a_45f850431bdb43bd982786c5e49c680a.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8b35dfd8e4f14759ab89ca038de9c40a_45f850431bdb43bd982786c5e49c680a.jpg"
+      ]
+    },
+    {
+      "review_id": 435308275926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức nhẹ nhàng và không gây kích ứng, Kích thước nhỏ gọn và thân thiện với du lịch,",
+      "buyer_name": "*******764",
+      "likes": 2,
+      "created_at": "2024-11-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/2d7cfd7d111d44a4a9e5ae60bc134aca_5bc82505487b4142a15bd79f58a4f0aa.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/2d7cfd7d111d44a4a9e5ae60bc134aca_5bc82505487b4142a15bd79f58a4f0aa.jpg"
+      ]
+    },
+    {
+      "review_id": 439914670526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm cho làn da trông rạng rỡ và trẻ trung, Kích thước nhỏ gọn và thân thiện với du lịch,",
+      "buyer_name": "0***2",
+      "likes": 1,
+      "created_at": "2025-01-24",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/4422c4f2463844b7b0c5d4a86a25f0d5_f2af45143aa54fa99491ddca87de49ce.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/4422c4f2463844b7b0c5d4a86a25f0d5_f2af45143aa54fa99491ddca87de49ce.jpg"
+      ]
+    },
+    {
+      "review_id": 445602522626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bao bì sang trọng và chất lượng cao, Phù hợp với mọi loại da, Dễ sử dụng và áp dụng,",
+      "buyer_name": "H***g",
+      "likes": 1,
+      "created_at": "2025-06-11",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/33c1cb76ca5d45d8acea810e364bc74d_254dc529b8d5479d9e8f00065a31f42d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/33c1cb76ca5d45d8acea810e364bc74d_254dc529b8d5479d9e8f00065a31f42d.jpg"
+      ]
+    },
+    {
+      "review_id": 435237631426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dưỡng ẩm và làm mềm da, Phù hợp với mọi loại da, Công thức chống lão hóa hiệu quả,",
+      "buyer_name": "LE",
+      "likes": 1,
+      "created_at": "2024-11-19",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f3aaa5fcdcd34882a33ad1ed8d6b3762_0765e4b3535442ae89b7fbccb906ace6.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f3aaa5fcdcd34882a33ad1ed8d6b3762_0765e4b3535442ae89b7fbccb906ace6.jpg"
+      ]
+    },
+    {
+      "review_id": 436014517726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Kích thước nhỏ gọn và thân thiện với du lịch, Làm da cảm thấy sạch sẽ và tươi mát,",
+      "buyer_name": "0***7",
+      "likes": 2,
+      "created_at": "2024-11-23",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e9848e102cea47a5a5c49b68591b8fac_968eb55d2ff14d84986d8c9ef611f3d7.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e9848e102cea47a5a5c49b68591b8fac_968eb55d2ff14d84986d8c9ef611f3d7.jpg"
+      ]
+    },
+    {
+      "review_id": 436055561526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức hấp thụ nhanh và không nhờn, Công thức nhẹ nhàng và không gây kích ứng,",
+      "buyer_name": "Mỹ Bình",
+      "likes": 2,
+      "created_at": "2024-11-22",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/1016575653c9490395fee08bb501e944_4_1732243801.711597.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/1016575653c9490395fee08bb501e944_4_1732243801.711597.jpg"
+      ]
+    },
+    {
+      "review_id": 285564890126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Giao hàng nhanh, gói kỹ, hàng này mình xài cũng gần 10 chai rồi, rất ưng vì hiệu quả, giảm nhắn đấng kể luôn",
+      "buyer_name": "****6",
+      "likes": 0,
+      "created_at": "2021-07-04",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/74d310896be74bc952e4c0b502d6033f.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20210704/02998243-3f3e-461f-ab96-61897b24834f@@ld.mp4?auth_key=1789414823-0-0-90c35563978f3f0bb8670ecd5ac29306",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/025abf54233e94049229e831789f3d2d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/74d310896be74bc952e4c0b502d6033f.jpg",
+        "https://lazvideo.lazcdn.com/psp/20210704/02998243-3f3e-461f-ab96-61897b24834f@@ld.mp4?auth_key=1789414823-0-0-90c35563978f3f0bb8670ecd5ac29306",
+        "https://sg-test-11.slatic.net/other/roc/025abf54233e94049229e831789f3d2d.jpg"
+      ]
+    },
+    {
+      "review_id": 290764680826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dán băng keo chằng chịt tuy nhiên hàng chính hãng giá tốt tạm chấp nhận",
+      "buyer_name": "Đ***g",
+      "likes": 0,
+      "created_at": "2021-08-08",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/46e780b99c02389f95fdc88812e16778.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20210808/de6b1c98-da91-4a67-96f7-3f18bdc77409@@ld.mp4?auth_key=1789414823-0-0-ad7837c4da20aff66ab852b28606e947",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/370e6e270c2b35d47653df6649481840.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://vn-live-02.slatic.net/p/46e780b99c02389f95fdc88812e16778.jpg",
+        "https://lazvideo.lazcdn.com/psp/20210808/de6b1c98-da91-4a67-96f7-3f18bdc77409@@ld.mp4?auth_key=1789414823-0-0-ad7837c4da20aff66ab852b28606e947",
+        "https://sg-test-11.slatic.net/other/roc/370e6e270c2b35d47653df6649481840.jpg"
+      ]
+    },
+    {
+      "review_id": 413067378726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "hàng tốt sp tốt \nđóng gói cẩn thận\nsẽ mua lần sau \nfjjklljgdsknvdd",
+      "buyer_name": "Phạm thu hiền",
+      "likes": 0,
+      "created_at": "2024-03-04",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/863475e331b3b802adab17742c6129d0.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240304/da3e796e-7a93-4e21-b2fb-e09586fd4c39@@ld.mp4?auth_key=1789414823-0-0-986a4222107a56c14bc6c5a092d16ea1",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_ce62546f46464be8aac64f0086769403.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_67a73ab3b2294e7289e307b308693275.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_3dc8a96753c54e208cb35bb393f6f40e.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_f6281f1965484b738218f264f5c008b7.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_2787c8eef94f482a8bc644c3f3d8747f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/863475e331b3b802adab17742c6129d0.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240304/da3e796e-7a93-4e21-b2fb-e09586fd4c39@@ld.mp4?auth_key=1789414823-0-0-986a4222107a56c14bc6c5a092d16ea1",
+        "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_ce62546f46464be8aac64f0086769403.jpg",
+        "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_67a73ab3b2294e7289e307b308693275.jpg",
+        "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_3dc8a96753c54e208cb35bb393f6f40e.jpg",
+        "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_f6281f1965484b738218f264f5c008b7.jpg",
+        "https://lzd-u.slatic.net/5b17f3b32dd54636856d7d24eeb66d3e_2787c8eef94f482a8bc644c3f3d8747f.jpg"
+      ]
+    },
+    {
+      "review_id": 433004393526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Đã nhận được hàng rồi, giao hàng rất nhanh chóng , chất lượng rất OK 🆗",
+      "buyer_name": "Nguyễn",
+      "likes": 2,
+      "created_at": "2024-10-12",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5612e486e37547d98e4f988db5b51bfa_8_1728718559.617874.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5612e486e37547d98e4f988db5b51bfa_8_1728718559.617874.jpg"
+      ]
+    },
+    {
+      "review_id": 412066426426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Sữa rửa mặt dùng rất thích. Giá tốt, giao hàng nhanh. 5 sao cho shop nhé!",
+      "buyer_name": "N***t",
+      "likes": 0,
+      "created_at": "2024-02-24",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/05dd9b41e5bbc4e7f37d47d0f7571a90.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240224/b60b10d4-f1b6-4067-b6ea-11797965b009@@ld.mp4?auth_key=1789414823-0-0-29d3d420d03c19fce4d53a8cbda43878",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/74aee22023c843759e2edb494cb9d698_4_1708781063.922122.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/05dd9b41e5bbc4e7f37d47d0f7571a90.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240224/b60b10d4-f1b6-4067-b6ea-11797965b009@@ld.mp4?auth_key=1789414823-0-0-29d3d420d03c19fce4d53a8cbda43878",
+        "https://lzd-u.slatic.net/74aee22023c843759e2edb494cb9d698_4_1708781063.922122.jpg"
+      ]
+    },
+    {
+      "review_id": 440186588126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm tươi trẻ và cải thiện da, Làm cho làn da trông rạng rỡ và trẻ trung,",
+      "buyer_name": "h***h",
+      "likes": 2,
+      "created_at": "2025-02-04",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8f982483645b40ac9ee38977c963d7c5_29830c2de54b40e3bef48b4d0e0bd957.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8f982483645b40ac9ee38977c963d7c5_29830c2de54b40e3bef48b4d0e0bd957.jpg"
+      ]
+    },
+    {
+      "review_id": 442125347126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Cải thiện kết cấu và độ đàn hồi của da, Làm da cảm thấy sạch sẽ và tươi mát,",
+      "buyer_name": "n***u",
+      "likes": 2,
+      "created_at": "2025-03-20",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6cd1ed9fa930409480ffca0ed25a92a3_3b0200c928704616ac543c6c5014c541.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6cd1ed9fa930409480ffca0ed25a92a3_3b0200c928704616ac543c6c5014c541.jpg"
+      ]
+    },
+    {
+      "review_id": 437387839626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Đã dùng rất nhiều nằm. Rất OK. Thương hiệu nổi tiếng lâu năm nên an tâm",
+      "buyer_name": "Nguyễn kim Phượng",
+      "likes": 2,
+      "created_at": "2024-12-18",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/2bd32a8519154c668558cf7452b89e38_2_1734478127.408761.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/2bd32a8519154c668558cf7452b89e38_2_1734478127.408761.jpg"
+      ]
+    },
+    {
+      "review_id": 455082258226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Đã nhận được hàng, shop giao nhanh. Mình chưa sử dụng. Nhưng thấy Kích thước nhỏ gọn thích hợp với du lịch.",
+      "buyer_name": "V***ạ",
+      "likes": 0,
+      "created_at": "2025-12-16",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f58bced34642475599b70b00cdd78fd9_62b8c03156124403aca74cf2b60372d5.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f58bced34642475599b70b00cdd78fd9_62b8c03156124403aca74cf2b60372d5.jpg"
+      ]
+    },
+    {
+      "review_id": 413332107726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Đã nhận đc hàng.... Mua vào dịp sale nên đc giá rẻ .... Xài rất tốt.",
+      "buyer_name": "L***ỷ",
+      "likes": 0,
+      "created_at": "2024-03-05",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/1671ef088f0441c2987ae3c0e49c9233.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/d690de95f2e7b905da67e5937418dcd8.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240305/059e57db-b12e-4e64-b159-03d9d8f73e67@@ld.mp4?auth_key=1789414825-0-0-7cf52f5eb682d7bfcc7ead1acc1a3d03",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/61071c2494be4f1fa110f519c394c04e_4_1709630292.199798.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/1671ef088f0441c2987ae3c0e49c9233.jpg",
+        "https://sg-test-11.slatic.net/p/d690de95f2e7b905da67e5937418dcd8.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240305/059e57db-b12e-4e64-b159-03d9d8f73e67@@ld.mp4?auth_key=1789414825-0-0-7cf52f5eb682d7bfcc7ead1acc1a3d03",
+        "https://lzd-u.slatic.net/61071c2494be4f1fa110f519c394c04e_4_1709630292.199798.jpg"
+      ]
+    },
+    {
+      "review_id": 411787765026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "ok lm nhé",
+      "buyer_name": "P***n",
+      "likes": 0,
+      "created_at": "2024-03-03",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/a7b800eb07c3ad16e06fe1f5595a61c2.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240303/983101ad-f23a-49ac-aee6-28d3efa3025c@@ld.mp4?auth_key=1789414828-0-0-5ef94f1775858ba07096369656950e4f",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/0e593d9e388c488a88c0ace027211627_c160daa2ea9741289d63ddcc8f6205ad.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/a7b800eb07c3ad16e06fe1f5595a61c2.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240303/983101ad-f23a-49ac-aee6-28d3efa3025c@@ld.mp4?auth_key=1789414828-0-0-5ef94f1775858ba07096369656950e4f",
+        "https://lzd-u.slatic.net/0e593d9e388c488a88c0ace027211627_c160daa2ea9741289d63ddcc8f6205ad.jpg"
+      ]
+    },
+    {
+      "review_id": 420685009026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Nzjnxxjxjxjxjxjxjjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjxjx",
+      "buyer_name": "Trang",
+      "likes": 0,
+      "created_at": "2024-05-13",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/95845c6ff62ff938e6e28cc775ffcecf.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240513/2968a68d-820b-4b43-a54e-8bd8d7756788@@ld.mp4?auth_key=1789414828-0-0-a52008597725a81ba26161aacb5b27ff",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/349410812b7e47cf8c0458ec099e11d0_1_1715572190.853272.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/95845c6ff62ff938e6e28cc775ffcecf.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240513/2968a68d-820b-4b43-a54e-8bd8d7756788@@ld.mp4?auth_key=1789414828-0-0-a52008597725a81ba26161aacb5b27ff",
+        "https://lzd-u.slatic.net/349410812b7e47cf8c0458ec099e11d0_1_1715572190.853272.jpg"
+      ]
+    },
+    {
+      "review_id": 446493449626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Cải thiện kết cấu và độ đàn hồi của da, Dễ sử dụng và áp dụng,",
+      "buyer_name": "Nguyên Thi Hoa",
+      "likes": 2,
+      "created_at": "2025-07-09",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/a7681b99d67348e6b3e2e14a89791000_e28c89814769422c8cf1308efd395d2a.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/a7681b99d67348e6b3e2e14a89791000_e28c89814769422c8cf1308efd395d2a.jpg"
+      ]
+    },
+    {
+      "review_id": 454176059126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Thành phần tự nhiên, An toàn cho da nhạy cảm, Công thức hữu cơ, Không hóa chất mạnh, Tính chất làm dịu,",
+      "buyer_name": "H***h",
+      "likes": 0,
+      "created_at": "2025-12-04",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8e2880e0fbe7412bbf4e9697a0ec521d_4100631ef93c4077aa99fae06da0049d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/8e2880e0fbe7412bbf4e9697a0ec521d_3220f33f5187490d830b6e7ddb69c69c.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8e2880e0fbe7412bbf4e9697a0ec521d_4100631ef93c4077aa99fae06da0049d.jpg",
+        "https://lzd-u.slatic.net/8e2880e0fbe7412bbf4e9697a0ec521d_3220f33f5187490d830b6e7ddb69c69c.jpg"
+      ]
+    },
+    {
+      "review_id": 439609780926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "đúng sản phẩm........................................",
+      "buyer_name": "0***6",
+      "likes": 2,
+      "created_at": "2025-01-20",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/af9d4a7bbc124a4eb4b6a2d98176018f_9cb84c1e3fce433aa7c35edfa1e240f2.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/af9d4a7bbc124a4eb4b6a2d98176018f_9cb84c1e3fce433aa7c35edfa1e240f2.jpg"
+      ]
+    },
+    {
+      "review_id": 454240640226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Cải thiện kết cấu và độ đàn hồi của da, Làm da cảm thấy sạch sẽ và tươi mát",
+      "buyer_name": "T***e",
+      "likes": 0,
+      "created_at": "2025-12-17",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/a11b962f179c46b380dd724c2d2b26bb.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/645c61a5b64c6d58d0d31bda65809418.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20251217/73311ae4-c222-4d46-b250-1d6f8be26ebf@@ld.mp4?auth_key=1789414830-0-0-bd694e37c4493c135e05a84b7de09a2f",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/a11b962f179c46b380dd724c2d2b26bb.jpg",
+        "https://sg-test-11.slatic.net/p/645c61a5b64c6d58d0d31bda65809418.jpg",
+        "https://lazvideo.lazcdn.com/psp/20251217/73311ae4-c222-4d46-b250-1d6f8be26ebf@@ld.mp4?auth_key=1789414830-0-0-bd694e37c4493c135e05a84b7de09a2f"
+      ]
+    },
+    {
+      "review_id": 455209630526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da cảm thấy sạch sẽ và tươi mát, Công thức chống lão hóa hiệu quả,",
+      "buyer_name": "MinhChau",
+      "likes": 0,
+      "created_at": "2025-12-19",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/1ff9ff5edcfb4a3f83aeba8b945ffe0c_8064b7778a8e42cdb5daf201ecb08737.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/1ff9ff5edcfb4a3f83aeba8b945ffe0c_8064b7778a8e42cdb5daf201ecb08737.jpg"
+      ]
+    },
+    {
+      "review_id": 449816202926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Phù hợp với mọi loại da, Công thức chống lão hóa hiệu quả, Tăng cường làn da khỏe mạnh và trẻ trung,",
+      "buyer_name": "0***2",
+      "likes": 0,
+      "created_at": "2025-10-14",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/81e86b3d145943bfbb5d9cd7f285c9a8_4_1760420188.138712.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/81e86b3d145943bfbb5d9cd7f285c9a8_4_1760420188.138712.jpg"
+      ]
+    },
+    {
+      "review_id": 459845554026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Kích thước nhỏ gọn và thân thiện với du lịch, Cải thiện kết cấu và độ đàn hồi của da,",
+      "buyer_name": "0***3",
+      "likes": 0,
+      "created_at": "2026-03-30",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/51bebdbe881648568f921b6fd81404ff_1_1774864573.991356.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/51bebdbe881648568f921b6fd81404ff_1_1774864573.991356.jpg"
+      ]
+    },
+    {
+      "review_id": 394603151926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "tuyệt vời",
+      "buyer_name": "L***ị",
+      "likes": 0,
+      "created_at": "2023-09-25",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/cb9cc77eed634c71af60eb77040a1b0f_11_1695610283.712350.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/cb9cc77eed634c71af60eb77040a1b0f_12_1695610284.216244.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/cb9cc77eed634c71af60eb77040a1b0f_11_1695610283.712350.jpg",
+        "https://lzd-u.slatic.net/cb9cc77eed634c71af60eb77040a1b0f_12_1695610284.216244.jpg"
+      ]
+    },
+    {
+      "review_id": 448724356026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Sữa rửa mặt dùng thích. Nên có sale fai săn ngay. Mùi dễ chịu, k biết dùng lâu dài có hiệu quả ko. Nhưng cứ chính hãng sale mà mua. Đảm bảo chất lượng, giá phải chăng.",
+      "buyer_name": "Phạm Thị Cẩm Vân",
+      "likes": 0,
+      "created_at": "2025-09-15",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/fa755c1e368d401ea8873d734976510d_3_1757910932.734109.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/fa755c1e368d401ea8873d734976510d_3_1757910932.734109.jpg"
+      ]
+    },
+    {
+      "review_id": 449750369226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bao bì sang trọng và chất lượng cao, Làm da cảm thấy sạch sẽ và tươi mát, hơi khô da",
+      "buyer_name": "Hoàng Linh",
+      "likes": 0,
+      "created_at": "2025-10-15",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e198a7b5e9cc474abdacf716a8aa7ebe_10_1760507011.386580.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e198a7b5e9cc474abdacf716a8aa7ebe_10_1760507011.386580.jpg"
+      ]
+    },
+    {
+      "review_id": 403855838826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Theo Forbes, tình trạng thiếu nhân sự trên tàu sân bay mới nhất của hải quân Mỹ - USS Gerald R. Ford (CVN-78) là kết quả của việc hàng trăm thủy thủ trên tàu bị cắt giảm nhân sự trong một năm qua mà không có sự thay thế.\n\nForbes nói thêm, chỉ trong một năm đã có khoảng 500 đến 600 thủy thủ trên USS Gerald R. Ford bị cắt giảm. Điều này đẩy thủy thủ đoàn vận hành tàu sân bay này xuống mức thấp kỷ lục và thấp hơn nhiều so với khung nhân sự cơ bản được hải quân Mỹ công bố trước đó là khoảng 2.300 thủy thủ.",
+      "buyer_name": "N***g",
+      "likes": 0,
+      "created_at": "2023-12-14",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/2868db46aaf244cb8938dd750f3a15ec_3_1702564662.653191.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/2868db46aaf244cb8938dd750f3a15ec_3_1702564662.653191.jpg"
+      ]
+    },
+    {
+      "review_id": 401281008626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức chống lão hóa hiệu quả, Làm sạch và làm tươi da, Dễ sử dụng và thoa lên da, Lâu trôi và đáng giá tiền,",
+      "buyer_name": "Phan Trí Thức",
+      "likes": 0,
+      "created_at": "2023-11-23",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/189ce0ba523a41c7ac13c2836750b8e5_2_1700707715.978887.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/189ce0ba523a41c7ac13c2836750b8e5_2_1700707715.978887.jpg"
+      ]
+    },
+    {
+      "review_id": 408774997526559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "sản phẩm tốt, đã dùng nhiều lần làm trắng, sạch, mịn da",
+      "buyer_name": "Trúc",
+      "likes": 0,
+      "created_at": "2024-01-28",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/cd66693a52a7412cad99a84549c14a1c_6c6da6fa94ae4eb487f9fce3d23df18d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/cd66693a52a7412cad99a84549c14a1c_7a6882e6149e4df4bed9d1289fa8f01a.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/cd66693a52a7412cad99a84549c14a1c_6c6da6fa94ae4eb487f9fce3d23df18d.jpg",
+        "https://lzd-u.slatic.net/cd66693a52a7412cad99a84549c14a1c_7a6882e6149e4df4bed9d1289fa8f01a.jpg"
+      ]
+    },
+    {
+      "review_id": 402044968826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "shop đóng gói chắc chắn, giao hàng nhanh \nlà khách hàng thân thiết, POND'S là lựa chọn duy nhất từ trước đến nay của tôi,\nCông thức chống lão hóa hiệu quả, \n10đ cho chất lượng.",
+      "buyer_name": "T***h",
+      "likes": 0,
+      "created_at": "2023-11-29",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/dd6eddfd8fea4e88a3289cc5d1949cec_7cb351f650d04d1d8a09dc4be2e8ec1e.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/dd6eddfd8fea4e88a3289cc5d1949cec_7cb351f650d04d1d8a09dc4be2e8ec1e.jpg"
+      ]
+    },
+    {
+      "review_id": 395873502226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Chất lượng hàng rất tốt. Mua Mall nên yên tâm hàng chính hãng. Nhân viên giao hàng rất nhiệt tình và thân thiện. Hàng được gói rất cẩn thận. Sẽ luôn ủng hộ",
+      "buyer_name": "3***7",
+      "likes": 0,
+      "created_at": "2023-10-12",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d471f38b51584531a1e3e8463251399b_1_1697092020.222205.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d471f38b51584531a1e3e8463251399b_1_1697092020.222205.jpg"
+      ]
+    },
+    {
+      "review_id": 401562069626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dễ sử dụng và thoa lên da, Làm sạch và làm tươi da, Lâu trôi và đáng giá tiền, Bao bì sang trọng và chất lượng cao,",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2023-11-26",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8f86f7f688f349838773b6ab62a1b88e_13_1700970926.632393.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8f86f7f688f349838773b6ab62a1b88e_13_1700970926.632393.jpg"
+      ]
+    },
+    {
+      "review_id": 401610224626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Giao hàng siêu nhanh, đặt buổi sáng thì chiều đã nhận được hàng rồi. Hàng giao đúng mô tả, cho shop đầy sao luôn nha.",
+      "buyer_name": "9***7",
+      "likes": 0,
+      "created_at": "2023-11-25",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/cd22ed16e5e34a86a1c37f4c6c066deb_3fb534751179476c9d2c951c0b572c65.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/cd22ed16e5e34a86a1c37f4c6c066deb_3fb534751179476c9d2c951c0b572c65.jpg"
+      ]
+    },
+    {
+      "review_id": 407805617926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "hàng chính hãng, đang lotion không bết dính, mùi thơm dễ chịu, lúc trước mua combo 2 chai cho cháu mình ,sài hết 1 tube đã thấy trắng hơn, nên mua tiếp combo để dành , giá rẻ còn được tặng quà",
+      "buyer_name": "Bao Ngoc",
+      "likes": 0,
+      "created_at": "2024-01-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/0648599ad035439d9e2e934ed59d1f98_36607ae4fb2a495192392fe650e1d764.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/0648599ad035439d9e2e934ed59d1f98_36607ae4fb2a495192392fe650e1d764.jpg"
+      ]
+    },
+    {
+      "review_id": 399945301826559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da trông rạng rỡ và trẻ trung, Phù hợp với mọi loại da, Công thức nhẹ nhàng không gây kích ứng, Dễ sử dụng và thoa lên da,",
+      "buyer_name": "0***3",
+      "likes": 0,
+      "created_at": "2023-11-20",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ce9373fce43d4d7c8e092e589cfcb962_4_1700456271.169099.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ce9373fce43d4d7c8e092e589cfcb962_4_1700456271.169099.jpg"
+      ]
+    },
+    {
+      "review_id": 384809346426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "hàng chất lượng y mẫu. đã mua nhiều lần",
+      "buyer_name": "Nguyên Thi Hoa",
+      "likes": 1,
+      "created_at": "2023-07-01",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/61c157ce998847979a99dd98e057cc75_0802776b01dc4916a97505830b7a7a09.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/be181a4ecf524e70b1ebfdd955c64f80_0e37dac3deb4498ebfbf410b91b85e25.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/61c157ce998847979a99dd98e057cc75_0802776b01dc4916a97505830b7a7a09.jpg",
+        "https://lzd-u.slatic.net/be181a4ecf524e70b1ebfdd955c64f80_0e37dac3deb4498ebfbf410b91b85e25.jpg"
+      ]
+    },
+    {
+      "review_id": 453448596126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Dưỡng ẩm và làm mềm da, Phù hợp với mọi loại da,",
+      "buyer_name": "0***4",
+      "likes": 0,
+      "created_at": "2025-11-14",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e7d643b4e13c49868942693496b759e8_1_1763085223.735753.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e7d643b4e13c49868942693496b759e8_1_1763085223.735753.jpg"
+      ]
+    },
+    {
+      "review_id": 405854827126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm tươi trẻ và cải thiện da, Làm da trông rạng rỡ và trẻ trung, Dễ sử dụng và thoa lên da,",
+      "buyer_name": "diệu",
+      "likes": 0,
+      "created_at": "2023-12-28",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f7ecd29b5aa640248c86cc7856ddf40d_26565a885b83462094e89d8b82d585d9.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f7ecd29b5aa640248c86cc7856ddf40d_26565a885b83462094e89d8b82d585d9.jpg"
+      ]
+    },
+    {
+      "review_id": 406326890426559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "nhiều rồi nên yên tâm về chất lượng mình mua hẳn hai tuýp dùng qua tết luôn sản phẩm dùng mềm da",
+      "buyer_name": "7***0",
+      "likes": 0,
+      "created_at": "2024-01-04",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/634376d2d2854c40b22902f39939f7aa_2ebf512bac9d452a8bfb193c9a4658db.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/634376d2d2854c40b22902f39939f7aa_2ebf512bac9d452a8bfb193c9a4658db.jpg"
+      ]
+    },
+    {
+      "review_id": 409366712126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bao bì sang trọng và chất lượng cao, \nLàm sạch và làm tươi da, Làm sạch và làm tươi da,",
+      "buyer_name": "Thái tâm",
+      "likes": 0,
+      "created_at": "2024-01-26",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/79b799a5d0bb48f0b381abbf00e62288_4_1706250658.767261.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/79b799a5d0bb48f0b381abbf00e62288_4_1706250658.767261.jpg"
+      ]
+    },
+    {
+      "review_id": 396961310926559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Kết quả rõ rệt trên nếp nhăn, Cung cấp độ ẩm lâu dài, Kích thước nhỏ gọn tiện lợi khi đi du lịch,",
+      "buyer_name": "Bùi Thị Minh Thư",
+      "likes": 0,
+      "created_at": "2023-10-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ccd76b70a9694d02838ed38c1e718f19_c9f91b9cd9bc41698a49cf385a032502.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ccd76b70a9694d02838ed38c1e718f19_c9f91b9cd9bc41698a49cf385a032502.jpg"
+      ]
+    },
+    {
+      "review_id": 408182016326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Phù hợp với mọi loại da, Bao bì sang trọng và chất lượng cao, Dễ sử dụng và thoa lên da,",
+      "buyer_name": "0***1",
+      "likes": 0,
+      "created_at": "2024-01-19",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/1a26de4aa70838e158142de2989f9a06.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240119/6113dfbf-b8cc-45eb-952d-004644ba8d0b@@ld.mp4?auth_key=1789414838-0-0-f55720d5d76889c2315f12b444694829",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/1a26de4aa70838e158142de2989f9a06.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240119/6113dfbf-b8cc-45eb-952d-004644ba8d0b@@ld.mp4?auth_key=1789414838-0-0-f55720d5d76889c2315f12b444694829"
+      ]
+    },
+    {
+      "review_id": 430832419326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức chống lão hóa hiệu quả, Dưỡng ẩm và làm mềm da, Làm cho làn da trông rạng rỡ và trẻ trung,",
+      "buyer_name": "LY THUC TRAN",
+      "likes": 0,
+      "created_at": "2024-10-10",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/ce54e3f8db094147a7fe2c0e15da6ce6_4_1728560999.947245.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/ce54e3f8db094147a7fe2c0e15da6ce6_4_1728560999.947245.jpg"
+      ]
+    },
+    {
+      "review_id": 403462392126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức nhẹ nhàng không gây kích ứng, Kích thước nhỏ gọn và tiện dụng khi đi du lịch,",
+      "buyer_name": "Trâm",
+      "likes": 0,
+      "created_at": "2023-12-20",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/b14af1ccb4d149b48db993a92e9a5e50_66a1ea5ca9a8427b828892ab89ac7b93.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/b14af1ccb4d149b48db993a92e9a5e50_66a1ea5ca9a8427b828892ab89ac7b93.jpg"
+      ]
+    },
+    {
+      "review_id": 320786665226559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Hàng đóng gói kỹ, giao hàng nhanh, đúng sản phẩm đặt chưa sử dụng nên chưa biết vẫn đánh giá shop năm sao ",
+      "buyer_name": "O***x",
+      "likes": 0,
+      "created_at": "2022-01-13",
+      "sku_info": "Hương:Hương tự nhiên, Thể tích (ml):100",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/fdfc946207872c4de08bacc13199729f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/other/roc/fdfc946207872c4de08bacc13199729f.jpg"
+      ]
+    },
+    {
+      "review_id": 432041248026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Kích thước nhỏ gọn và thân thiện với du lịch, Làm cho làn da trông rạng rỡ và trẻ trung, Dễ sử dụng và áp dụng, Công thức chống lão hóa hiệu quả,",
+      "buyer_name": "Huyền Lưu",
+      "likes": 0,
+      "created_at": "2024-09-29",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/73c334a4543d412ca91b33ad04af80de_1562fe4879074f349542d403e8482c3e.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/73c334a4543d412ca91b33ad04af80de_1562fe4879074f349542d403e8482c3e.jpg"
+      ]
+    },
+    {
+      "review_id": 432002999326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Công thức hấp thụ nhanh và không nhờn, Tăng cường làn da khỏe mạnh và trẻ trung, Làm tươi trẻ và cải thiện da, Bền lâu và đáng giá tiền,",
+      "buyer_name": "8***9",
+      "likes": 0,
+      "created_at": "2024-09-29",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8b0b8551510d4455b2e5bd274e94884d_3_1727624003.141811.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8b0b8551510d4455b2e5bd274e94884d_3_1727624003.141811.jpg"
+      ]
+    },
+    {
+      "review_id": 403696051326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Đã nhận được hàng rồi, giao hàng rất nhanh chóng, chất lượng rất OK",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2023-12-14",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/07246d69f5d14bcb988dd6bde693f840_15_1702534190.362535.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/07246d69f5d14bcb988dd6bde693f840_15_1702534190.362535.jpg"
+      ]
+    },
+    {
+      "review_id": 432015701626559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Làm da cảm thấy sạch sẽ và tươi mát, Dễ sử dụng và áp dụng, Làm tươi trẻ và cải thiện da, Làm cho làn da trông rạng rỡ và trẻ trung,",
+      "buyer_name": "T***ơ",
+      "likes": 0,
+      "created_at": "2024-09-28",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/512f9c34221a49b49a28223fdbcc5075_e0459d40241846a989f1921b05b75a12.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/512f9c34221a49b49a28223fdbcc5075_e0459d40241846a989f1921b05b75a12.jpg"
+      ]
+    },
+    {
+      "review_id": 456125809026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "chất lượng sản phẩm rất tốt, tôi đã sử dụng nhiều năm và kết quả rất ok, mọi người nên mua nha, shop đóng gói rất cẩn thận và giao hàng nhanh",
+      "buyer_name": "nguyễn thị chuyên",
+      "likes": 0,
+      "created_at": "2026-01-13",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/376964da10a548ccbed64e27b6896c12_b1d612ed2235402b8544df656cf0eacc.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/376964da10a548ccbed64e27b6896c12_b1d612ed2235402b8544df656cf0eacc.jpg"
+      ]
+    },
+    {
+      "review_id": 431098420726559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Bền lâu và đáng giá tiền, Làm tươi trẻ và cải thiện da, Làm tươi trẻ và cải thiện da,",
+      "buyer_name": "Thu Nga",
+      "likes": 0,
+      "created_at": "2024-09-23",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/373f425922494c589847a8a379951a62_1_1727059493.335112.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/373f425922494c589847a8a379951a62_1_1727059493.335112.jpg"
+      ]
+    },
+    {
+      "review_id": 429982264326559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "Cải thiện kết cấu và độ đàn hồi của da, Dễ sử dụng và áp dụng, Tăng cường làn da khỏe mạnh và trẻ trung,",
+      "buyer_name": "Ngân Nguyễn",
+      "likes": 0,
+      "created_at": "2024-09-23",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/1637ca2112ce43ed920f35ed751dfcce_b440fb625e0641c88c2c3a3255b937b2.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/1637ca2112ce43ed920f35ed751dfcce_b440fb625e0641c88c2c3a3255b937b2.jpg"
+      ]
+    },
+    {
+      "review_id": 406014506126559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "rất tốt sản phẩm có nhiều đánh giá nên mua thử rất hiệu quả cho shop 5sao",
+      "buyer_name": "Trinh Nữ Hoa",
+      "likes": 0,
+      "created_at": "2024-01-02",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8887ce4f0cdf488aa88a81ff2a6d9de3_2_1704184286.813101.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8887ce4f0cdf488aa88a81ff2a6d9de3_2_1704184286.813101.jpg"
+      ]
+    },
+    {
+      "review_id": 405132174026559,
+      "product_id": "310626559",
+      "rating": 5,
+      "review_text": "sp tốt, đã mua nhiều lần rất ok, làm sạch da mặt (hònh ảnh mang tính chất nhận xu)",
+      "buyer_name": "Trúc",
+      "likes": 0,
+      "created_at": "2024-01-03",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/be19d69249a04125ae41767ac2278447_0f3b4ae875894bb0bb394d6a981e9f10.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/be19d69249a04125ae41767ac2278447_0f3b4ae875894bb0bb394d6a981e9f10.jpg"
+      ]
+    },
+    {
+      "review_id": 455762487926559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn, chưa dùng nên chưa biết có hiệu quả không.",
+      "buyer_name": "n***h",
+      "likes": 0,
+      "created_at": "2025-12-27",
+      "sku_info": "Thể tích:100, Nhóm hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/bc32caff2494688f0111359065be2c80.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20251227/8268608f-ba48-461f-9939-8e3c272fc5a4@@ld.mp4?auth_key=1789414845-0-0-e4be9853eef167ce4830569db92b9b83",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f77917fc480c404f878b1d76b6cbec6f_0c4596e7e2344af8afd2a623667e51c9.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f77917fc480c404f878b1d76b6cbec6f_4c1e5c712a194660ab419387a963ec55.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/bc32caff2494688f0111359065be2c80.jpg",
+        "https://lazvideo.lazcdn.com/psp/20251227/8268608f-ba48-461f-9939-8e3c272fc5a4@@ld.mp4?auth_key=1789414845-0-0-e4be9853eef167ce4830569db92b9b83",
+        "https://lzd-u.slatic.net/f77917fc480c404f878b1d76b6cbec6f_0c4596e7e2344af8afd2a623667e51c9.jpg",
+        "https://lzd-u.slatic.net/f77917fc480c404f878b1d76b6cbec6f_4c1e5c712a194660ab419387a963ec55.jpg"
+      ]
+    },
+    {
+      "review_id": 441512281126559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn",
+      "buyer_name": "n***.",
+      "likes": 2,
+      "created_at": "2025-03-05",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f4be1bd5be064f3794acce7e3d7f81f6_233887a9b8a04fcba577435269b6985d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f4be1bd5be064f3794acce7e3d7f81f6_233887a9b8a04fcba577435269b6985d.jpg"
+      ]
+    },
+    {
+      "review_id": 396141232326559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn.",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2023-10-11",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5570f0274163469fb17323f16756dbfa_2eb93fcc34d042369a52dd313e9700b1.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5570f0274163469fb17323f16756dbfa_2eb93fcc34d042369a52dd313e9700b1.jpg"
+      ]
+    },
+    {
+      "review_id": 406685930926559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn.",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2024-01-06",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/67b2d94cb554471bb468c7d65a968481_48250856321c4d9bb8dbcd824e920c4e.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/67b2d94cb554471bb468c7d65a968481_48250856321c4d9bb8dbcd824e920c4e.jpg"
+      ]
+    },
+    {
+      "review_id": 429873391626559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn.",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2024-08-27",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/4946942975f248e59fb47c5faa2ed3c2_29eea23d8a6f465e8987c62856a44a3d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/4946942975f248e59fb47c5faa2ed3c2_29eea23d8a6f465e8987c62856a44a3d.jpg"
+      ]
+    },
+    {
+      "review_id": 448050460126559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2025-08-26",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f82824e59084472db17f7782a0e17534_e3ddd0c3651b4df0ae726137eaacc320.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f82824e59084472db17f7782a0e17534_e3ddd0c3651b4df0ae726137eaacc320.jpg"
+      ]
+    },
+    {
+      "review_id": 366697427026559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "để sản phẩm đc tặng sirum mà nhận hàng thì ko có sirum nhé ",
+      "buyer_name": "Nguyễn Thương",
+      "likes": 0,
+      "created_at": "2023-01-06",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/6e9e0e33685b410ebf6bfd3001587b42_a410e2e971474f3e8be6e0e89b05e69a.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/6e9e0e33685b410ebf6bfd3001587b42_a410e2e971474f3e8be6e0e89b05e69a.jpg"
+      ]
+    },
+    {
+      "review_id": 383168201726559,
+      "product_id": "310626559",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Trương",
+      "likes": 0,
+      "created_at": "2023-06-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/0ec5f8913555447ea4d41ad243d38202_83fe3b6be09b470aa0c262eb231ab921.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/0ec5f8913555447ea4d41ad243d38202_83fe3b6be09b470aa0c262eb231ab921.jpg"
+      ]
+    },
+    {
+      "review_id": 403888414626559,
+      "product_id": "310626559",
+      "rating": 3,
+      "review_text": "không kèm quà tặng",
+      "buyer_name": "lan",
+      "likes": 0,
+      "created_at": "2023-12-14",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/4eac2756848b48148df0d62bcd3f0239_305d66df9d7f4b82967a8b42cb76831e.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/4eac2756848b48148df0d62bcd3f0239_305d66df9d7f4b82967a8b42cb76831e.jpg"
+      ]
+    },
+    {
+      "review_id": 353641609626559,
+      "product_id": "310626559",
+      "rating": 3,
+      "review_text": "mua được sale nên giá rẻ hơn ở ngoài, chưa dùng không biết chất lượng sao nhưng đóng hàng cho mình tuýp bị chảy ",
+      "buyer_name": "0***5",
+      "likes": 0,
+      "created_at": "2022-09-11",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/167e123bef4845389d766bd0027c5600.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://vn-live-02.slatic.net/p/88c845a1ad85c5169627bba2bae40f29.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20220911/19a6431c-bf43-479f-999b-75b1bb9d8751@@ld.mp4?auth_key=1789414849-0-0-607f39e7dbc6136a6b5fa656236e9942",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/cf96b0808f73452884fc85ca41daebbe_dbe4af47593842b296631b8366cf6d0f.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/167e123bef4845389d766bd0027c5600.jpg",
+        "https://vn-live-02.slatic.net/p/88c845a1ad85c5169627bba2bae40f29.jpg",
+        "https://lazvideo.lazcdn.com/psp/20220911/19a6431c-bf43-479f-999b-75b1bb9d8751@@ld.mp4?auth_key=1789414849-0-0-607f39e7dbc6136a6b5fa656236e9942",
+        "https://lzd-u.slatic.net/cf96b0808f73452884fc85ca41daebbe_dbe4af47593842b296631b8366cf6d0f.jpg"
+      ]
+    },
+    {
+      "review_id": 356894425126559,
+      "product_id": "310626559",
+      "rating": 3,
+      "review_text": "Sao mình cảm giác sữa rửa mặt này hơi loãng ak. Dù mua lần 2. Gần cuối tuyp càng loãng hơn. Có ai giống z k ak?",
+      "buyer_name": "l***n",
+      "likes": 0,
+      "created_at": "2022-10-19",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/a4e70c12e25a4992b72846613842d24a_cbfd3636dbde408d9fc3873f5cd7b9a2.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/a4e70c12e25a4992b72846613842d24a_cbfd3636dbde408d9fc3873f5cd7b9a2.jpg"
+      ]
+    },
+    {
+      "review_id": 348288837726559,
+      "product_id": "310626559",
+      "rating": 3,
+      "review_text": "Thùng bị móp, đóng hàng k kỹ, nắp bị hở,  sữa ở trong bị trào ra ngoài, không chuyên nghiệp cho lắm ",
+      "buyer_name": "Nean",
+      "likes": 0,
+      "created_at": "2022-07-12",
+      "sku_info": "Volume (ml):100, Scent:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/3024453b3d977b32fcde33e65933d039.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/4383f5bfbe7766e8209d2aee32e194be.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/5e22e96f44ec5e683dfe997c669e6bad.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/a76daad6009ea833f93a61c228fb50aa.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/other/roc/3024453b3d977b32fcde33e65933d039.jpg",
+        "https://sg-test-11.slatic.net/other/roc/4383f5bfbe7766e8209d2aee32e194be.jpg",
+        "https://sg-test-11.slatic.net/other/roc/5e22e96f44ec5e683dfe997c669e6bad.jpg",
+        "https://sg-test-11.slatic.net/other/roc/a76daad6009ea833f93a61c228fb50aa.jpg"
+      ]
+    },
+    {
+      "review_id": 436363950426559,
+      "product_id": "310626559",
+      "rating": 2,
+      "review_text": "sữa rữa mặt quá tệ, lỏng lẻo, chảy như nước, lần trước mua thấy lỏng nhưng còn chấp nhận dc, lần này thì thua,   chia tay luôn",
+      "buyer_name": "0***3",
+      "likes": 0,
+      "created_at": "2024-12-05",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/b57f185c34c1451594f334a9813ec141_8a40f50bd0d046aea321df4ae5043d1d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/b57f185c34c1451594f334a9813ec141_8a40f50bd0d046aea321df4ae5043d1d.jpg"
+      ]
+    },
+    {
+      "review_id": 419382296826559,
+      "product_id": "310626559",
+      "rating": 2,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn, không dán tem niêm phong",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2024-04-28",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f2b5e643be6b4cea857a36991c887ac1_7a9861cb91554b828685cff7870036c0.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f2b5e643be6b4cea857a36991c887ac1_94bdf05c6e4c434493cc53719b013533.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f2b5e643be6b4cea857a36991c887ac1_7a9861cb91554b828685cff7870036c0.jpg",
+        "https://lzd-u.slatic.net/f2b5e643be6b4cea857a36991c887ac1_94bdf05c6e4c434493cc53719b013533.jpg"
+      ]
+    },
+    {
+      "review_id": 423881863426559,
+      "product_id": "310626559",
+      "rating": 2,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn.",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2024-06-16",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8c6c63f103784efeb82d18289ffdae97_1cc1b42bebde4e90a50378b42932a164.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/8c6c63f103784efeb82d18289ffdae97_83ba5142b282428584d93b905313c8dc.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8c6c63f103784efeb82d18289ffdae97_1cc1b42bebde4e90a50378b42932a164.jpg",
+        "https://lzd-u.slatic.net/8c6c63f103784efeb82d18289ffdae97_83ba5142b282428584d93b905313c8dc.jpg"
+      ]
+    },
+    {
+      "review_id": 379209935426559,
+      "product_id": "310626559",
+      "rating": 2,
+      "review_text": "sản phẩm giống cửa hàng miêu tả, sản phẩm cửa hàng đóng gói chắc chắn. không hài lòng vì sản phẩm không có miếng niêm phong cũng không để trong hộp",
+      "buyer_name": "n***.",
+      "likes": 0,
+      "created_at": "2023-05-09",
+      "sku_info": "Hương:Hương tự nhiên, Thể tích (ml):100",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c5c95c7d97924925a7bce835608d2581_76a6c21745614af282e7ddd3ec6a931c.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c5c95c7d97924925a7bce835608d2581_76a6c21745614af282e7ddd3ec6a931c.jpg"
+      ]
+    },
+    {
+      "review_id": 426054989726559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "Khi nhận được hàng. Hàng đã bị khui.Không dám sử dụng.",
+      "buyer_name": "Vy",
+      "likes": 0,
+      "created_at": "2024-07-27",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lazada-review.alicdn.com/review/video/cover/609c379ca38e4c57a178c61aebe40260.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/218d0e1b025e21e60d7e8de928c6b1dd.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lazvideo.lazcdn.com/psp/20240727/d7eb1650-695a-4e80-a8cd-725bce7fa7f9@@ld.mp4?auth_key=1789414854-0-0-d7d637a20affcef82284541379759429",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/55dd07b66372483ab700b7a17be841f1_dcad740852b54cb7af6bddfb08719e3d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lazada-review.alicdn.com/review/video/cover/609c379ca38e4c57a178c61aebe40260.jpg",
+        "https://sg-test-11.slatic.net/p/218d0e1b025e21e60d7e8de928c6b1dd.jpg",
+        "https://lazvideo.lazcdn.com/psp/20240727/d7eb1650-695a-4e80-a8cd-725bce7fa7f9@@ld.mp4?auth_key=1789414854-0-0-d7d637a20affcef82284541379759429",
+        "https://lzd-u.slatic.net/55dd07b66372483ab700b7a17be841f1_dcad740852b54cb7af6bddfb08719e3d.jpg"
+      ]
+    },
+    {
+      "review_id": 416788012226559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "nói mua 1 tặng 1 serum mà không có tặng chai sữa rửa mặt 125k là quá đắt",
+      "buyer_name": "Tú Nguyễn",
+      "likes": 1,
+      "created_at": "2024-04-02",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/095ae02606794406bcc673f5a9ed7979_225865ac0621431c9ca788b19da45be9.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/095ae02606794406bcc673f5a9ed7979_225865ac0621431c9ca788b19da45be9.jpg"
+      ]
+    },
+    {
+      "review_id": 440661393726559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "Tăng cường làn da khỏe mạnh và trẻ trung, Làm da cảm thấy sạch sẽ và tươi mát,",
+      "buyer_name": "N***n",
+      "likes": 0,
+      "created_at": "2025-02-22",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/c321041a9fce438e8c3601e9f1f7c80d_1_1740213759.686542.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/c321041a9fce438e8c3601e9f1f7c80d_1_1740213759.686542.jpg"
+      ]
+    },
+    {
+      "review_id": 411580340726559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "Xin vui lòng đưa ra góp ý để chúng tôi phục vụ bạn tốt hơn.vđ🤨💕😢🤭😢🤭",
+      "buyer_name": "3***1",
+      "likes": 0,
+      "created_at": "2024-02-20",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/d04d9255f158429c9c2962a548bbc2fe_2_1708404785.735951.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/d04d9255f158429c9c2962a548bbc2fe_2_1708404785.735951.jpg"
+      ]
+    },
+    {
+      "review_id": 353874725426559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "ko có quà tặng kèm ? mình thấy như thế ko tử tế, đơn mình đặt 2 sp và 2 sp quà tặng nữa mà ko có quà ???",
+      "buyer_name": "Nguyen Chuc",
+      "likes": 0,
+      "created_at": "2022-09-15",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5b85f6c8103146f28786d823a55a2862_8_1663257836.392262.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5b85f6c8103146f28786d823a55a2862_8_1663257836.392262.jpg"
+      ]
+    },
+    {
+      "review_id": 304346470326559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "nên mua nhé mọi nguoi",
+      "buyer_name": "hanh",
+      "likes": 0,
+      "created_at": "2021-10-25",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/c44a6cdd10c144b52970fade1ec37405.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/other/roc/c44a6cdd10c144b52970fade1ec37405.jpg"
+      ]
+    },
+    {
+      "review_id": 384013593026559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "Hàng ok ah.",
+      "buyer_name": "Trần Thị Loan",
+      "likes": 0,
+      "created_at": "2023-06-29",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/a3ccbca786c54e71afcc55650921e32a_268fd387f77e4dc3962ef45fc9a2b0e2.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/a3ccbca786c54e71afcc55650921e32a_268fd387f77e4dc3962ef45fc9a2b0e2.jpg"
+      ]
+    },
+    {
+      "review_id": 265201403226559,
+      "product_id": "310626559",
+      "rating": 1,
+      "review_text": "sao k có km vậy shop?",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2021-02-23",
+      "sku_info": "Thể tích (ml):100, Hương:Hương tự nhiên",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/other/roc/24edce5ce0e3204f3904d294304cb017.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/other/roc/24edce5ce0e3204f3904d294304cb017.jpg"
+      ]
+    }
+  ]
+}

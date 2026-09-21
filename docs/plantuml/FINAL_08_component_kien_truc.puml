@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam componentStyle rectangle
+skinparam component {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Component hệ thống
+
+component "Frontend\nReact + TypeScript" as FE
+component "Backend API\nFastAPI" as BE
+component "Crawler\nTiki/Lazada/TikTok" as Crawler
+component "AI Analysis\nText + Image + Trust" as AI
+database "MongoDB\nPOD" as DB
+cloud "Sàn TMĐT" as Platform
+
+FE --> BE : REST API
+BE --> Crawler : yêu cầu kéo review
+Crawler --> Platform : request/API/browser
+Platform --> Crawler : review + ảnh
+Crawler --> DB : lưu dữ liệu thô
+BE --> AI : phân tích review
+AI --> DB : lưu kết quả phân tích
+BE --> DB : đọc dữ liệu dashboard
+BE --> FE : summary + reviews
+@enduml

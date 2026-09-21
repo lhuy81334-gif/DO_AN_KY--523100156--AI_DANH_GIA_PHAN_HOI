@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Lọc review theo số sao
+
+actor "Seller" as Seller
+
+usecase "Lọc review\ntheo số sao" as Main
+usecase "Chọn mức sao\n1 sao" as One
+usecase "Chọn mức sao\n2 sao" as Two
+usecase "Chọn mức sao\n3 sao" as Three
+usecase "Xem danh sách\nreview đã lọc" as View
+usecase "Bỏ bộ lọc" as Clear
+
+Seller --> Main
+
+Main ..> View : <<include>>
+One ..> Main : <<extend>>
+Two ..> Main : <<extend>>
+Three ..> Main : <<extend>>
+Clear ..> Main : <<extend>>
+@enduml

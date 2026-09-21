@@ -1,0 +1,30 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+
+title Sequence: Xem dashboard phân tích
+
+actor Seller
+participant "Frontend" as FE
+participant "Backend API" as BE
+database "MongoDB" as DB
+
+Seller -> FE: Mở dashboard sản phẩm
+FE -> BE: GET /summary
+BE -> DB: Tổng hợp chỉ số dashboard
+DB --> BE: Summary
+BE --> FE: Summary JSON
+
+FE -> BE: GET /reviews?only_attention=true
+BE -> DB: Lấy review cần chú ý
+DB --> BE: Danh sách review
+BE --> FE: Reviews JSON
+
+FE -> BE: GET /image-comparisons
+BE -> DB: Lấy bằng chứng ảnh
+DB --> BE: Image comparison results
+BE --> FE: Evidence JSON
+
+FE --> Seller: Hiển thị dashboard
+@enduml

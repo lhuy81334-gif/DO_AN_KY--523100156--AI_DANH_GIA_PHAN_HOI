@@ -1,0 +1,38 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam rectangle {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 14
+}
+
+title Biểu đồ phân rã chức năng
+
+rectangle "Hệ thống phân tích\nphản hồi khách hàng" as Root
+
+rectangle "1. Xử lý link\nsản phẩm" as F1
+rectangle "2. Thu thập\nreview" as F2
+rectangle "3. Phân tích\nreview" as F3
+rectangle "4. Lưu trữ\ndữ liệu" as F4
+rectangle "5. Dashboard\ncho seller" as F5
+
+rectangle "Nhận link\nNhận diện sàn\nTách mã sản phẩm" as F1a
+rectangle "Gọi API\nMở phiên trình duyệt\nDuyệt theo số sao/trang" as F2a
+rectangle "Phân tích text\nSo sánh ảnh\nTính điểm tin cậy" as F3a
+rectangle "Lưu sản phẩm\nLưu review\nLưu kết quả phân tích" as F4a
+rectangle "Tổng quan\nLọc theo sao\nReview cần chú ý" as F5a
+
+Root --> F1
+Root --> F2
+Root --> F3
+Root --> F4
+Root --> F5
+
+F1 --> F1a
+F2 --> F2a
+F3 --> F3a
+F4 --> F4a
+F5 --> F5a
+@enduml

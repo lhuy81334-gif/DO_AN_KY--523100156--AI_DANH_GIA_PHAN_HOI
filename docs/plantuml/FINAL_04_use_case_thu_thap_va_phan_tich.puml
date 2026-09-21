@@ -1,0 +1,33 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+
+title Use case chi tiết: Kéo và phân tích dữ liệu review
+
+actor "Seller" as Seller
+
+usecase "Kéo dữ liệu\nreview" as Main
+usecase "Chọn sản phẩm\nđã đọc link" as ChooseProduct
+usecase "Bấm nút Kéo dữ liệu" as Start
+usecase "Theo dõi trạng thái\nđang xử lý" as Track
+usecase "Xem kết quả\nsau khi hoàn tất" as ViewResult
+usecase "Mở phiên sàn\nnếu cần xác minh" as OpenSession
+usecase "Kéo lại dữ liệu\nkhi bị lỗi" as Retry
+
+Seller --> Main
+
+Main ..> ChooseProduct : <<include>>
+Main ..> Start : <<include>>
+Main ..> Track : <<include>>
+Main ..> ViewResult : <<include>>
+OpenSession ..> Main : <<extend>>
+Retry ..> Main : <<extend>>
+@enduml

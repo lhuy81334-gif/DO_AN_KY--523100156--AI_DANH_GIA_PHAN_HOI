@@ -1,0 +1,1801 @@
+{
+  "market_statistics": [
+    {
+      "count": 290,
+      "formatCount": "290",
+      "polarity": "positive",
+      "tagIcon": "https://gw.alicdn.com/imgextra/i1/O1CN01XLyuG21dvXEJ2yzMC_!!6000000003798-2-tps-36-36.png",
+      "tagId": -1,
+      "tagName": "With images/videos"
+    },
+    {
+      "count": 125,
+      "formatCount": "125",
+      "polarity": "positive",
+      "tagIcon": "https://gw.alicdn.com/imgextra/i1/O1CN01sqYghh1aDA0cUpTX4_!!6000000003295-2-tps-36-36.png",
+      "tagId": -3,
+      "tagName": "Repeat customer"
+    }
+  ],
+  "collected_count": 80,
+  "reviews": [
+    {
+      "review_id": 467789058465178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Tuyệt vời, tai nghe này rất chất lượng.",
+      "buyer_name": "2***q",
+      "likes": 0,
+      "created_at": "2026-08-10",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01EUuFBgm0VTD2BxNI_!!4611686018427380658-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN01ym0VLJ0GWNK2BxNI_!!4611686018427380658-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN01EUuFBgm0VTD2BxNI_!!4611686018427380658-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i2/O1CN01ym0VLJ0GWNK2BxNI_!!4611686018427380658-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 467664051965178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Tai nghe IEM khởi đầu cực đỉnh luôn! Âm thanh nghe đã tai lắm, còn cách âm bên ngoài siêu tốt nữa. Ai mới dùng IEM thì quất em này là chuẩn bài, đơn giản mà đáng đồng tiền bát gạo!",
+      "buyer_name": "3***g",
+      "likes": 0,
+      "created_at": "2026-08-06",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 467669340565178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Đeo rất thoải mái, nghe lâu cũng không mỏi.",
+      "buyer_name": "f***x",
+      "likes": 0,
+      "created_at": "2026-08-06",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464595198865178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "ổn chới game rất toits số với tầm giá đó",
+      "buyer_name": "29-Nguyễn",
+      "likes": 2,
+      "created_at": "2026-07-02",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/865366d4f2a84a00bfd43f310da0ef27_46c96420c631475f9ebe7585cde699d4.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/865366d4f2a84a00bfd43f310da0ef27_638b995ddcc34508874e4bee16e6cd59.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/865366d4f2a84a00bfd43f310da0ef27_46c96420c631475f9ebe7585cde699d4.jpg",
+        "https://lzd-u.slatic.net/865366d4f2a84a00bfd43f310da0ef27_638b995ddcc34508874e4bee16e6cd59.jpg"
+      ]
+    },
+    {
+      "review_id": 464568792665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "chất âm tốt. Chắc chắn. Trọng lượng nhẹ. Có Mic. thiết kế đơn giản, ưa nhìn.",
+      "buyer_name": "K***d",
+      "likes": 1,
+      "created_at": "2026-07-01",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5f92b888524847a993efb49c1153b124_72977c9aafd14060980b021eb5024ebc.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5f92b888524847a993efb49c1153b124_72977c9aafd14060980b021eb5024ebc.jpg"
+      ]
+    },
+    {
+      "review_id": 464931247865178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Con này mà săn đc 2xx thù best tầm giá, đc tặng kèm card nha",
+      "buyer_name": "Thành Tiên An",
+      "likes": 1,
+      "created_at": "2026-07-01",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e2e58ca3794a4270915fb9943acc135b_1_1782910479.680745.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e2e58ca3794a4270915fb9943acc135b_1_1782910479.680745.jpg"
+      ]
+    },
+    {
+      "review_id": 464668130465178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "tai trâu nên nghe ổn. Chưa được thử loại tốt hơn nên cũng không rõ ^^. Trải nghiệm thiếu ^^",
+      "buyer_name": "Trần Văn Tiềm",
+      "likes": 0,
+      "created_at": "2026-06-23",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/fc4110022efb85c46f35ebf0665ca277.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/7f6af22e04bc489788afea20d13a909d_1_1782207877.948459.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/fc4110022efb85c46f35ebf0665ca277.jpg",
+        "https://lzd-u.slatic.net/7f6af22e04bc489788afea20d13a909d_1_1782207877.948459.jpg"
+      ]
+    },
+    {
+      "review_id": 464418358665178,
+      "product_id": "13358765178",
+      "rating": 3,
+      "review_text": "",
+      "buyer_name": "Tiến Anh Trần",
+      "likes": 0,
+      "created_at": "2026-06-22",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464747581365178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Bao bì tốt, Tai nghe chơi game. Sản phẩm phù hợp cho người mới bắt đầu tìm hiểu về tai nghe IEM. Nghe vocal rất hay, edm, hiphop thì bass hơi yếu. \nGiao hàng nhanh, Kết nối dây,",
+      "buyer_name": "Huy Trần",
+      "likes": 2,
+      "created_at": "2026-06-22",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/01e42842cf1b40f7b1e87f0d6da30743_dab169d57d284f0fa5c76e79c247e58b.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/01e42842cf1b40f7b1e87f0d6da30743_dab169d57d284f0fa5c76e79c247e58b.jpg"
+      ]
+    },
+    {
+      "review_id": 464301848865178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Không có bảo hành, Giao hàng nhanh,",
+      "buyer_name": "*******047",
+      "likes": 0,
+      "created_at": "2026-06-22",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/a5c206fcdfe5b5d6e2a5342a94988923.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/48e454c3eb044be99d8f12dc567b7224_6_1782131837.054425.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/48e454c3eb044be99d8f12dc567b7224_7_1782131837.073368.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/48e454c3eb044be99d8f12dc567b7224_8_1782131837.091274.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/a5c206fcdfe5b5d6e2a5342a94988923.jpg",
+        "https://lzd-u.slatic.net/48e454c3eb044be99d8f12dc567b7224_6_1782131837.054425.jpg",
+        "https://lzd-u.slatic.net/48e454c3eb044be99d8f12dc567b7224_7_1782131837.073368.jpg",
+        "https://lzd-u.slatic.net/48e454c3eb044be99d8f12dc567b7224_8_1782131837.091274.jpg"
+      ]
+    },
+    {
+      "review_id": 464662475665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Điều chỉnh thoải mái, Kết nối dây,",
+      "buyer_name": "1mnh4t",
+      "likes": 1,
+      "created_at": "2026-06-21",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/4794d1b318594680a96de9a2410dc768_2_1782046357.420479.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/4794d1b318594680a96de9a2410dc768_2_1782046357.420479.jpg"
+      ]
+    },
+    {
+      "review_id": 464576875465178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "chất lượng và âm thanh kém so với mức giá trước khi giảm, so với mức giá giảm thì bình thường so với sản phẩm cùng loại đang sử dụng.",
+      "buyer_name": "Nguyễn Phước Hải",
+      "likes": 2,
+      "created_at": "2026-06-20",
+      "sku_info": "Màu sắc:Ống bù áp suất khí BUNNY DSP+T500 mới [tần số cao mặc định]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464305838565178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "cơ bản, phù hợp với người mới chơi iem",
+      "buyer_name": "Nghĩa Nguyễn",
+      "likes": 0,
+      "created_at": "2026-06-20",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/fc679945a69cac4afcedb251c23184cb.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6cd00b0b4fa5405c97000a82ab7ae912_bdebf50bd2e643308be98a0afbff5467.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/fc679945a69cac4afcedb251c23184cb.jpg",
+        "https://lzd-u.slatic.net/6cd00b0b4fa5405c97000a82ab7ae912_bdebf50bd2e643308be98a0afbff5467.jpg"
+      ]
+    },
+    {
+      "review_id": 464213578865178,
+      "product_id": "13358765178",
+      "rating": 3,
+      "review_text": "âm thanh nghe có vẻ nhỏ quá, phải tăng gần max âm lượng trên điện thoại mới nghe dc, không biết ai bị giống mình không, bản usb type c",
+      "buyer_name": "N***n",
+      "likes": 0,
+      "created_at": "2026-06-19",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/cc3855386bbd4d27b522e84de4fe2521_69fbae299fef4f5eb9e3caeca97edd34.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/cc3855386bbd4d27b522e84de4fe2521_69fbae299fef4f5eb9e3caeca97edd34.jpg"
+      ]
+    },
+    {
+      "review_id": 464561897365178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm giá thành rẻ nhưng chất lượng ổn so với giá. shop nước ngoài nên ship khá lâu, chờ cũng đáng",
+      "buyer_name": "Việt Hoàng",
+      "likes": 1,
+      "created_at": "2026-06-19",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/11e2fcbcd8bd433c80aeeaf10cd19625_cdae4f1f6f1e41c7af0bf2641ec5ce72.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/11e2fcbcd8bd433c80aeeaf10cd19625_b32eb91a3de348c48fb503136385f4ae.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/11e2fcbcd8bd433c80aeeaf10cd19625_cdae4f1f6f1e41c7af0bf2641ec5ce72.jpg",
+        "https://lzd-u.slatic.net/11e2fcbcd8bd433c80aeeaf10cd19625_b32eb91a3de348c48fb503136385f4ae.jpg"
+      ]
+    },
+    {
+      "review_id": 464544571765178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Nguyễn Văn Quang",
+      "likes": 0,
+      "created_at": "2026-06-17",
+      "sku_info": "Màu sắc:☆[Tiết kiệm 5 tệ] BUNNY 3.5 với lúa mì + vỏ bọc mút hoạt tính [mặc định cỡ M]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464556086865178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "type C, có app trên chplay chỉnh eq",
+      "buyer_name": "L***n",
+      "likes": 1,
+      "created_at": "2026-06-17",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/5fd1e6659000463a80ff67be837e3823_bdeb011b67a64087bf6db17195b10ad2.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/f275df0560324e47967cd59e403a0098_fc05c70bd14749b9b50f0d6526b4a52e.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/5fd1e6659000463a80ff67be837e3823_bdeb011b67a64087bf6db17195b10ad2.jpg",
+        "https://lzd-u.slatic.net/f275df0560324e47967cd59e403a0098_fc05c70bd14749b9b50f0d6526b4a52e.jpg"
+      ]
+    },
+    {
+      "review_id": 464294803265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tốt",
+      "buyer_name": "*******986",
+      "likes": 2,
+      "created_at": "2026-06-16",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/2e32cc909ed9453ea5521079866e6193_75aca1293d984d2ebba26f77a3a9b551.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/2e32cc909ed9453ea5521079866e6193_383d9634d54945c88b10382edd464c41.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/2e32cc909ed9453ea5521079866e6193_75aca1293d984d2ebba26f77a3a9b551.jpg",
+        "https://lzd-u.slatic.net/2e32cc909ed9453ea5521079866e6193_383d9634d54945c88b10382edd464c41.jpg"
+      ]
+    },
+    {
+      "review_id": 464392797965178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "sản phẩm tốt, chất lượng âm thanh và hoàn thiện ổn. Hộp hơi móp trong quá trình vận chuyển nhưng tổng thể ổn",
+      "buyer_name": "Thinhh Quang",
+      "likes": 1,
+      "created_at": "2026-06-16",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/56812ae5c03e404eb91c35067ba6fb20_9c68fb539b6745cdbc40d8e282df6131.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/c67821b67132485fa5ea12a127e458cf_7c8ce69ea55349279d9a2959e6c953af.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/56812ae5c03e404eb91c35067ba6fb20_254101fd6bab42c2b7dc662ea7f17985.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/56812ae5c03e404eb91c35067ba6fb20_9c68fb539b6745cdbc40d8e282df6131.jpg",
+        "https://lzd-u.slatic.net/c67821b67132485fa5ea12a127e458cf_7c8ce69ea55349279d9a2959e6c953af.jpg",
+        "https://lzd-u.slatic.net/56812ae5c03e404eb91c35067ba6fb20_254101fd6bab42c2b7dc662ea7f17985.jpg"
+      ]
+    },
+    {
+      "review_id": 464418949565178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Gaubeo",
+      "likes": 0,
+      "created_at": "2026-06-15",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464395711265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe đeo thoải mái, đeo lâu không bị đau tai âm vừa đủ trong tầm giá chơi game ngon nghe nhạc khá hay",
+      "buyer_name": "nguyenquyquocbao",
+      "likes": 1,
+      "created_at": "2026-06-15",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/01194f70da114c1386bae862ccfe8c3a_1_1781480086.526582.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/01194f70da114c1386bae862ccfe8c3a_3_1781480102.001113.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/01194f70da114c1386bae862ccfe8c3a_1_1781480086.526582.jpg",
+        "https://lzd-u.slatic.net/01194f70da114c1386bae862ccfe8c3a_3_1781480102.001113.jpg"
+      ]
+    },
+    {
+      "review_id": 464373422765178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Âm thanh bình thường. Vận chuyển ẩu, móp méo hết hộp",
+      "buyer_name": "NGUYỄN VIỆT AN",
+      "likes": 2,
+      "created_at": "2026-06-14",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464383758365178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "ổn",
+      "buyer_name": "Thanh Quý",
+      "likes": 2,
+      "created_at": "2026-06-13",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8ac39c2556504c0abfcc40e5277dd7a8_f72e88c7484142f191a362bde351c2f9.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8ac39c2556504c0abfcc40e5277dd7a8_f72e88c7484142f191a362bde351c2f9.jpg"
+      ]
+    },
+    {
+      "review_id": 464382515365178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "tai nghe tốt, trừ 1* vì không tặng kèm card",
+      "buyer_name": "V***c",
+      "likes": 2,
+      "created_at": "2026-06-12",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464363064465178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Sản phẩm này không đáp ứng được yêu cầu và gặp vấn đề chỉ sau một thời gian ngắn sử dụng. Tôi đã thử liên hệ nhưng chưa nhận được sự hỗ trợ cần thiết.",
+      "buyer_name": "k***9",
+      "likes": 0,
+      "created_at": "2026-06-12",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464354271565178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "👍",
+      "buyer_name": "C***y",
+      "likes": 0,
+      "created_at": "2026-06-12",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 464300480265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe đẹp, chắc chắn, âm thanh nghe hay trong tầm giá. Mình săn cỡ hơn 260k, quá là ổn!",
+      "buyer_name": "Q***h",
+      "likes": 2,
+      "created_at": "2026-06-12",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/02369235fefc4a2091c792f1f84606fe_1_1781266665.558604.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/02369235fefc4a2091c792f1f84606fe_1_1781266665.558604.jpg"
+      ]
+    },
+    {
+      "review_id": 464255990065178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "tai nghe nghe khá funny, nghe vocal khá hay, nhưng đeo chay thì khá tệ cần dongle jm6 pro hoặc Dac kéo âm thì mới to và hay được, vẫn có 1 chút bass chứ k bị mất hoàn toàn, với giá 150 thì vô địch trong tầm giá rồi, còn lên 2xx 3xx thì k nên, đeo lâu k bị mỏi thích nhất ở khoản này, tips đi kèm chống cháy thôi vừa cứng vừa như hạch, lấy thêm tips t500b có vẻ sẽ ngon hơn",
+      "buyer_name": "A***n",
+      "likes": 3,
+      "created_at": "2026-06-10",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/8c2b18dd71f2b7e8665e08e6e13d1e5d.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/4c1f5fa5f95d428caa7f21bf59b4f3c9_fe4deea9dcd548dda2727339ee5272cc.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/8c2b18dd71f2b7e8665e08e6e13d1e5d.jpg",
+        "https://lzd-u.slatic.net/4c1f5fa5f95d428caa7f21bf59b4f3c9_fe4deea9dcd548dda2727339ee5272cc.jpg"
+      ]
+    },
+    {
+      "review_id": 464167935565178,
+      "product_id": "13358765178",
+      "rating": 3,
+      "review_text": "nghe ngang kz edx, nhưng được cái đắt hơn",
+      "buyer_name": "Tuấn Thái",
+      "likes": 0,
+      "created_at": "2026-06-09",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "NEUTRAL_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/f60b1f3d4938450495b81bcd016c6215_565f359ee89b4d8d82e07b721a2e7bdd.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/f60b1f3d4938450495b81bcd016c6215_565f359ee89b4d8d82e07b721a2e7bdd.jpg"
+      ]
+    },
+    {
+      "review_id": 464170128265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Cổng Type-C\nGiao hơi lâu 9 ngày",
+      "buyer_name": "Lazada Guest",
+      "likes": 2,
+      "created_at": "2026-06-08",
+      "sku_info": "Màu sắc:BUNNY DSP [Giao diện TYPE C] [Truy cập APP]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/a4fde93286eb4107af210eb57dbcd187_9f9e27ae506a480488a97e3d6d1fc8db.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/11eca97f73174a8e8789832aaa2ab670_1c013b0417254577a6786539635b8ca0.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/11eca97f73174a8e8789832aaa2ab670_93b54ddfb94040ee98d292f102e9a40d.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/a4fde93286eb4107af210eb57dbcd187_9f9e27ae506a480488a97e3d6d1fc8db.jpg",
+        "https://lzd-u.slatic.net/11eca97f73174a8e8789832aaa2ab670_1c013b0417254577a6786539635b8ca0.jpg",
+        "https://lzd-u.slatic.net/11eca97f73174a8e8789832aaa2ab670_93b54ddfb94040ee98d292f102e9a40d.jpg"
+      ]
+    },
+    {
+      "review_id": 464053463765178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Nghe rất ok. Độ chi tiết cao nhưng bass hơi bé. Ai thích bass chắc không thích e này",
+      "buyer_name": "0***8",
+      "likes": 1,
+      "created_at": "2026-06-06",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/29f3a782822c4e5eaecf51934b0f847f_1_1780732300.491709.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/29f3a782822c4e5eaecf51934b0f847f_1_1780732300.491709.jpg"
+      ]
+    },
+    {
+      "review_id": 463960859065178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "bass khá chán, hãng làm gọn quá phải dùng tools kéo đỡ. vocal rõ, tách tạch. Funk hay edm thì ko ổn. burn-up mong ổn hơn.",
+      "buyer_name": "t***2",
+      "likes": 2,
+      "created_at": "2026-06-03",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/93f511540435406a99a17baec81108f1_ecef2b3be2a148b1b2395c6baa3c9155.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/93f511540435406a99a17baec81108f1_a4014502f14745a8bf9dd3c68fb4315c.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/93f511540435406a99a17baec81108f1_ecef2b3be2a148b1b2395c6baa3c9155.jpg",
+        "https://lzd-u.slatic.net/93f511540435406a99a17baec81108f1_a4014502f14745a8bf9dd3c68fb4315c.jpg"
+      ]
+    },
+    {
+      "review_id": 463928840065178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm đúng mô tả. Đóng hộp xịn sò, nhiều phụ kiện kèm theo. Chất âm khá tốt. Đúng là tiền nào của nấy. Tặng shop 5 🌟 nhé",
+      "buyer_name": "Mr THANH",
+      "likes": 1,
+      "created_at": "2026-06-03",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/1baaca8698d34c82b3016a888ee887a0_3251eaa5c5a7440c9bb174c76cac3a2b.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/1baaca8698d34c82b3016a888ee887a0_788b8317598e4728824058ae6996f4ab.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/1baaca8698d34c82b3016a888ee887a0_3251eaa5c5a7440c9bb174c76cac3a2b.jpg",
+        "https://lzd-u.slatic.net/1baaca8698d34c82b3016a888ee887a0_788b8317598e4728824058ae6996f4ab.jpg"
+      ]
+    },
+    {
+      "review_id": 463964770065178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Giao hàng nhanh, Không có bảo hành, Bao bì tốt, Tai nghe chơi game, Điều chỉnh thoải mái, Cổng Type-C,",
+      "buyer_name": "Ơ Nao",
+      "likes": 1,
+      "created_at": "2026-06-02",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/8c947515d0e74c25917f445ac311e609_d0b2537b690547cc9224fab66852b9c7.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/8c947515d0e74c25917f445ac311e609_d0b2537b690547cc9224fab66852b9c7.jpg"
+      ]
+    },
+    {
+      "review_id": 463928410665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Bao bì tốt, Giao hàng nhanh, Tai nghe chơi game, Không có Bluetooth, Âm thanh cao cấp, Kết nối dây. Trời ôi ôi giời ôi chỉ là gì mà là chính 2 chấm anh chị biết là 3 mẹ tự hào xây ngôi nhà thật to ở một mình 2 tấm.",
+      "buyer_name": "Kito2267",
+      "likes": 3,
+      "created_at": "2026-06-01",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/32dee5eab92cb46251d675b04cd31649.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/bee75db99a274ae6ae2ab6e922db252b_e159793e96e84a7f9869ef3a6c2fb8c2.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/7e038fdecb4b41ebaa569a89563d85b0_0e4f3c827b2241eab3b327163343f79a.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/7e038fdecb4b41ebaa569a89563d85b0_a4e5caaa8c184348a04f394b86c41db5.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/32dee5eab92cb46251d675b04cd31649.jpg",
+        "https://lzd-u.slatic.net/bee75db99a274ae6ae2ab6e922db252b_e159793e96e84a7f9869ef3a6c2fb8c2.jpg",
+        "https://lzd-u.slatic.net/7e038fdecb4b41ebaa569a89563d85b0_0e4f3c827b2241eab3b327163343f79a.jpg",
+        "https://lzd-u.slatic.net/7e038fdecb4b41ebaa569a89563d85b0_a4e5caaa8c184348a04f394b86c41db5.jpg"
+      ]
+    },
+    {
+      "review_id": 463838579065178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "âm thiên về voice nghe chill cực",
+      "buyer_name": "D***g",
+      "likes": 1,
+      "created_at": "2026-05-31",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/16fdc24d49e819dc4149697327e9a9de.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6a28034379d04a2faea7baa29c6d2a99_ebd40e14c0134bbe910dc52763e2f941.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/6a28034379d04a2faea7baa29c6d2a99_7a2e6224c2834e13b7c225ac1c21c1bd.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/16fdc24d49e819dc4149697327e9a9de.jpg",
+        "https://lzd-u.slatic.net/6a28034379d04a2faea7baa29c6d2a99_ebd40e14c0134bbe910dc52763e2f941.jpg",
+        "https://lzd-u.slatic.net/6a28034379d04a2faea7baa29c6d2a99_7a2e6224c2834e13b7c225ac1c21c1bd.jpg"
+      ]
+    },
+    {
+      "review_id": 463840542165178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "Tuanlv",
+      "likes": 0,
+      "created_at": "2026-05-30",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 463837720965178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "tốt",
+      "buyer_name": "Pham Thanh Tung",
+      "likes": 2,
+      "created_at": "2026-05-29",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/88ebefc6073c47388b33a67782951731_6ee47fa437b9427d99d6974d72e9f0ac.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/88ebefc6073c47388b33a67782951731_6ee47fa437b9427d99d6974d72e9f0ac.jpg"
+      ]
+    },
+    {
+      "review_id": 463705447165178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Giá này có thể chấp nhận được. Nghe một lúc sau khi sử dụng hai ngày thì cũng tạm ổn, âm cao lên tốt, âm trầm có chút chưa rõ.",
+      "buyer_name": "E***j",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01G9oV611eB6rjT0YhJ~hdr~_!!4611686018427383544-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01G9oV611eB6rjT0YhJ~hdr~_!!4611686018427383544-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 463716481065178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Năm ngoái tôi đã mua một cái, nhưng giờ đã hỏng, lần này lại mua một cái mới. Chủ yếu là thấy được chất lượng tốt và giá cả hợp lý. Cái cũ hỏng do tôi không chú ý, thường xuyên quăng quật và rơi nhiều lần, nên giờ bên trái không có âm thanh. Thay dây thì không muốn tốn thêm tiền, nên đã mua cái mới. Lần này tôi sẽ chăm sóc kỹ xem dùng được lâu không và sẽ quay lại đánh giá.",
+      "buyer_name": "0***n",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN01PqHHPP1V2YvjYEgys_!!4611686018427384707-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN013jRMw41V2YvjEmDTZ_!!4611686018427384707-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/O1CN01PqHHPP1V2YvjYEgys_!!4611686018427384707-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i1/O1CN013jRMw41V2YvjEmDTZ_!!4611686018427384707-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 463705652565178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Nghe rất đã! Thiết kế đẹp và có cả ứng dụng đi kèm nữa.",
+      "buyer_name": "1***m",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01TcfHT11CP1etSRmgf_!!4611686018427385992-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN01TcfHT11CP1etSRmgf_!!4611686018427385992-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 463719456365178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Biết thế, nhưng thôi, xin lỗi đi nhầm đường. Đẹp, âm thanh cũng hay.",
+      "buyer_name": "4***d",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 463721114165178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Rất rõ ràng và nghe rất hay.",
+      "buyer_name": "a***s",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 463710353065178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "H***v",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 463717163265178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "",
+      "buyer_name": "x***n",
+      "likes": 0,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 463709860165178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Quà sinh nhật tặng bạn trai, anh ấy rất thích, hai đứa đều dùng giống nhau, nhìn chung thì âm thanh hay, mic cũng dùng tốt.",
+      "buyer_name": "2***c",
+      "likes": 1,
+      "created_at": "2026-05-25",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01h2f0fi1QH9TCBXrNV_!!4611686018427382894-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01HHahfP1QH9TCir0aw_!!4611686018427382894-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01h2f0fi1QH9TCBXrNV_!!4611686018427382894-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i3/O1CN01HHahfP1QH9TCir0aw_!!4611686018427382894-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 463257820065178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Không méo tiếng, Phù hợp cho chơi game,",
+      "buyer_name": "M***n",
+      "likes": 2,
+      "created_at": "2026-05-24",
+      "sku_info": "Màu sắc:Thỏ BUNNY tiêu chuẩn [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://lzd-u.slatic.net/e2afde5651ef4c8bb986bde50210cc3f_3_1779613634.603413.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://lzd-u.slatic.net/e2afde5651ef4c8bb986bde50210cc3f_3_1779613634.603413.jpg"
+      ]
+    },
+    {
+      "review_id": 468795490865178,
+      "product_id": "13358765178",
+      "rating": 2,
+      "review_text": "Như kẹc. Đang nói về chất lượng con bunny còn sản phẩm thì ko hư hỏng gì. Và như kẹc ạ",
+      "buyer_name": "Nguyễn",
+      "likes": 0,
+      "created_at": "2 days ago",
+      "sku_info": "Color Family:Thỏ BUNNY [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "LOW_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 468568430865178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Ngon lắm nha, nhân đầy đặn cực kỳ, mình nghĩ ai thích ăn Subway thì chắc chắn cũng sẽ thích món này.",
+      "buyer_name": "p***m",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN012xx7TXIxJ7F2BxV2_!!4611686018427387396-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/O1CN012xx7TXIxJ7F2BxV2_!!4611686018427387396-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565803265178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Lần đầu tiên dùng thử tai nghe của hãng này mà chất lượng vượt ngoài mong đợi, thực sự rất đáng mua.",
+      "buyer_name": "x***n",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01sJktL2GE2rJ2BxV2~hdr~_!!4611686018427382293-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN01sJktL2GE2rJ2BxV2~hdr~_!!4611686018427382293-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468561862365178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Các chi tiết được hoàn thiện rất tỉ mỉ, hoàn toàn không có chỉ thừa hay lỗi nhỏ nào, cảm giác chất lượng cực kỳ tốt.",
+      "buyer_name": "r***5",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01PeIqTLcC1aH1SdaC_!!4611686018427382973-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01PeIqTLcC1aH1SdaC_!!4611686018427382973-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565581165178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Tai nghe dùng khá tốt, nghe nhạc hay chơi game đều ổn, hiện tại mình chưa thấy vấn đề gì.",
+      "buyer_name": "s***9",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/2218447723729/O1CN01K9G46YvnoQF68gFc~livephoto~_!!2218447723729-0-rate_livephoto.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/2218447723729/O1CN01TdwCQtriihD68gFc~livephoto~_!!2218447723729-0-rate_livephoto.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/2218447723729/O1CN01K9G46YvnoQF68gFc~livephoto~_!!2218447723729-0-rate_livephoto.jpg",
+        "https://img.alicdn.com/imgextra/i3/2218447723729/O1CN01TdwCQtriihD68gFc~livephoto~_!!2218447723729-0-rate_livephoto.jpg"
+      ]
+    },
+    {
+      "review_id": 468565102765178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Làm mất một cái xong mình phải mua lại ngay, đi đâu rồi cũng quay lại với em này thôi.",
+      "buyer_name": "G***l",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01QdVqAokRmpK2OPz0_!!4611686018427383091-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01QdVqAokRmpK2OPz0_!!4611686018427383091-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468558582765178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Dùng khá tốt, âm thanh mic khi chơi game nghe rất chân thực.",
+      "buyer_name": "G***l",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01qOEDJTK16AF6EitE_!!4611686018427380849-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01qOEDJTK16AF6EitE_!!4611686018427380849-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468560692565178,
+      "product_id": "13358765178",
+      "rating": 4,
+      "review_text": "Tai nghe tập trung làm nổi bật dải âm mid giúp giọng hát nghe rất rõ ràng và tách bạch. Kiểu âm này khá đơn giản, dễ nghe và tương thích tốt khi sử dụng trực tiếp trên các thiết bị iOS.",
+      "buyer_name": "1***m",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [],
+      "image_urls": []
+    },
+    {
+      "review_id": 468819061665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tanchjim Bunny là mẫu tai nghe in-ear (IEM) giá rẻ, được đánh giá cao nhờ chất âm cân bằng và thiết kế nhỏ gọn, dễ đeo",
+      "buyer_name": "M***n",
+      "likes": 0,
+      "created_at": "1 day ago",
+      "sku_info": "Màu sắc:Thỏ BUNNY [3,5 với lúa mì]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/e42239e3f34a9b92ec2ffae874b3c25f.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/4d02d569696c4522a01388927170ac0c_6_1789669966.026430.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/e42239e3f34a9b92ec2ffae874b3c25f.jpg",
+        "https://lzd-u.slatic.net/4d02d569696c4522a01388927170ac0c_6_1789669966.026430.jpg"
+      ]
+    },
+    {
+      "review_id": 468820911565178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Giao hàng nhanh, Kết nối dây, Tanchjim Bunny G (phiên bản Bunny dành riêng cho gaming) là mẫu tai nghe in-ear monitor (IEM) giá rẻ vừa được ra mắt vào tháng 9 năm 2026. Đây là biến thể nâng cấp hướng tới game thủ dựa trên phiên bản Tanchjim Bunny tiêu chuẩn.",
+      "buyer_name": "M***n",
+      "likes": 0,
+      "created_at": "1 day ago",
+      "sku_info": "Màu sắc:BUNNY G Phiên bản chơi game [LOẠI C] [APP Tactical Sense]",
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://sg-test-11.slatic.net/p/f34c8380a5e2f8cd971cc8456724f917.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://lzd-u.slatic.net/4d02d569696c4522a01388927170ac0c_3_1789669795.265177.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://sg-test-11.slatic.net/p/f34c8380a5e2f8cd971cc8456724f917.jpg",
+        "https://lzd-u.slatic.net/4d02d569696c4522a01388927170ac0c_3_1789669795.265177.jpg"
+      ]
+    },
+    {
+      "review_id": 468563732265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm này chủ yếu tập trung vào phần ngoại hình, thiết kế cực kỳ bắt mắt, nhưng mình thấy dùng cx80x vẫn quen thuộc hơn.",
+      "buyer_name": "8***z",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01gHvz6zcc0dJ2BxNI_!!4611686018427386638-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01gHvz6zcc0dJ2BxNI_!!4611686018427386638-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565761765178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe dùng rất tốt, còn được tặng kèm ba kích cỡ đệm tai khác nhau nữa. Bạn nhân viên hỗ trợ cực kỳ nhiệt tình khi giải đáp thắc mắc của mình. Nếu phần hướng dẫn đeo tai nghe được bổ sung chi tiết hơn trong mô tả sản phẩm thì sẽ tuyệt vời hơn nữa, giúp những người mới bắt đầu như mình dễ dàng sử dụng đúng cách ngay từ đầu mà không gặp khó khăn.",
+      "buyer_name": "q***w",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN0133TnhPZz3VL2BxNI_!!4611686018427383974-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN0133TnhPZz3VL2BxNI_!!4611686018427383974-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565979365178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Chất âm của tai nghe này thực sự rất tuyệt! Âm cao trong trẻo, âm trung đầy đặn và âm trầm thì sâu lắng, mạnh mẽ, cảm giác rất cân bằng. Mình thích lắm, đã giới thiệu cho bạn thân mua rồi! ❤💖💖💖",
+      "buyer_name": "m***8",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01XXSVLDkTMXF1bx50_!!4611686018427385676-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01F3ZLhFtEZLD8JcZ6_!!4611686018427385676-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN01nQkOvPV1ehH1SVke_!!4611686018427385676-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01Udkdv0EY9BJ6EitE_!!4611686018427385676-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01lPk8aviX71I8JcZ6_!!4611686018427385676-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01XXSVLDkTMXF1bx50_!!4611686018427385676-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i4/O1CN01F3ZLhFtEZLD8JcZ6_!!4611686018427385676-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i2/O1CN01nQkOvPV1ehH1SVke_!!4611686018427385676-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i4/O1CN01Udkdv0EY9BJ6EitE_!!4611686018427385676-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i3/O1CN01lPk8aviX71I8JcZ6_!!4611686018427385676-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468566259665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Chất âm của tai nghe này thực sự rất ổn định và đáng để trải nghiệm. Điểm cộng lớn là ứng dụng của Tanchjim cực kỳ tiện lợi, cho phép người dùng thoải mái tùy chỉnh và khám phá, mang lại tính giải trí cao. Mọi người nên ưu tiên chọn phiên bản cổng Type-C để sử dụng thuận tiện nhất.",
+      "buyer_name": "s***9",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01sAciHf8Z97J6EitE~hdr~_!!4611686018427381145-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01aFStwQY510G6EitE~hdr~_!!4611686018427381145-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01sAciHf8Z97J6EitE~hdr~_!!4611686018427381145-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i3/O1CN01aFStwQY510G6EitE~hdr~_!!4611686018427381145-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468558676665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Chất lượng hoàn thiện cần được chú ý kỹ hơn ở một vài chi tiết nhỏ. Mình đang dùng thêm DAC rời để tối ưu âm thanh cho máy tính, dù hơi tiếc là chưa hỗ trợ mic nhưng trải nghiệm âm nhạc vẫn rất tuyệt. So với chiếc tai nghe cũ dùng 5 năm trước thì bộ này mang lại sự nâng cấp cực kỳ lớn, nghe cái là thấy khác biệt rõ rệt luôn.",
+      "buyer_name": "6***f",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01grLfDaPvrVB8Hbgi_!!4611686018427385352-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01BlLEN9piYRB6DDEK_!!4611686018427385352-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN017y2pRWn5BcL6DCxs_!!4611686018427385352-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01VDrfK4ESIaH3th9s_!!4611686018427385352-2-rate.png",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN014GutWVpfCLI6DDEK_!!4611686018427385352-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01grLfDaPvrVB8Hbgi_!!4611686018427385352-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i3/O1CN01BlLEN9piYRB6DDEK_!!4611686018427385352-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i4/O1CN017y2pRWn5BcL6DCxs_!!4611686018427385352-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i4/O1CN01VDrfK4ESIaH3th9s_!!4611686018427385352-2-rate.png",
+        "https://img.alicdn.com/imgextra/i3/O1CN014GutWVpfCLI6DDEK_!!4611686018427385352-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468569503465178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm rất tốt, âm thanh hay và có thể tùy chỉnh trong ứng dụng. Mình đã dùng thử các chế độ được tải về nhiều nhất, có cả chế độ cho từng trò chơi riêng biệt, đeo vào cảm giác cũng rất thoải mái.",
+      "buyer_name": "2***q",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01Z3UNFKlKJ8J2YcGT_!!4611686018427383872-2-rate.png",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN01wieswWv5F7J1m1Rj_!!4611686018427383872-2-rate.png",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01UMKvPgGGgCC2Yc9P_!!4611686018427383872-2-rate.png",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01Z3UNFKlKJ8J2YcGT_!!4611686018427383872-2-rate.png",
+        "https://img.alicdn.com/imgextra/i2/O1CN01wieswWv5F7J1m1Rj_!!4611686018427383872-2-rate.png",
+        "https://img.alicdn.com/imgextra/i1/O1CN01UMKvPgGGgCC2Yc9P_!!4611686018427383872-2-rate.png"
+      ]
+    },
+    {
+      "review_id": 468561970265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Mình xem review từ video của Bunny nên biết đến em tai nghe này. Đang cần một cặp tai nghe để dùng hàng ngày ở ký túc xá nên mình chốt luôn. Là người chơi hệ Hi-Fi mười năm rồi, mình coi đây như một món quà tự thưởng. Chất âm thực sự rất ấn tượng trong tầm giá, giọng hát rõ ràng và nịnh tai, ba dải âm tách bạch chứ không hề bị lấn dải, cảm giác đeo cũng rất thoải mái. Phụ kiện đi kèm có rất nhiều kích cỡ nút tai, dây cáp chắc chắn và còn được tặng thêm cả miếng thơm nữa. Tai nghe có tích hợp micro rất tiện lợi, xét về độ toàn diện thì em này thực sự vượt trội. Hy vọng độ bền và hoàn thiện của sản phẩm sẽ luôn duy trì tốt như thế này.",
+      "buyer_name": "z***1",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01Euzoq2zZ7mH8BZ3Y_!!4611686018427383027-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01hs4UTv8SaoG1mOxq_!!4611686018427383027-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01kzbPPSK5i4B1SdaC_!!4611686018427383027-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN01Euzoq2zZ7mH8BZ3Y_!!4611686018427383027-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i1/O1CN01hs4UTv8SaoG1mOxq_!!4611686018427383027-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i4/O1CN01kzbPPSK5i4B1SdaC_!!4611686018427383027-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468564804665178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm dùng tốt, có kèm theo quà tặng nhỏ xinh là miếng thơm nữa, để mình tìm hiểu cách đeo xem sao.",
+      "buyer_name": "s***9",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01oJhKRKbCCQL2BxNI_!!4611686018427382502-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01oJhKRKbCCQL2BxNI_!!4611686018427382502-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468560532765178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe xịn lắm, thiết kế rất đẹp và nghe nhạc cực kỳ ổn. Phiên bản DSP có thể tùy chỉnh âm thanh rất thú vị, khiến mình thực sự bất ngờ vì cảm nhận được sự khác biệt rõ rệt. Cấu hình âm thanh của YouTuber Rabbit thực sự đỉnh. Hãng đi kèm nhiều bộ nút tai, với tai nhỏ như mình thì dùng cặp nhỏ nhất là vừa xinh. Đeo vào rất thoải mái, đây là mẫu tai nghe in-ear êm ái nhất mà mình từng trải nghiệm.",
+      "buyer_name": "G***l",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01rKPug0PMTuH2ePHp_!!4611686018427380266-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN01rKPug0PMTuH2ePHp_!!4611686018427380266-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468562757365178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Không bị lọt âm thanh! Rất hài lòng. Kiểu đeo vành tai này không gây áp lực lên tai, mình rất thích.",
+      "buyer_name": "r***5",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN011DEM135RjPD1SdaC_!!4611686018427384603-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN011DEM135RjPD1SdaC_!!4611686018427384603-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468561473265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Không cần chỉnh sửa gì nhiều mà chất âm đã rất hay rồi, cộng thêm việc có các hiệu ứng âm thanh tùy chỉnh từ cộng đồng nữa. Rất phù hợp cho mọi nhu cầu sử dụng.",
+      "buyer_name": "x***n",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01LeUfT0ldEZJ2BxNI_!!4611686018427387716-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01LeUfT0ldEZJ2BxNI_!!4611686018427387716-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565172165178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Âm thanh tai nghe trong trẻo và chân thực, cảm giác đeo rất thoải mái, không gây đau tai. Dây dẫn mềm mại, sản phẩm thực sự chất lượng so với giá trị mang lại, rất phù hợp để nghe nhạc hàng ngày.",
+      "buyer_name": "E***j",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01tosgzW8ZdvF6DDEK~hdr~_!!4611686018427382667-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01tosgzW8ZdvF6DDEK~hdr~_!!4611686018427382667-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565503165178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Lần đầu mua loại tai nghe này, hiệu quả rất tốt làm mình thực sự kinh ngạc, chất lượng ổn áp và vô cùng tâm huyết, đánh giá tốt, âm chất thực sự đỉnh cao, cảm động phát khóc.",
+      "buyer_name": "0***b",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01XI1VRW629hE2BxHU_!!4611686018427387691-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN017hEOxr3zmMJ2BxHU_!!4611686018427387691-0-rate.jpg",
+          "status": "approved"
+        },
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01PqQRPNoYsKG77yk4_!!4611686018427387691-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01XI1VRW629hE2BxHU_!!4611686018427387691-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i2/O1CN017hEOxr3zmMJ2BxHU_!!4611686018427387691-0-rate.jpg",
+        "https://img.alicdn.com/imgextra/i4/O1CN01PqQRPNoYsKG77yk4_!!4611686018427387691-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468570747165178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Đeo rất thoải mái và không bị đau tai, âm thanh rõ ràng không có tạp âm. Trải nghiệm sử dụng thực tế vượt xa mong đợi, dùng cho nhu cầu hàng ngày là hoàn toàn ổn.",
+      "buyer_name": "E***j",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i4/O1CN01Xra9vRdH9wI2BxNI_!!4611686018427383614-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/O1CN01Xra9vRdH9wI2BxNI_!!4611686018427383614-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468568429165178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe có thiết kế rất thời trang và bắt mắt, điểm cộng lớn là jack cắm trực tiếp vào điện thoại rất tiện lợi mà không cần bộ chuyển đổi. Sản phẩm còn đi kèm túi đựng giúp việc thu dọn và bảo quản trở nên gọn gàng. Tai nghe có thiết kế ôm sát, mang lại cảm giác chắc chắn khi đeo, phù hợp cho những ai thích sự ổn định.",
+      "buyer_name": "a***s",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN01d5xs9kpFbEC2BxNI_!!4611686018427384050-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/O1CN01d5xs9kpFbEC2BxNI_!!4611686018427384050-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468567131865178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm chất lượng ổn định, hoàn toàn tương xứng với giá trị. Sẽ tiếp tục ủng hộ cửa hàng vào lần tới.",
+      "buyer_name": "D***7",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01VJqdXII4kfK2vGwq_!!4611686018427381542-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01VJqdXII4kfK2vGwq_!!4611686018427381542-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468558379565178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe đẹp, dùng rất thích, âm thanh hay, giọng hát rõ ràng, tiếng nhạc cụ sắc nét, chất lượng vượt xa mong đợi, thực sự là một sản phẩm rất tốt.",
+      "buyer_name": "c***3",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01czyTx94AP7J1SdaC_!!4611686018427381001-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01czyTx94AP7J1SdaC_!!4611686018427381001-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468566944565178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Chất âm của tai nghe khá tốt, đeo vào rất thoải mái và chắc chắn, không lo bị rơi. Ngoài ra còn được tặng kèm thêm túi nhỏ để đựng tai nghe rất tiện lợi.",
+      "buyer_name": "c***3",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01eFXvtISMDQG4g2vw_!!4611686018427383278-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01eFXvtISMDQG4g2vw_!!4611686018427383278-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565679265178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Tai nghe TANCHJIM có thiết kế tối giản và tinh tế, mang phong cách rất tri thức và thanh lịch. Về âm thanh, tai nghe thể hiện sự cân bằng với dải âm trầm ổn định và âm cao rõ ràng, mang lại trải nghiệm nghe nhạc dễ chịu, ổn định. Cảm giác đeo khá thoải mái, phù hợp để sử dụng trong thời gian dài mà không gây khó chịu. Đây là lựa chọn hợp lý cho những ai mới bắt đầu chơi tai nghe và mong muốn một sản phẩm có hiệu năng ổn định trong tầm tay.",
+      "buyer_name": "a***4",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/O1CN014cHugboACZJ2BxNI_!!4611686018427385138-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/O1CN014cHugboACZJ2BxNI_!!4611686018427385138-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468565003065178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Chất lượng sản phẩm thực sự rất tốt, mình đã mua đến lần thứ hai rồi. Chiếc đầu tiên vô tình làm mất nên mình phải đặt ngay lại cái nữa, rất đáng để sở hữu!",
+      "buyer_name": "H***v",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01gePt0QO0hTL2BxV1_!!4611686018427385423-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01gePt0QO0hTL2BxV1_!!4611686018427385423-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468562163465178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Cực kỳ xứng đáng, âm thanh trong trẻo tự nhiên, giọng hát ấm áp và sáng, âm trầm chắc gọn không bị chói tai, rất hợp để dùng với điện thoại.",
+      "buyer_name": "2***q",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i3/O1CN01ZqzXvRpXaXL3EXSA_!!4611686018427381314-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i3/O1CN01ZqzXvRpXaXL3EXSA_!!4611686018427381314-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468564219365178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Sản phẩm thực sự rất tuyệt vời, mang lại cảm giác ấm cúng của lễ hội và đúng như những gì mình đã mong đợi từ lâu.",
+      "buyer_name": "m***8",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i1/O1CN01R6QU4PbuhfJ5p21U_!!4611686018427385064-0-rate.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i1/O1CN01R6QU4PbuhfJ5p21U_!!4611686018427385064-0-rate.jpg"
+      ]
+    },
+    {
+      "review_id": 468562860165178,
+      "product_id": "13358765178",
+      "rating": 5,
+      "review_text": "Đây là một món đồ chơi rất thú vị, cực kỳ phù hợp để trải nghiệm nếu bạn đang muốn khám phá nhiều phong cách âm thanh khác nhau. Một lưu ý nhỏ là khi điều chỉnh hoặc lưu cấu hình trên máy tính, bạn nên tạm thời bỏ tai nghe ra để có trải nghiệm âm thanh ổn định và thoải mái nhất.",
+      "buyer_name": "2***c",
+      "likes": 0,
+      "created_at": "2 weeks ago",
+      "sku_info": null,
+      "source": "LAZADA",
+      "sample_type": "HIGH_RATING",
+      "images": [
+        {
+          "full_path": "https://img.alicdn.com/imgextra/i2/3018826287/O1CN01NP0TwzXxBOL68gFc~livephoto~_!!3018826287-0-rate_livephoto.jpg",
+          "status": "approved"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/3018826287/O1CN01NP0TwzXxBOL68gFc~livephoto~_!!3018826287-0-rate_livephoto.jpg"
+      ]
+    }
+  ],
+  "stopped_by_validate": false,
+  "last_error": ""
+}

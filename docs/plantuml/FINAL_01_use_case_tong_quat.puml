@@ -1,0 +1,51 @@
+@startuml
+left to right direction
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam packageStyle rectangle
+skinparam usecase {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+  FontSize 15
+}
+skinparam actor {
+  FontSize 15
+}
+
+title HỆ THỐNG ĐÁNH GIÁ PHẢN HỒI KHÁCH HÀNG
+
+actor "Seller" as Seller
+actor "Admin" as Admin
+actor "System" as System
+
+rectangle "Hệ thống đánh giá phản hồi khách hàng" {
+  usecase "Thao tác khi\nmở phiên sàn" as UC01
+  usecase "Dán link\nsản phẩm" as UC02
+  usecase "Xem dashboard" as UC03
+  usecase "Xem review\nđáng chú ý" as UC04
+  usecase "Lọc review\ntheo số sao" as UC05
+
+  usecase "Theo dõi log" as UC06
+  usecase "Cấu hình\nhệ thống" as UC07
+
+  usecase "Kéo dữ liệu\nreview" as UC08
+  usecase "Phân tích\nnội dung" as UC09
+  usecase "Kiểm định\nhình ảnh" as UC10
+  usecase "Tính điểm\nđộ tin cậy" as UC11
+}
+
+Seller --> UC01
+Seller --> UC02
+Seller --> UC03
+Seller --> UC04
+Seller --> UC05
+
+Admin --> UC06
+Admin --> UC07
+
+System --> UC08
+System --> UC09
+System --> UC10
+System --> UC11
+@enduml

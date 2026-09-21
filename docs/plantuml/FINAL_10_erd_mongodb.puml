@@ -1,0 +1,75 @@
+@startuml
+skinparam shadowing false
+skinparam dpi 160
+skinparam defaultFontName Arial
+skinparam entity {
+  BackgroundColor #F8FBFC
+  BorderColor #0F6B78
+}
+
+title ERD MongoDB
+
+entity platforms {
+  * _id
+  --
+  code
+  name
+}
+
+entity products {
+  * _id
+  --
+  platform_code
+  external_product_id
+  name
+  product_url
+  image_urls
+}
+
+entity reviews {
+  * _id
+  --
+  product_id
+  external_review_id
+  rating
+  content
+  review_time
+  review_images
+  needs_seller_attention
+}
+
+entity review_aspects {
+  * _id
+  --
+  review_id
+  aspect_name
+  sentiment
+  confidence
+}
+
+entity review_trust_analyses {
+  * _id
+  --
+  review_id
+  trust_score
+  trust_label
+  evidence_level
+  seller_action
+}
+
+entity ingestion_jobs {
+  * _id
+  --
+  platform_code
+  external_product_id
+  status
+  total_reviews
+  created_at
+}
+
+platforms ||--o{ products
+products ||--o{ reviews
+reviews ||--o{ review_aspects
+reviews ||--o| review_trust_analyses
+products ||--o{ ingestion_jobs
+@enduml
